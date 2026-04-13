@@ -1,0 +1,300 @@
+---
+title: "individual differences cloze study"
+output: html_notebook
+date: october 9 2025
+---
+We want to know
+(a) whether those with higher BLP (more Eng dominant, less Sp proficient, less switching) completed more or fewer non-common completions (more means that the underlying factor of lower cloze is not being proficient in Spanish; less means that the underlying factor may be experience with the function of switching)
+(b) whether those with higher BCSP (more switching) completed more non-common completions (these tend to be more proficient in Spanish, too), so we cannot distinguish switching from spanish prof, but can at least see what the direction of these effects are
+
+
+To do:
+1. merge the spanish completion file with the highest cloze file;  merge with BLP/BCSP data
+2. clean, such that there is a column for Engl+transltion, and subjects/items removed
+3. code such that if response = highest = 1
+4. subset to  CS completions only
+6. glmer with BLP(centered?) as factor 
+7. glmer with BCSP(centered?) as factor 
+
+
+
+```{r libraries}
+library(tidyverse)
+library(lme4)
+library(readxl)
+```
+
+# 1 reading and merging
+
+```{r reading files and merging}
+
+highestcloze <- read_excel("Cloze_SpEng_n122_highestcloze.xlsx", 
+    sheet = "Cloze_SpEng_n122_highestcloze", 
+    range = "A1:G283")
+View(highestcloze)
+
+
+indcloze <- read_excel("CS_Spanish_completion_exp_n156_2025-09-12_coded.xlsx")
+View(indcloze)
+
+demo <- read_csv("~/Prominence_Spanish/Analysis/BSPBCSP/BLP_BSCP_Lextale_n122.csv")
+View(demo)
+
+
+cloze <- merge(indcloze, highestcloze, by=c("InnerNumber", "Item", "Itemtype"))
+
+cloze <- merge(cloze, demo, by="ID")
+
+```
+
+# cleaning
+
+```{r cleaning}
+
+
+
+# remove dropped participants
+
+
+
+#making a vector of the kept ID numbers
+
+kept_omitted <- read_table("Subjects_Kept_Omitted_2025-09-12.txt")
+#View(kept_omitted)
+colnames(kept_omitted) <- c("ID", "kept")
+kept <- kept_omitted %>% 
+  filter(kept ==1)
+keptv <- unname(unlist(kept[,1]))
+
+
+#taking omitted out of cloze data
+cloze <- cloze %>% 
+  filter (ID %in% keptv)
+
+length(unique(cloze$ID))
+
+
+#removing deleted items
+# taking out problematic items:
+
+
+drop_items=c(22, 83, 92, 127, 129, 133, 147, 69 )
+#22 espectaculo is not the same as show
+#83 imagines is not the same as pictures
+#92 carta has ambiguity not equal to cards
+#127 holster may not be known by all
+#129 esquiaba may not be known by all (?)
+#133 canilla not known by most
+#147 has syntactic ambiguity in spanish, but not in English
+#69 does not have "her" as beneficient in the Spanish version
+
+#taking omitted out of cloze data
+
+cloze <- cloze %>% 
+  filter (!(InnerNumber %in% drop_items))
+
+length(unique(cloze$InnerNumber))
+
+
+```
+
+
+
+
+# 3. code such that if response = highest = 1
+Note that cloze_clean_wtrans is the highest completion
+cloze_clean is the edited completino by the participant
+English_translation is the English translation if the completion was in Spanish
+
+```{r coding}
+
+cloze<-cloze %>% 
+  mutate(match =   case_when(
+        cloze_clean_wtrans==cloze_clean ~ 1,
+        cloze_clean_wtrans==English_translation ~ 1,
+        TRUE ~ 0)) %>% 
+  mutate(include = as.numeric(include))
+
+  
+  
+
+
+```
+
+
+```{r checking which items, part are invalid}
+cloze %>% 
+  mutate(ID=as.character(ID)) %>% 
+  group_by(ID) %>% 
+   summarize(mean=mean(include)) %>% 
+  filter(mean==0)
+
+
+cloze %>% 
+   mutate(InnerNumber=as.character(ID)) %>% 
+  group_by(InnerNumber) %>% 
+   summarize(mean=mean(include)) %>% 
+  filter(mean==0)
+
+
+
+
+```
+
+```{r filter out invalid responses}
+
+cloze<-cloze %>% 
+   filter(include ==1)   #filter out invalid responses
+  
+length(unique(cloze$InnerNumber))
+
+length(unique(cloze$ID))
+
+```
+
+
+# 6. glmer with BLP(centered) as factor 
+
+```{r subsetting}
+#subsetting to CS only
+
+clozeCS<-cloze %>%
+    filter(Itemtype=="CS")
+
+
+clozeCS$BLP.c = clozeCS$BLP - mean(clozeCS$BLP)
+clozeCS$BCSP.c = clozeCS$BCSP - mean(clozeCS$BCSP)
+clozeCS$SPLexTaleSalig.c = clozeCS$SPLexTaleSalig - mean(clozeCS$SPLexTaleSalig)
+
+
+
+```
+
+glmer
+
+```{r BLP}
+summary(model_match_BLP<- glmer(match~ BLP.c+(1|ID)+(1|InnerNumber), data=clozeCS, family=binomial)) #singularity
+model_match_BLP<- glmer(match~ BLP.c+(1|InnerNumber), data=clozeCS, family=binomial)
+
+summary(model_match_BLP)  #numerically: more English dominant (less switching, less SP proficient ), more matches, fewer other (!)
+```
+
+
+```{r BCSPP}
+# model_match_BLP<- glmer(match~ BLP+(1|ID)+(1|InnerNumber), data=clozeCS, family=binomial) #singularity
+model_match_BCSP<- glmer(match~ BCSP.c+(1|InnerNumber), data=clozeCS, family=binomial)
+
+summary(model_match_BCSP)
+
+
+model_match_BCSP_Lextale<- glmer(match~ BCSP.c+SPLexTaleSalig.c+(1|InnerNumber), data=clozeCS, family=binomial)
+
+summary(model_match_BCSP_Lextale)   # more switching, more SP proficient , more matches, fewer other (!)
+```
+
+
+glmer try random effect
+
+```{r BLP}
+model_match_BLP_re<- glmer(match~ 1+(1|ID), data=clozeCS, family=binomial)
+```
+
+
+```{r BLP ranef}
+ranef(model_match_BLP_re)
+#we saved this amnually to an excel file
+```
+
+
+```{r read in match}
+
+match_intercept <- read_excel("match_intercept.xlsx")
+View(match_intercept)
+
+match_intercept<- merge (match_intercept, demo, by="ID")
+
+cor.test(match_intercept$match_intercept, match_intercept$BLP)   #nothing
+cor.test(match_intercept$match_intercept, match_intercept$BCSP) #nothing
+cor.test(match_intercept$match_intercept, match_intercept$SPLexTaleSalig) #positive!!! so more SP proficient more match
+cor.test(match_intercept$match_intercept, match_intercept$SelfProfES) #noting 
+
+```
+
+
+# 7. Sanity check: doing thsi with English 
+
+```{r subsetting E}
+#subsetting to E only
+
+clozeE<-cloze %>%
+    filter(Itemtype=="E")
+
+
+clozeE$BLP.c = clozeE$BLP - mean(clozeE$BLP)
+clozeE$BCSP.c = clozeE$BCSP - mean(clozeE$BCSP)
+clozeE$SPLexTaleSalig.c = clozeE$SPLexTaleSalig - mean(clozeE$SPLexTaleSalig)
+
+
+
+```
+
+glmer try random effect
+
+```{r BLP}
+model_matchE_BLP_re<- glmer(match~ 1+(1|ID), data=clozeE, family=binomial)
+```
+
+
+```{r BLP ranef}
+ranef(model_matchE_BLP_re)
+#we saved this manually to an excel file "matchE_intercept.xlsx"
+```
+
+```{r read in match}
+
+matchE_intercept <- read_excel("matchE_intercept.xlsx")
+View(matchE_intercept)
+
+matchE_intercept<- merge (matchE_intercept, demo, by="ID")
+
+cor.test(matchE_intercept$matchE_intercept, matchE_intercept$BLP)   #nothing
+cor.test(matchE_intercept$matchE_intercept, matchE_intercept$BCSP) #nothing
+cor.test(matchE_intercept$matchE_intercept, matchE_intercept$SPLexTaleSalig) #positive!!! so more SP proficient more match
+cor.test(matchE_intercept$matchE_intercept, matchE_intercept$SelfProfES) #noting 
+
+```
+
+
+
+# 8. looking at both CS and English 
+
+```{r cloze contrast}
+cloze$Itemtype = as.factor(cloze$Itemtype)
+cloze$BLP.c = cloze$BLP - mean(cloze$BLP)
+cloze$BCSP.c = cloze$BCSP - mean(cloze$BCSP)
+cloze$SPLexTaleSalig.c = cloze$SPLexTaleSalig - mean(cloze$SPLexTaleSalig)
+
+contrasts(cloze$Itemtype) <- cbind(CS_E=c(-.5, .5))  #CS is negative
+
+```
+
+glmer try random effect
+
+```{r lmer all}
+
+
+
+model_match_all_Lextale<- glmer(match~ Itemtype*SPLexTaleSalig.c+(1|ID)+(1|InnerNumber), data=cloze, family=binomial)
+
+summary(model_match_all_Lextale)
+
+
+
+model_match_all_woxLextale<- glmer(match~ Itemtype+SPLexTaleSalig.c+(1|ID)+(1|InnerNumber), data=cloze, family=binomial)
+
+summary(model_match_all_woxLextale)
+
+anova(model_match_all_Lextale,model_match_all_woxLextale )
+
+```
+
