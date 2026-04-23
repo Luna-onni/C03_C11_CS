@@ -1,0 +1,469 @@
+Group,number,inner_number,item,itemtype,Sentence_length,Sentence_words,Best_completion,Frequency,Length,Unexpected_word,Frequency,Length
+A,1,1,"Nora konnte die Nachricht nicht aufschreiben, weil sie keinen Stift hatte or a piece of",code_switching,87,15,Paper,,5,Chalk,,5
+B,2,2,"Bei der Versorgung von hospitalisierten Patienten, benötigt ein Artz oft the help of a ",code_switching,87,15,Nurse,,5,Drug,,4
+A,3,3,"Nachdem er bemerkte, dass er das Besteck für seinen Salat vergessen hatte, ging der Kunde zurück to get himself a",code_switching,113,20,Fork,,4,Napkin,,6
+B,4,4,"Das kleine Mädchen weigerte sich, schlafen zu gehen, until he told her a",code_switching,72,13,Story,,5,Secret,,6
+A,5,5,"Er hat sich selbst eine Notiz geschrieben, so that he wouldn't ",code_switching,63,12,Forget,,6,Misspeak,,8
+B,6,6,Die Häftlinge im Gefängnis were planning their,code_switching,46,7,Escape,,6,Party,,5
+A,7,7,"Giraffen sind für ihre langen Hälse bekannt, and zebras for their ",code_switching,66,12,Stripes,,7,Speed,,5
+B,8,8,"Marsha wusste, dass die Gäste noch weiter Appetithäppchen essen könnten, und zwar for at least another ",code_switching,103,17,Hour,,4,Story,,5
+A,9,9,Jeden Morgen flechtet Susan ihrer kleinen Tochter die Haare and helps her dress for,code_switching,83,14,School,,6,Success,,7
+B,10,10,Der Bräutigam nahm die Hand der Braut und steckte the ring on her,code_switching,65,13,Finger,,6,Dresser,,7
+A,11,11,Der Vater in der Küche carved the turkey with a,code_switching,47,10,Knife,,5,smile,,5
+B,12,12,"Mike tat es leid, but it was not his",code_switching,36,9,Fault,,5,car,,3
+A,13,13,"Der Lehrer sah, dass einige Schüler schummelten and wrote down their",code_switching,68,11,Names,,5,Grades,,6
+B,14,14,Maria schloss das Fenster vorne and locked the back,code_switching,51,9,Door,,4,Room,,4
+A,15,15,Man kann die Tür nicht öffnen with the wrong,code_switching,44,9,Key,,3,attitude,,8
+B,16,16,Mir hat die Show nicht gefallen so I changed the,code_switching,48,10,Channel,,7,Cast,,4
+A,17,17,"Als der Strom ausfiel, sahen wir nichts mehr and the house became",code_switching,65,12,Dark,,4,Cold,,4
+B,18,18,"Alfonso hat angefangen, mit dem Fahrrad zur Arbeit zu fahren, instead of driving his",code_switching,84,14,Car,,3,Friends,,7
+A,19,19,Ein Hund in guter Gesundheit has a good sense of,code_switching,48,10,Smell,,5,loyalty,,7
+B,20,20,Die meisten Menschen in unserem Land spend December 25th with their,code_switching,67,11,Family,,6,Presents,,8
+A,21,21,Sie sahen den Blitz and clearly heard the,code_switching,41,8,Thunder,,7,screams,,7
+B,22,22,"Sie musste den Film verlassen, denn the baby started to",code_switching,55,10,Cry,,3,Smell,,5
+A,23,23,"Ich begrüßte ihn, aber I could not remember his",code_switching,47,9,Name,,4,song,,4
+B,24,24,"Obwohl sie es klingeln hörte, war Nancy zu beschäftigt damit, den Kamin zu reinigen, to get the",code_switching,95,17,Phone,,5,Timer,,5
+A,25,25,"Nachdem der Hurrikan das Fenster zerstört hatte, war das Zimmer filled with broken",code_switching,82,13,Glass,,5,Toys,,4
+B,26,26,Der unhöfliche Kellner im Restaurant was not given a,code_switching,52,9,Tip,,3,tray,,4
+A,27,27,"Dass er aufgewachsen war im Süden, you could tell by his",code_switching,56,11,Accent,,6,clothes,,7
+B,28,28,"Sei vorsichtig, denn der obere Teil of the stove is very ",code_switching,57,12,Hot,,3,dirty,,5
+A,29,29,"Wenn du ins Bett gehst, turn off the",code_switching,36,8,Lights,,6,Sarcasm,,7
+B,30,30,Paul malte den Anzug des Clowns blau und gab him a big red,code_switching,58,13,Nose,,4,balloon,,7
+A,31,31,Bill sprang in den See and made a big,code_switching,37,9,Splash (?),,10,commotion,,9
+B,32,32,"Sein Chef in der Firma, in der er nachmittags arbeitet, refused to give him a",code_switching,77,15,Raise,,5,drink,,5
+A,33,33,"Er wusste, dass er Chris anrufen konnte, auch in the middle of the",code_switching,66,13,Night,,5,game,,4
+B,34,34,Die Kinder der Schule vor meinem Haus went outside to,code_switching,53,10,Play,,4,look,,4
+A,35,35,Die junge Mutter aus der Nachbarschaft fütterte her baby some warm,code_switching,66,11,Milk,,4,peas,,4
+B,36,36,"Die Schulen wurden geschlossen, weil die Lehrer beschlossen to go on",code_switching,68,11,Strike,,6,Praying,,7
+A,37,37,"Nur wenige Minuten nach seiner Ankunft im Büro, verschüttete der Detective his thermos full of",code_switching,94,15,Coffee,,6,Scotch,,6
+B,38,38,Mein Mitbewohner aus Berlin ließ the dirty dishes in the,code_switching,56,10,Sink,,4,trunk,,5
+A,39,39,"Richard hatte Angst, nahe am Rand der Klippe zu gehen, because he was afraid to ",code_switching,80,16,"Fall (fallen, also stürzen)",,27,Vomit,,5
+B,40,40,Die Mathelehrerin der vierten Klasse konnte nicht gut sehen without her thick,code_switching,77,12,Glasses,,7,dictionary,,10
+A,41,41,Die meisten Haiangriffe passieren very close to,code_switching,47,7,Shore,,5,winter,,6
+B,42,42,Alle hupten den alten Mann an who was driving too,code_switching,49,10,Slowly,,6,Erratically,,11
+A,43,43,Keine seiner Geschichten made any real,code_switching,38,6,Sense,,5,fans,,4
+B,44,44,Der Sekretär des Büros schickte the letter without a,code_switching,52,9,Stamp,,5,hesitation,,10
+A,45,45,Die Kühe liefen von der Sonne weg into the cool,code_switching,47,10,Shade,,5,mud,,3
+B,46,46,Der Mann nebenan spielte his stereo much too,code_switching,44,8,Loud,,4,late,,4
+A,47,47,Die Jungen spielten Murmeln and the girls jumped,code_switching,48,8,Rope,,4,together,,8
+B,48,48,Der Surfer aus Hawaii fiel von seinem Surfboard after the first big,code_switching,67,12,Wave,,4,bully,,5
+C,49,49,Tim warf einen Stein and broke the,code_switching,34,7,Window,,6,Camera,,6
+D,50,50,Steve verschüttete Kaffee all over his white,code_switching,44,7,Shirt,,5,couch,,5
+C,51,51,"Er entschied sich, im Iran zu reisen, obwohl er wusste, it could be",code_switching,67,13,Dangerous,,9,Expensive,,9
+D,52,52,"Kalte, feuchte Witterung lässt ihre Gelenke schmerzen, deshalb nahm sie some aspirin for the",code_switching,92,14,Pain,,4,race,,4
+C,53,53,"Bevor sie ankam, öffnete er eine Flasche Wein and put on some soft",code_switching,66,13,Music,,5,Slippers,,8
+D,54,54,Das Schiff mit den weißen Segeln verschwand into the thick,code_switching,58,10,Fog,,3,smoke,,5
+C,55,55,"Ron kaufte ein Brett für das Fenster, das zu lang war, und dann kaufte er eins, that was way too",code_switching,96,20,Short,,5,Ugly,,4
+D,56,56,"Als das Wetter wärmer wurde, begann Mark, seine leichtere Jacke zu tragen, und zwar nicht his heavy winter",code_switching,106,18,Coat,,4,Underwear,,9
+C,57,57,Er kaufte ihr eine Perlenkette for her,code_switching,38,7,Birthday,,8,collection,,10
+D,58,58,Der junge Mann im Park must keep his pet on a,code_switching,45,11,Leash,,5,diet,,4
+C,59,59,"Rachel liebt den Geruch von Tabak, but she can't stand all the",code_switching,62,12,Smoke,,5,lectures,,8
+D,60,60,"Er hatte gerade genug Zeit, einen Kuchen zu kaufen und sich umzuziehen before the guests",code_switching,88,15,Arrived,,7,Phoned,,6
+C,61,61,Das Eichhörnchen versteckte ein paar Nüsse in the big,code_switching,53,9,Tree,,4,basement,,8
+D,62,62,Jeden morgen vor der Schule legte seine Mutter seine Kleidung raus and packed his,code_switching,81,14,Lunch,,5,Clarinet,,8
+C,63,63,"Er kündigte seinen Job und verließ seine Familie, so he could sail around the",code_switching,77,14,World,,5,Clock,,5
+D,64,64,Berühre auf gar keinen Fall the sticky wet,code_switching,42,8,Paint,,5,clothes,,7
+C,65,65,"Katzen lieben es, gekrault zu werden behind the",code_switching,47,8,Ears,,4,Collar,,6
+D,66,66,Die weiße Möve tauchte ab and caught a,code_switching,38,8,Fish,,4,draft,,5
+C,67,67,John fegte den Boden with a long,code_switching,32,7,Broom,,5,flourish,,8
+D,68,68,"Ihm war die ganze Nacht kalt, bis er schließlich aufstand to get another",code_switching,72,13,Blanket,,7,log,,3
+C,69,69,"Anfangs lehnte der Junge es ab, aber eventually he changed his ",code_switching,63,12,Mind,,4,medication,,10
+D,70,70,Rafael möchte den Wald schützen by guarding every,code_switching,50,8,Tree,,4,Campsite,,8
+C,71,71,Es gab bunte Bilder on every single,code_switching,35,7,Wall,,4,Card,,4
+D,72,72,Pam hatte am Ende der Reise no more clothes to,code_switching,46,10,Wear,,4,mend,,4
+C,73,73,Sie züchteten Schweine on their,code_switching,31,5,Farm,,4,own,,3
+D,74,74,Er entschied sich für deutschen Wein because the imported stuff was too,code_switching,71,12,Expensive,,9,Bitter,,6
+C,75,75,"Simon denkt, dass es ok ist, sich laute Musik anzuhören, even if his door is",code_switching,76,15,Open,,4,broken,,6
+D,76,76,Seine Haut war knallrot from spending time at the,code_switching,49,9,Beach,,5,Farm,,4
+C,77,77,Phil nutzte die Pipette und tat einige drops in his,code_switching,51,10,Eyes,,4,fishtank,,8
+D,78,78,"Der Oberst wünschte sich der Feldwebel würde seine Befehle nicht als höfliche Bitte wahrnehmen, but as a direct",code_switching,111,18,Order,,5,Reprimand,,9
+C,79,79,Sharon trocknete die Schüsseln with a big,code_switching,41,7,Towel,,5,sigh,,4
+D,80,80,Misch die Karten thoroughly before you,code_switching,38,6,Deal,,4,forget,,6
+C,81,81,"Esther dachte nicht, dass das Schwert gefährlich war, because it wasn't very",code_switching,76,12,Sharp,,5,heavy,,5
+D,82,82,Das Kleinkind schrie ununterbrochen and upset her,code_switching,49,7,Mother,,6,stomach,,7
+C,83,83,Die Mieter entschieden sich nach weiter steigenden Mietpreisen to take their landlord to,code_switching,89,13,Court,,5,breakfast,,9
+D,84,84,"Als George nicht in sein Auto kam, kniete er sich hin und suchte under the bumper for the spare",code_switching,95,19,Key,,3,Cash,,4
+C,85,85,Die Bauarbeiterin hatte sehr muskulöse Arme bekommen from unloading cement from the,code_switching,83,12,Truck,,5,Dock,,4
+D,86,86,Es war ihr immer wichtig to be on,code_switching,33,8,Time,,4,guard,,5
+C,87,87,Die Katze lag gerne curled up in Jill's,code_switching,40,8,Lap,,3,Hamper,,6
+D,88,88,Unsere lang erwarteten Gäste should be arriving,code_switching,47,7,Soon,,4,hungry,,6
+C,89,89,Jede Nacht um Mitternacht machten the boy scouts a huge,code_switching,55,10,Fire,,4,Igloo,,5
+D,90,90,"Es regnet und ich habe alles vergessen: my coat, hat, and",code_switching,57,11,Umbrella,,8,keys,,4
+C,91,91,Ich ließ mir vor kurzem eine neue Musikanlage einbauen in my brand new,code_switching,70,13,Car,,3,Office,,6
+D,92,92,"Die Umzugsleute schienen es sehr zu genießen, to toss the boxes marked",code_switching,70,12,Fragile,,7,Ohio,,4
+C,93,93,An heißen Tagen sonnen sich viele Leute on the nearest,code_switching,54,10,Beach,,5,roof,,4
+D,94,94,Er mochte Zitrone und Zucker in his hot,code_switching,39,8,Tea,,3,sauce,,5
+C,95,95,Es ist schwer zuzugeben when one is,code_switching,35,7,Wrong,,5,scared,,6
+D,96,96,Nach dem Abendessen verbrachten sie viel Zeit over coffee just,code_switching,62,10,Talking,,7,Staring,,7
+E,97,97,Der biologische Dünger helped enrich the,code_switching,40,6,Soil,,4,stink,,5
+F,98,98,Das Problem mit meinem Freund Paul ist that he can't take a,code_switching,59,12,Joke,,4,test,,4
+E,99,99,Die zwei Räuber trugen Waffen but they didn't,code_switching,45,8,Shoot,,5,Panic,,5
+F,100,100,"Nach zwei Stunden harter Arbeit entschieden sie, to take a short",code_switching,64,11,Break,,5,Jog,,3
+E,101,101,Vorsichtig platzierte er the violin under his,code_switching,45,7,Chin,,4,Chair,,5
+F,102,102,Er legte eine saubere Decke on the clean,code_switching,40,8,Bed,,3,chair / floor / sofa,,20
+E,103,103,"Sie entschieden, ein kleines Haus zu kaufen und bauten an addition with two more",code_switching,80,14,Rooms,,5,Freezers,,8
+F,104,104,"Cindy brachte ihrer zweijährigen Tochter bei, dass Bilder quadratisch sind and that the plates are",code_switching,98,15,Round,,5,White,,5
+E,105,105,"Während die Nationalhymne läuft, soll man Respekt zeigen and everyone is expected to",code_switching,84,13,Stand,,5,behave,,6
+F,106,106,Nach dem Abendessen standen sie auf and washed the,code_switching,50,9,Dishes,,6,dog,,3
+E,107,107,Er kratzte nach dem Mittagessen the cold food from his,code_switching,54,10,Plate,,5,floor,,5
+F,108,108,"Es gab Durchzug, weil die kalte Luft reinkam durch die Tür and all the side",code_switching,75,15,Windows,,7,Paneling,,8
+E,109,109,"Tracy und ihr Mann waren nicht katholisch, aber sie war froh, als der Priester welcomed their three",code_switching,99,17,Children,,8,Suggestions,,11
+F,110,110,"Sobald sie am Sand angekommen waren, hielt er an to take off his",code_switching,64,13,Shoes,,5,Watch,,5
+E,111,111,Peter malte die Wände der Vogelausstellung blau an to resemble the,code_switching,66,11,Sky,,3,Carpeting,,9
+F,112,112,Nach einer Ermahnung wurde der böse Junge sent to his,code_switching,53,10,Room,,4,counselor,,9
+E,113,113,"Niemand konnte Dan beim Klassentreffen wiedererkennen, because he had grown a ",code_switching,78,12,Beard,,5,foot,,4
+F,114,114,Nach dem Unfall beim Skifahren Randy broke his,code_switching,46,8,Leg,,3,glasses,,7
+E,115,115,Das alte Klavier aus Italien was out of,code_switching,39,8,Tune,,4,place,,5
+F,116,116,Das Kind kam auf die Welt with a rare,code_switching,37,9,Disease,,7,gift,,4
+E,117,117,Sie zog ihren Kopf unter dem Wasserhahn hervor and reached for a,code_switching,64,12,Towel,,5,Pill,,4
+F,118,118,Er schlich sich in den room without a,code_switching,38,8,Sound,,5,plan,,4
+E,119,119,Der Ausgang war gekennzeichnet by a large,code_switching,41,7,Sign,,4,rock,,4
+F,120,120,Joe ging zum Baumarkt und kaufte Ersatzfenster at twice the original,code_switching,68,11,Price,,5,Thickness,,9
+E,121,121,Sam konnte nicht glauben dass her story was,code_switching,43,8,TRUE,,4,published,,9
+F,122,122,The Hausordnung erlaubte es Besuchern nicht to feed the,code_switching,56,9,Animals,,7,Children,,8
+E,123,123,Als Daniela ungeplannt im Restaurant auftachte gab Laurie ihm einen Stuhl from the adjacent,code_switching,92,14,Table,,5,Patio,,5
+F,124,124,"Sie dachte tatsächlich ernsthaft, dass she had seen a",code_switching,53,9,Ghost,,5,Ship,,4
+E,125,125,"Nachdem der Juwelier gefragt wurde, überprüfte er the ring's huge",code_switching,65,10,Diamond,,7,Crack,,5
+F,126,126,Morgens trinkt er immer Tee und benutzt ein besonderes Sieb to catch the loose,code_switching,78,14,leaves,,6,,,0
+E,127,127,"Sie hat ein neues Anti-Virus-Programm installiert und ist nun überzeugt davon, that her laptop is",code_switching,97,15,protected,,9,,,0
+F,128,128,"Sie brauchte ein bestimmtes Ladekabel, aber could not find it inside her",code_switching,72,12,bag,,3,,,0
+E,129,129,Er nahm sich einen kleinen Taschenrechner und typed in some,code_switching,59,10,"numbers, digits",,15,,,0
+F,130,130,Er holt einen neuen Korkenzieher and opened the,code_switching,48,8,bottle,,6,,,0
+E,131,131,"Sie klappt einen großen Wäscheständer auf, to dry the ",code_switching,54,10,laundry,,7,,,0
+F,132,132,Sie schnappte sich am Waschbecken eine große Kanne and filled it with,code_switching,70,12,water,,5,,,0
+E,133,133,Er leiht sich von Petra eine gute Fahrradpumpe to inflate the,code_switching,62,11,tires,,5,,,0
+F,134,134,Er kaufte sich einen neuen Rasierer to trim his,code_switching,48,9,beard,,5,,,0
+E,135,135,Er nahm sich ein neues Taschentuch to wipe his,code_switching,47,9,nose,,4,,,0
+F,136,136,"Er besorgt sich im Alter eine neue Lesebrille, to read the ",code_switching,59,12,newspaper,,9,,,0
+E,137,137,Im Supermarkt nahm er sich einen großen Einkaufswagen und started filling it with,code_switching,81,13,grocieres,,9,,,0
+F,138,138,Sie braucht einen maßgefertigten Rollstuhl with an electric,code_switching,60,8,motor,,5,,,0
+E,139,139,Sie nahm beim Backen ein Sieb und verteilte den powdered sugar over the,code_switching,71,13,cake,,4,,,0
+F,140,140,Sie nahm sich einen neuen Stift to take some,code_switching,44,9,photos,,6,,,0
+E,141,141,Das Mädchen holte sich einen luxuriösen Fön and dried her,code_switching,59,10,notes,,5,,,0
+F,142,142,"Um die ungewöhnliche Bakterie sorgfältig untersuchen zu können, kaufte sich die Biologin a more powerful ",code_switching,105,16,,,0,,,0
+E,143,143,"Da der hölzerne Gartenstuhl eine harte Sitzfläche hatte, holte Karen a soft, fluffy ",code_switching,84,14,,,0,,,0
+F,144,144,"Weil Tom nach Indien gehen und dort ein Jahr arbeiten möchte, he applies for a ",code_switching,79,16,,,0,,,0
+B,145,1,Nora couldn't take the message because she didn't have a pencil or a piece of,English,77,15,,,0,,,0
+A,146,2,"In caring for hospitalized patients, a doctor often needs the help of a",English,71,13,,,0,,,0
+B,147,3,"After realizing he forgot utensils for his salad, the customer went back to get himself a",English,89,16,,,0,,,0
+A,148,4,The little girl refused to go to sleep until he told her a,English,58,13,,,0,,,0
+B,149,5,He wrote himself a note so that he wouldn't,English,43,9,,,0,,,0
+A,150,6,The inmates in prison were planning their,English,41,7,,,0,,,0
+B,151,7,Giraffes are known for their long necks and zebras for their,English,60,11,,,0,,,0
+A,152,8,Marsha knew the guests could remain eating appetizers for at least another,English,75,12,,,0,,,0
+B,153,9,Every morning Susan braids her little daughter's hair and helps her dress for,English,77,13,,,0,,,0
+A,154,10,The groom took the bride's hand and placed the ring on her,English,58,12,,,0,,,0
+B,155,11,"In the kitchen, Father carved the turkey with a",English,47,9,,,0,,,0
+A,156,12,"Mike felt sorry, but it was not his",English,35,8,,,0,,,0
+B,157,13,The teacher saw that some students were cheating and wrote down their,English,69,12,,,0,,,0
+A,158,14,Maria shut the front window and locked the back,English,47,9,,,0,,,0
+B,159,15,You can't open the door with the wrong,English,38,8,,,0,,,0
+A,160,16,I didn't like the show so I changed the,English,39,9,,,0,,,0
+B,161,17,When the power went out we couldn't see anything and the house became,English,69,13,,,0,,,0
+A,162,18,Alfonso has started biking to work instead of driving his,English,57,10,,,0,,,0
+B,163,19,A dog in good health has a good sense of,English,40,10,,,0,,,0
+A,164,20,Most people in our country spend December 25th with their,English,57,10,,,0,,,0
+B,165,21,They saw the lightening and clearly heard the,English,45,8,,,0,,,0
+A,166,22,She had to leave the movie when the baby started to,English,51,11,,,0,,,0
+B,167,23,"I greeted him, but I could not remember his",English,43,9,,,0,,,0
+A,168,24,"Although she heard it ringing, Nancy was too busy cleaning the chimney to get the",English,81,15,,,0,,,0
+B,169,25,"After the hurricane shattered the window, the room was filled with broken",English,73,12,,,0,,,0
+A,170,26,The rude waiter in the restaurant was not given a,English,49,10,,,0,,,0
+B,171,27,That he had grown up in the South you could tell by his,English,55,13,,,0,,,0
+A,172,28,Be careful because the top of the stove is very,English,48,10,,,0,,,0
+B,173,29,When you go to bed turn off the,English,31,8,,,0,,,0
+A,174,30,Paul painted the clown's suit blue and gave him a big red,English,57,12,,,0,,,0
+B,175,31,Bill jumped in the lake and made a big,English,38,9,,,0,,,0
+A,176,32,The boss of the store where he worked afternoons refused to give him a,English,70,14,,,0,,,0
+B,177,33,"He knew that he could call Chris, even in the middle of the",English,59,13,,,0,,,0
+A,178,34,The children from the school across from my house went outside to,English,65,12,,,0,,,0
+B,179,35,The young mother in the neighborhood fed her baby some warm,English,59,11,,,0,,,0
+A,180,36,The schools closed down because the teachers decided to go on,English,61,11,,,0,,,0
+B,181,37,"Within minutes of arriving at the office, the detective spilled his thermos full of",English,83,14,,,0,,,0
+A,182,38,My roommate from Berlin left the dirty dishes in the,English,52,10,,,0,,,0
+B,183,39,Richard was afraid to walk near the edge of the cliff because he was afraid to,English,78,16,,,0,,,0
+A,184,40,The fourth grade math teacher could not see well without her thick,English,66,12,,,0,,,0
+B,185,41,Most shark attacks occur very close to,English,38,7,,,0,,,0
+A,186,42,Everyone was honking at the old man who was driving too,English,55,11,,,0,,,0
+B,187,43,None of his stories made any real,English,33,7,,,0,,,0
+A,188,44,The office secretary mailed the letter without a,English,48,8,,,0,,,0
+B,189,45,The cows moved from the sun into the cool,English,41,9,,,0,,,0
+A,190,46,The man downstairs played his stereo much too,English,45,8,,,0,,,0
+B,191,47,The boys played marbles and the girls jumped,English,44,8,,,0,,,0
+A,192,48,The surfer from Hawaii fell off his surfboard after the first big,English,65,12,,,0,,,0
+D,193,49,Tim threw a rock and broke the,English,30,7,,,0,,,0
+C,194,50,Steve spilled coffee all over his white,English,39,7,,,0,,,0
+D,195,51,He decided to travel to Iran even though he knew it could be,English,60,13,,,0,,,0
+C,196,52,Cold damp weather makes her joints ache so she took some aspirin for the,English,72,14,,,0,,,0
+D,197,53,"Before she arrived, he opened a bottle of wine and put on some soft",English,67,14,,,0,,,0
+C,198,54,The ship with the white sails disappeared into the thick,English,56,10,,,0,,,0
+D,199,55,Ron bought a board for the window that was too long and then he bought one that was way too,English,91,20,,,0,,,0
+C,200,56,"As the weather got warmer, Mark started wearing his lighter jacket instead of his heavy winter",English,94,16,,,0,,,0
+D,201,57,He bought her a pearl necklace for her,English,38,8,,,0,,,0
+C,202,58,The young man in the park must keep his pet on a,English,48,12,,,0,,,0
+D,203,59,Rachel loves the smell of tobacco but she can't stand all the,English,61,12,,,0,,,0
+C,204,60,He had just enough time to buy a cake from the store and change his clothes before the guests,English,93,19,,,0,,,0
+D,205,61,The squirrel stored some nuts in the big,English,40,8,,,0,,,0
+C,206,62,Every morning before school his mother laid out his clothes and packed his,English,74,13,,,0,,,0
+D,207,63,He quit his job and left his family so that he could sail around the,English,68,15,,,0,,,0
+C,208,64,"In any case, don't touch the sticky wet",English,39,8,,,0,,,0
+D,209,65,Cats loved to be scratched behind the,English,37,7,,,0,,,0
+C,210,66,The white seagull dove down and caught a,English,40,8,,,0,,,0
+D,211,67,John swept the floor with a long,English,32,7,,,0,,,0
+C,212,68,He was cold most of the night and finally got up to get another,English,63,14,,,0,,,0
+D,213,69,"At first the boy refused, but eventually he changed his",English,55,10,,,0,,,0
+C,214,70,Rafael wants to preserve the forest by guarding every,English,54,9,,,0,,,0
+D,215,71,There were colorful pictures on every single,English,44,7,,,0,,,0
+C,216,72,"At the end of the trip, Pam had no more clothes to",English,50,12,,,0,,,0
+D,217,73,They raised pigs on their,English,25,5,,,0,,,0
+C,218,74,He settled for German wine because the imported stuff was too,English,61,11,,,0,,,0
+D,219,75,Simon thinks it's ok to listen to loud music even if his door is,English,64,14,,,0,,,0
+C,220,76,His skin was bright red from spending time at the,English,49,10,,,0,,,0
+D,221,77,Phil used the dropper to put some drops in his,English,46,10,,,0,,,0
+C,222,78,The colonel wished the sergeant would treat his command not as a polite request but as a direct,English,95,18,,,0,,,0
+D,223,79,Sharon dried the bowls with a big,English,33,7,,,0,,,0
+C,224,80,Shuffle the cards thoroughly before you,English,39,6,,,0,,,0
+D,225,81,Esther didn't think the sword was dangerous because it wasn't very,English,66,11,,,0,,,0
+C,226,82,The child cried continuously and upset her,English,42,7,,,0,,,0
+D,227,83,"After the rents went up again, the tenants decided to take their landlord to ",English,77,15,,,0,,,0
+C,228,84,"When George couldn't get into his car, he got down on one knee and reached under the bumper for the spare",English,105,21,,,0,,,0
+D,229,85,The construction worker had developed very powerful arms from unloading cement from the,English,87,13,,,0,,,0
+C,230,86,It was important for him to be on,English,33,8,,,0,,,0
+D,231,87,The cat liked to curl up in Jill's,English,35,8,,,0,,,0
+C,232,88,Our long-awaited guests should be arriving,English,42,6,,,0,,,0
+D,233,89,Each night at midnight the boy scouts built a huge,English,50,10,,,0,,,0
+C,234,90,"It's raining, and I forgot everything: my coat, hat, and",English,56,10,,,0,,,0
+D,235,91,I just had a new sound system installed in my brand new,English,55,12,,,0,,,0
+C,236,92,The movers seemed to take great delight in tossing the boxes marked,English,67,12,,,0,,,0
+D,237,93,"On hot days, many people sun themselves on the nearest",English,54,10,,,0,,,0
+C,238,94,He liked lemon and sugar in his hot,English,35,8,,,0,,,0
+D,239,95,It's hard to admit when one is,English,30,7,,,0,,,0
+C,240,96,"After dinner, they spent a long time over coffee just",English,53,10,,,0,,,0
+F,241,97,The organic fertilizer helped enrich the,English,40,6,,,0,,,0
+E,242,98,The problem with my friend Paul is that he can't take a,English,55,12,,,0,,,0
+F,243,99,The two robbers carried guns but didn't,English,39,7,,,0,,,0
+E,244,100,After two hours of hard work they decided to take a short,English,57,12,,,0,,,0
+F,245,101,He carefully positioned the violin under his,English,44,7,,,0,,,0
+E,246,102,He put a new sheet on the clean,English,32,8,,,0,,,0
+F,247,103,They decided to buy a small home and built an addition with two more,English,68,14,,,0,,,0
+E,248,104,Cindy taught her two-year old that the pictures are square and that the plates are,English,82,15,,,0,,,0
+F,249,105,"While the national anthem is played, one needs to show respect and everyone is expected to",English,90,16,,,0,,,0
+E,250,106,After dinner they got up and washed the,English,39,8,,,0,,,0
+F,251,107,After lunch he scraped the cold food from his,English,45,9,,,0,,,0
+E,252,108,It was drafty because of the cold air leaking in through the door and all the side,English,82,17,,,0,,,0
+F,253,109,"Tracy and her husband weren't Catholic, but she was glad when the priest warmly welcomed their three",English,100,17,,,0,,,0
+E,254,110,As soon as they reached the sand he stopped to take off his,English,59,13,,,0,,,0
+F,255,111,Peter painted the walls of the bird exhibit light blue to resemble the,English,70,13,,,0,,,0
+E,256,112,"After a warning, the bad boy was sent to his",English,44,10,,,0,,,0
+F,257,113,No one at the reunion recognized Dan because he had grown a,English,60,12,,,0,,,0
+E,258,114,"After the skiing accident, Randy broke his",English,42,7,,,0,,,0
+F,259,115,The old piano from Italy was out of,English,35,8,,,0,,,0
+E,260,116,The child was born with a rare,English,30,7,,,0,,,0
+F,261,117,She pulled her head out from under the faucet and reached for a,English,63,13,,,0,,,0
+E,262,118,He crept into the room without a,English,32,7,,,0,,,0
+F,263,119,The exit was marked by a large,English,30,7,,,0,,,0
+E,264,120,Joe went to the hardware store and bought a replacement window at twice the original,English,84,15,,,0,,,0
+F,265,121,Sam could not believe her story was,English,35,7,,,0,,,0
+E,266,122,The house rules did not allow visitors to feed the,English,51,10,,,0,,,0
+F,267,123,"When Daniela arrived unexpectedly at the restaurant, Laurie got him a chair from the adjacent ",English,94,16,,,0,,,0
+E,268,124,She honestly seriously thought she had seen a,English,45,8,,,0,,,0
+F,269,125,"After the jeweler was asked, he would examine the ring's huge",English,61,11,,,0,,,0
+E,270,126,He always drinks tea in the morning and uses a special filter to catch the loose,English,80,16,,,0,,,0
+F,271,127,She installed a new anti-virus program and is now convinced that her laptop is,English,79,14,,,0,,,0
+E,272,128,"She needed a special charging cable, but could not find it inside her",English,69,13,,,0,,,0
+F,273,129,He took a small pocket calculator and typed in some,English,51,10,,,0,,,0
+E,274,130,He took a new cork screw and opened the,English,39,9,,,0,,,0
+F,275,131,He folded out a big drying rack to dry the,English,42,10,,,0,,,0
+E,276,132,She grabbed a big pitcher near the sink and filled it with,English,58,12,,,0,,,0
+F,277,133,He borrowed a good bicycle pump from Petra to inflate the,English,57,11,,,0,,,0
+E,278,134,He bought a new razor to trim his,English,33,8,,,0,,,0
+F,279,135,He got out a clean tissue to wipe his,English,37,9,,,0,,,0
+E,280,136,"When he got older, he got himself a pair of new reading glasses to read the",English,75,16,,,0,,,0
+F,281,137,In the supermarket he took a big shopping cart and started filling it with,English,74,14,,,0,,,0
+E,282,138,She needs a custom-made wheel chair with an electric,English,52,9,,,0,,,0
+F,283,139,"While baking, she took a sifter and sprinkled the powdered sugar over the",English,73,13,,,0,,,0
+E,284,140,She took her new pen to take some,English,33,8,,,0,,,0
+F,285,141,The girl got herself a fancy blowdryer and dried her,English,53,10,,,0,,,0
+E,286,142,"In order to examine the unusual bacterium carefully, the biologist bought a more powerful",English,90,14,,,0,,,0
+F,287,143,"Since the wooden garden chair had a hard seat, Karen fetched a soft, fluffy",English,75,14,,,0,,,0
+E,288,144,"Because Tom wants to go to India and work there for a year, he applies for a ",English,77,18,,,0,,,0
+A,289,filler1,Die Behörden evakuierten alle aus dem Gebiet nach den,German,53,9,,,0,,,0
+A,290,filler2,Der Techniker braucht morgens vor Schichtbeginn erstmal einen,German,61,8,,,0,,,0
+A,291,filler3,Liz und Marie saßen am Schreibtisch und besprachen das Thema für das nächste,German,44,10,,,0,,,0
+A,292,filler4,"Jeden Tag, egal ob Regen oder Sonnenschein, liefen die Jogger den Weg durch den",German,76,14,,,0,,,0
+A,293,filler5,Wegen seiner erhöhten Bildschirmzeit entzogen seine Eltern ihm das,German,79,14,,,0,,,0
+A,294,filler6,Sie installierten eine sehr teure Alarmanlage zum Schutz ihres,German,66,18,,,0,,,0
+A,295,filler7,Die Schlösser waren verrostet und er öffnete sie mit einem,German,62,9,,,0,,,0
+A,296,filler8,Als Erinnerung an das erste Bad seiner Katze hatte er einen Kratzer am,German,58,8,,,0,,,0
+A,298,filler10,Die Lagerarbeiter verstauten viele leere Kisten auf dem,German,56,8,,,0,,,0
+A,299,filler11,Sie ließ das kleine Kind alleine im,German,35,7,,,0,,,0
+A,300,filler12,"Der Mann, der in die Notaufnahme getragen wurde, hatte eine",German,59,10,,,0,,,0
+A,301,filler13,"Da ich verhindert war, gab die Anwältin meinem Sekretär die",German,59,10,,,0,,,0
+A,302,filler14,Nach einem langen Arbeitstag legte sie sich aufs,German,48,8,,,0,,,0
+A,303,filler15,"Das Letzte, was sie sich an ihrem Hochzeitstag gewünscht hatten, war ein",German,72,12,,,0,,,0
+A,304,filler16,"Der Lastwagen, den David fuhr, krachte gegen die",German,49,8,,,0,,,0
+A,305,filler17,Auf dem Sportplatz neben dem Strand sah sie einen Mann mit einem,German,64,12,,,0,,,0
+A,306,filler18,"Nachdem sie in Rente gegangen war, reiste Yoko nach Europa mit ihrer ",German,69,13,,,0,,,0
+A,307,filler19,"Als er ein Kind war, sammelte er gerne",German,38,8,,,0,,,0
+A,308,filler20,"Da das Wasser auf der Insel unsicher war und sie Angst hatten, Krankheiten zu bekommen, tranken sie nur",German,103,18,,,0,,,0
+A,309,filler21,"Nachdem sie den ganzen Nachmittag draußen gespielt hatte, wischte sie sich den Schweiß von der",German,94,15,,,0,,,0
+A,310,filler22,Nach wochenlangem Aufschieben machte ich endlich einen Termin beim,German,66,9,,,0,,,0
+A,311,filler23,Sie kaufte mehrere bunte Postkarten und schickte sie an ihre,German,75,#REF!,,,0,,,0
+A,312,filler24,Sie trug dicke Wollsocken und ihre festesten Stiefel und wanderte in den,German,60,13,,,0,,,0
+A,313,filler25,Sie standen auf der Brücke und fütterten die,German,72,8,,,0,,,0
+B,314,filler1,Die Behörden evakuierten alle aus dem Gebiet nach den,German,53,9,,,0,,,0
+B,315,filler2,Der Techniker braucht morgens vor Schichtbeginn erstmal einen,German,61,8,,,0,,,0
+B,316,filler3,Liz und Marie saßen am Schreibtisch und besprachen das Thema für das nächste,German,44,9,,,0,,,0
+B,317,filler4,"Jeden Tag, egal ob Regen oder Sonnenschein, liefen die Jogger den Weg durch den",German,76,10,,,0,,,0
+B,318,filler5,Wegen seiner erhöhten Bildschirmzeit entzogen seine Eltern ihm das,German,79,12,,,0,,,0
+B,319,filler6,Sie installierten eine sehr teure Alarmanlage zum Schutz ihres,German,66,8,,,0,,,0
+B,320,filler7,Die Schlösser waren verrostet und er öffnete sie mit einem,German,62,9,,,0,,,0
+B,321,filler8,Als Erinnerung an das erste Bad seiner Katze hatte er einen Kratzer am,German,58,8,,,0,,,0
+B,323,filler10,Die Lagerarbeiter verstauten viele leere Kisten auf dem,German,56,8,,,0,,,0
+B,324,filler11,Sie ließ das kleine Kind alleine im,German,35,7,,,0,,,0
+B,325,filler12,"Der Mann, der in die Notaufnahme getragen wurde, hatte eine",German,59,10,,,0,,,0
+B,326,filler13,"Da ich verhindert war, gab die Anwältin meinem Sekretär die",German,59,10,,,0,,,0
+B,327,filler14,Nach einem langen Arbeitstag legte sie sich aufs,German,48,8,,,0,,,0
+B,328,filler15,"Das Letzte, was sie sich an ihrem Hochzeitstag gewünscht hatten, war ein",German,72,12,,,0,,,0
+B,329,filler16,"Der Lastwagen, den David fuhr, krachte gegen die",German,49,8,,,0,,,0
+B,330,filler17,Auf dem Sportplatz neben dem Strand sah sie einen Mann mit einem,German,64,12,,,0,,,0
+B,331,filler18,"Nachdem sie in Rente gegangen war, reiste Yoko nach Europa mit ihrer ",German,69,13,,,0,,,0
+B,332,filler19,"Als er ein Kind war, sammelte er gerne",German,38,8,,,0,,,0
+B,333,filler20,"Da das Wasser auf der Insel unsicher war und sie Angst hatten, Krankheiten zu bekommen, tranken sie nur",German,103,18,,,0,,,0
+B,334,filler21,"Nachdem sie den ganzen Nachmittag draußen gespielt hatte, wischte sie sich den Schweiß von der",German,94,15,,,0,,,0
+B,335,filler22,Nach wochenlangem Aufschieben machte ich endlich einen Termin beim,German,66,9,,,0,,,0
+B,336,filler23,Sie kaufte mehrere bunte Postkarten und schickte sie an ihre,German,75,#REF!,,,0,,,0
+B,337,filler24,Sie trug dicke Wollsocken und ihre festesten Stiefel und wanderte in den,German,60,13,,,0,,,0
+B,338,filler25,Sie standen auf der Brücke und fütterten die,German,72,8,,,0,,,0
+C,339,filler1,Die Behörden evakuierten alle aus dem Gebiet nach den,German,53,9,,,0,,,0
+C,340,filler2,Der Techniker braucht morgens vor Schichtbeginn erstmal einen,German,61,8,,,0,,,0
+C,341,filler3,Liz und Marie saßen am Schreibtisch und besprachen das Thema für das nächste,German,44,9,,,0,,,0
+C,342,filler4,"Jeden Tag, egal ob Regen oder Sonnenschein, liefen die Jogger den Weg durch den",German,76,10,,,0,,,0
+C,343,filler5,Wegen seiner erhöhten Bildschirmzeit entzogen seine Eltern ihm das,German,79,12,,,0,,,0
+C,344,filler6,Sie installierten eine sehr teure Alarmanlage zum Schutz ihres,German,66,8,,,0,,,0
+C,345,filler7,Die Schlösser waren verrostet und er öffnete sie mit einem,German,62,9,,,0,,,0
+C,346,filler8,Als Erinnerung an das erste Bad seiner Katze hatte er einen Kratzer am,German,58,8,,,0,,,0
+C,348,filler10,Die Lagerarbeiter verstauten viele leere Kisten auf dem,German,56,8,,,0,,,0
+C,349,filler11,Sie ließ das kleine Kind alleine im,German,35,7,,,0,,,0
+C,350,filler12,"Der Mann, der in die Notaufnahme getragen wurde, hatte eine",German,59,10,,,0,,,0
+C,351,filler13,"Da ich verhindert war, gab die Anwältin meinem Sekretär die",German,59,10,,,0,,,0
+C,352,filler14,Nach einem langen Arbeitstag legte sie sich aufs,German,48,8,,,0,,,0
+C,353,filler15,"Das Letzte, was sie sich an ihrem Hochzeitstag gewünscht hatten, war ein",German,72,12,,,0,,,0
+C,354,filler16,"Der Lastwagen, den David fuhr, krachte gegen die",German,49,8,,,0,,,0
+C,355,filler17,Auf dem Sportplatz neben dem Strand sah sie einen Mann mit einem,German,64,12,,,0,,,0
+C,356,filler18,"Nachdem sie in Rente gegangen war, reiste Yoko nach Europa mit ihrer ",German,69,13,,,0,,,0
+C,357,filler19,"Als er ein Kind war, sammelte er gerne",German,38,8,,,0,,,0
+C,358,filler20,"Da das Wasser auf der Insel unsicher war und sie Angst hatten, Krankheiten zu bekommen, tranken sie nur",German,103,18,,,0,,,0
+C,359,filler21,"Nachdem sie den ganzen Nachmittag draußen gespielt hatte, wischte sie sich den Schweiß von der",German,94,15,,,0,,,0
+C,360,filler22,Nach wochenlangem Aufschieben machte ich endlich einen Termin beim,German,66,9,,,0,,,0
+C,361,filler23,Sie kaufte mehrere bunte Postkarten und schickte sie an ihre,German,75,#REF!,,,0,,,0
+C,362,filler24,Sie trug dicke Wollsocken und ihre festesten Stiefel und wanderte in den,German,60,13,,,0,,,0
+C,363,filler25,Sie standen auf der Brücke und fütterten die,German,72,8,,,0,,,0
+D,364,filler1,Die Behörden evakuierten alle aus dem Gebiet nach den,German,53,9,,,0,,,0
+D,365,filler2,Der Techniker braucht morgens vor Schichtbeginn erstmal einen,German,61,8,,,0,,,0
+D,366,filler3,Liz und Marie saßen am Schreibtisch und besprachen das Thema für das nächste,German,44,9,,,0,,,0
+D,367,filler4,"Jeden Tag, egal ob Regen oder Sonnenschein, liefen die Jogger den Weg durch den",German,76,10,,,0,,,0
+D,368,filler5,Wegen seiner erhöhten Bildschirmzeit entzogen seine Eltern ihm das,German,79,12,,,0,,,0
+D,369,filler6,Sie installierten eine sehr teure Alarmanlage zum Schutz ihres,German,66,8,,,0,,,0
+D,370,filler7,Die Schlösser waren verrostet und er öffnete sie mit einem,German,62,9,,,0,,,0
+D,371,filler8,Als Erinnerung an das erste Bad seiner Katze hatte er einen Kratzer am,German,58,8,,,0,,,0
+D,373,filler10,Die Lagerarbeiter verstauten viele leere Kisten auf dem,German,56,8,,,0,,,0
+D,374,filler11,Sie ließ das kleine Kind alleine im,German,35,7,,,0,,,0
+D,375,filler12,"Der Mann, der in die Notaufnahme getragen wurde, hatte eine",German,59,10,,,0,,,0
+D,376,filler13,"Da ich verhindert war, gab die Anwältin meinem Sekretär die",German,59,10,,,0,,,0
+D,377,filler14,Nach einem langen Arbeitstag legte sie sich aufs,German,48,8,,,0,,,0
+D,378,filler15,"Das Letzte, was sie sich an ihrem Hochzeitstag gewünscht hatten, war ein",German,72,12,,,0,,,0
+D,379,filler16,"Der Lastwagen, den David fuhr, krachte gegen die",German,49,8,,,0,,,0
+D,380,filler17,Auf dem Sportplatz neben dem Strand sah sie einen Mann mit einem,German,64,12,,,0,,,0
+D,381,filler18,"Nachdem sie in Rente gegangen war, reiste Yoko nach Europa mit ihrer ",German,69,13,,,0,,,0
+D,382,filler19,"Als er ein Kind war, sammelte er gerne",German,38,8,,,0,,,0
+D,383,filler20,"Da das Wasser auf der Insel unsicher war und sie Angst hatten, Krankheiten zu bekommen, tranken sie nur",German,103,18,,,0,,,0
+D,384,filler21,"Nachdem sie den ganzen Nachmittag draußen gespielt hatte, wischte sie sich den Schweiß von der",German,94,15,,,0,,,0
+D,385,filler22,Nach wochenlangem Aufschieben machte ich endlich einen Termin beim,German,66,9,,,0,,,0
+D,386,filler23,Sie kaufte mehrere bunte Postkarten und schickte sie an ihre,German,75,#REF!,,,0,,,0
+D,387,filler24,Sie trug dicke Wollsocken und ihre festesten Stiefel und wanderte in den,German,60,13,,,0,,,0
+D,388,filler25,Sie standen auf der Brücke und fütterten die,German,72,8,,,0,,,0
+E,389,filler1,Die Behörden evakuierten alle aus dem Gebiet nach den,German,53,9,,,0,,,0
+E,390,filler2,Der Techniker braucht morgens vor Schichtbeginn erstmal einen,German,61,8,,,0,,,0
+E,391,filler3,Liz und Marie saßen am Schreibtisch und besprachen das Thema für das nächste,German,44,9,,,0,,,0
+E,392,filler4,"Jeden Tag, egal ob Regen oder Sonnenschein, liefen die Jogger den Weg durch den",German,76,10,,,0,,,0
+E,393,filler5,Wegen seiner erhöhten Bildschirmzeit entzogen seine Eltern ihm das,German,79,12,,,0,,,0
+E,394,filler6,Sie installierten eine sehr teure Alarmanlage zum Schutz ihres,German,66,8,,,0,,,0
+E,395,filler7,Die Schlösser waren verrostet und er öffnete sie mit einem,German,62,9,,,0,,,0
+E,396,filler8,Als Erinnerung an das erste Bad seiner Katze hatte er einen Kratzer am,German,58,8,,,0,,,0
+E,398,filler10,Die Lagerarbeiter verstauten viele leere Kisten auf dem,German,56,8,,,0,,,0
+E,399,filler11,Sie ließ das kleine Kind alleine im,German,35,7,,,0,,,0
+E,400,filler12,"Der Mann, der in die Notaufnahme getragen wurde, hatte eine",German,59,10,,,0,,,0
+E,401,filler13,"Da ich verhindert war, gab die Anwältin meinem Sekretär die",German,59,10,,,0,,,0
+E,402,filler14,Nach einem langen Arbeitstag legte sie sich aufs,German,48,8,,,0,,,0
+E,403,filler15,"Das Letzte, was sie sich an ihrem Hochzeitstag gewünscht hatten, war ein",German,72,12,,,0,,,0
+E,404,filler16,"Der Lastwagen, den David fuhr, krachte gegen die",German,49,8,,,0,,,0
+E,405,filler17,Auf dem Sportplatz neben dem Strand sah sie einen Mann mit einem,German,64,12,,,0,,,0
+E,406,filler18,"Nachdem sie in Rente gegangen war, reiste Yoko nach Europa mit ihrer ",German,69,13,,,0,,,0
+E,407,filler19,"Als er ein Kind war, sammelte er gerne",German,38,8,,,0,,,0
+E,408,filler20,"Da das Wasser auf der Insel unsicher war und sie Angst hatten, Krankheiten zu bekommen, tranken sie nur",German,103,18,,,0,,,0
+E,409,filler21,"Nachdem sie den ganzen Nachmittag draußen gespielt hatte, wischte sie sich den Schweiß von der",German,94,15,,,0,,,0
+E,410,filler22,Nach wochenlangem Aufschieben machte ich endlich einen Termin beim,German,66,9,,,0,,,0
+E,411,filler23,Sie kaufte mehrere bunte Postkarten und schickte sie an ihre,German,75,#REF!,,,0,,,0
+E,412,filler24,Sie trug dicke Wollsocken und ihre festesten Stiefel und wanderte in den,German,60,13,,,0,,,0
+E,413,filler25,Sie standen auf der Brücke und fütterten die,German,72,8,,,0,,,0
+F,414,filler1,Die Behörden evakuierten alle aus dem Gebiet nach den,German,53,9,,,0,,,0
+F,415,filler2,Der Techniker braucht morgens vor Schichtbeginn erstmal einen,German,61,8,,,0,,,0
+F,416,filler3,Liz und Marie saßen am Schreibtisch und besprachen das Thema für das nächste,German,44,9,,,0,,,0
+F,417,filler4,"Jeden Tag, egal ob Regen oder Sonnenschein, liefen die Jogger den Weg durch den",German,76,10,,,0,,,0
+F,418,filler5,Wegen seiner erhöhten Bildschirmzeit entzogen seine Eltern ihm das,German,79,12,,,0,,,0
+F,419,filler6,Sie installierten eine sehr teure Alarmanlage zum Schutz ihres,German,66,8,,,0,,,0
+F,420,filler7,Die Schlösser waren verrostet und er öffnete sie mit einem,German,62,9,,,0,,,0
+F,421,filler8,Als Erinnerung an das erste Bad seiner Katze hatte er einen Kratzer am,German,58,8,,,0,,,0
+F,423,filler10,Die Lagerarbeiter verstauten viele leere Kisten auf dem,German,56,8,,,0,,,0
+F,424,filler11,Sie ließ das kleine Kind alleine im,German,35,7,,,0,,,0
+F,425,filler12,"Der Mann, der in die Notaufnahme getragen wurde, hatte eine",German,59,10,,,0,,,0
+F,426,filler13,"Da ich verhindert war, gab die Anwältin meinem Sekretär die",German,59,10,,,0,,,0
+F,427,filler14,Nach einem langen Arbeitstag legte sie sich aufs,German,48,8,,,0,,,0
+F,428,filler15,"Das Letzte, was sie sich an ihrem Hochzeitstag gewünscht hatten, war ein",German,72,12,,,0,,,0
+F,429,filler16,"Der Lastwagen, den David fuhr, krachte gegen die",German,49,8,,,0,,,0
+F,430,filler17,Auf dem Sportplatz neben dem Strand sah sie einen Mann mit einem,German,64,12,,,0,,,0
+F,431,filler18,"Nachdem sie in Rente gegangen war, reiste Yoko nach Europa mit ihrer ",German,69,13,,,0,,,0
+F,432,filler19,"Als er ein Kind war, sammelte er gerne",German,38,8,,,0,,,0
+F,433,filler20,"Da das Wasser auf der Insel unsicher war und sie Angst hatten, Krankheiten zu bekommen, tranken sie nur",German,103,18,,,0,,,0
+F,434,filler21,Peter painted the walls of the bird exhibit light blue to resemble the,German,94,13,,,0,,,0
+F,435,filler22,Nach wochenlangem Aufschieben machte ich endlich einen Termin beim,German,66,9,,,0,,,0
+F,436,filler23,Sie kaufte mehrere bunte Postkarten und schickte sie an ihre,German,75,#REF!,,,0,,,0
+F,437,filler24,Sie trug dicke Wollsocken und ihre festesten Stiefel und wanderte in den,German,60,13,,,0,,,0
+F,438,filler25,Sie standen auf der Brücke und fütterten die,German,72,8,,,0,,,0
+A,439,attention1,"Um sicherzugehen, dass Sie aufmerksam sind: Bitte geben Sie im Feld unten das Wort „Eule“ ein.",attention,,,,,,,,
+A,440,attention2,"Um sicherzugehen, dass Sie aufmerksam sind: Bitte geben Sie im Feld unten das Wort „Huhn“ ein.",attention,,,,,,,,
+A,441,attention3,"Um sicherzugehen, dass Sie aufmerksam sind: Please type the word ‘dog’ in the box below.",attention,,,,,,,,
+A,442,attention4,"Um sicherzugehen, dass Sie aufmerksam sind: Please type the word ‘cat’ in the box below.",attention,,,,,,,,
+A,443,attention5,To make sure you’re paying attention: Please type the word ‘frog’ in the box below.,attention,,,,,,,,
+A,444,attention6,To make sure you’re paying attention: Please type the word ‘ant’ in the box below.,attention,,,,,,,,
+B,445,attention1,"Um sicherzugehen, dass Sie aufmerksam sind: Bitte geben Sie im Feld unten das Wort „Eule“ ein.",attention,,,,,,,,
+B,446,attention2,"Um sicherzugehen, dass Sie aufmerksam sind: Bitte geben Sie im Feld unten das Wort „Huhn“ ein.",attention,,,,,,,,
+B,447,attention3,"Um sicherzugehen, dass Sie aufmerksam sind: Please type the word ‘dog’ in the box below.",attention,,,,,,,,
+B,448,attention4,"Um sicherzugehen, dass Sie aufmerksam sind: Please type the word ‘cat’ in the box below.",attention,,,,,,,,
+B,449,attention5,To make sure you’re paying attention: Please type the word ‘frog’ in the box below.,attention,,,,,,,,
+B,450,attention6,To make sure you’re paying attention: Please type the word ‘ant’ in the box below.,attention,,,,,,,,
+C,451,attention1,"Um sicherzugehen, dass Sie aufmerksam sind: Bitte geben Sie im Feld unten das Wort „Eule“ ein.",attention,,,,,,,,
+C,452,attention2,"Um sicherzugehen, dass Sie aufmerksam sind: Bitte geben Sie im Feld unten das Wort „Huhn“ ein.",attention,,,,,,,,
+C,453,attention3,"Um sicherzugehen, dass Sie aufmerksam sind: Please type the word ‘dog’ in the box below.",attention,,,,,,,,
+C,454,attention4,"Um sicherzugehen, dass Sie aufmerksam sind: Please type the word ‘cat’ in the box below.",attention,,,,,,,,
+C,455,attention5,To make sure you’re paying attention: Please type the word ‘frog’ in the box below.,attention,,,,,,,,
+C,456,attention6,To make sure you’re paying attention: Please type the word ‘ant’ in the box below.,attention,,,,,,,,
+D,457,attention1,"Um sicherzugehen, dass Sie aufmerksam sind: Bitte geben Sie im Feld unten das Wort „Eule“ ein.",attention,,,,,,,,
+D,458,attention2,"Um sicherzugehen, dass Sie aufmerksam sind: Bitte geben Sie im Feld unten das Wort „Huhn“ ein.",attention,,,,,,,,
+D,459,attention3,"Um sicherzugehen, dass Sie aufmerksam sind: Please type the word ‘dog’ in the box below.",attention,,,,,,,,
+D,460,attention4,"Um sicherzugehen, dass Sie aufmerksam sind: Please type the word ‘cat’ in the box below.",attention,,,,,,,,
+D,461,attention5,To make sure you’re paying attention: Please type the word ‘frog’ in the box below.,attention,,,,,,,,
+D,462,attention6,To make sure you’re paying attention: Please type the word ‘ant’ in the box below.,attention,,,,,,,,
+E,463,attention1,"Um sicherzugehen, dass Sie aufmerksam sind: Bitte geben Sie im Feld unten das Wort „Eule“ ein.",attention,,,,,,,,
+E,464,attention2,"Um sicherzugehen, dass Sie aufmerksam sind: Bitte geben Sie im Feld unten das Wort „Huhn“ ein.",attention,,,,,,,,
+E,465,attention3,"Um sicherzugehen, dass Sie aufmerksam sind: Please type the word ‘dog’ in the box below.",attention,,,,,,,,
+E,466,attention4,"Um sicherzugehen, dass Sie aufmerksam sind: Please type the word ‘cat’ in the box below.",attention,,,,,,,,
+E,467,attention5,To make sure you’re paying attention: Please type the word ‘frog’ in the box below.,attention,,,,,,,,
+E,468,attention6,To make sure you’re paying attention: Please type the word ‘ant’ in the box below.,attention,,,,,,,,
+F,469,attention1,"Um sicherzugehen, dass Sie aufmerksam sind: Bitte geben Sie im Feld unten das Wort „Eule“ ein.",attention,,,,,,,,
+F,470,attention2,"Um sicherzugehen, dass Sie aufmerksam sind: Bitte geben Sie im Feld unten das Wort „Huhn“ ein.",attention,,,,,,,,
+F,471,attention3,"Um sicherzugehen, dass Sie aufmerksam sind: Please type the word ‘dog’ in the box below.",attention,,,,,,,,
+F,472,attention4,"Um sicherzugehen, dass Sie aufmerksam sind: Please type the word ‘cat’ in the box below.",attention,,,,,,,,
+F,473,attention5,To make sure you’re paying attention: Please type the word ‘frog’ in the box below.,attention,,,,,,,,
+F,474,attention6,To make sure you’re paying attention: Please type the word ‘ant’ in the box below.,attention,,,,,,,,
