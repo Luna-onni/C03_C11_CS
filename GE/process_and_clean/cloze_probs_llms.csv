@@ -1,0 +1,1022 @@
+inner_number,Item,Itemtype,cloze_clean,n,total,cloze_probability,participant
+1,Nora couldn't take the message because she didn't have a pencil or a piece of,English,paper,18,18,1,claude
+1,"Nora konnte die Nachricht nicht aufschreiben, weil sie keinen Stift hatte or a piece of",code_switching,paper,19,19,1,claude
+10,Der Bräutigam nahm die Hand der Braut und steckte the ring on her,code_switching,finger,18,18,1,claude
+10,The groom took the bride's hand and placed the ring on her,English,finger,19,19,1,claude
+100,After two hours of hard work they decided to take a short,English,break,26,26,1,claude
+100,"Nach zwei Stunden harter Arbeit entschieden sie, to take a short",code_switching,break,22,22,1,claude
+101,He carefully positioned the violin under his,English,chin,22,22,1,claude
+101,Vorsichtig platzierte er the violin under his,code_switching,chin,26,26,1,claude
+102,Er legte eine saubere Decke on the clean,code_switching,bed,22,22,1,claude
+102,He put a new sheet on the clean,English,bed,26,26,1,claude
+103,"Sie entschieden, ein kleines Haus zu kaufen und bauten an addition with two more",code_switching,bedrooms,26,26,1,claude
+103,They decided to buy a small home and built an addition with two more,English,bedrooms,22,22,1,claude
+104,"Cindy brachte ihrer zweijährigen Tochter bei, dass Bilder quadratisch sind and that the plates are",code_switching,round,22,22,1,claude
+104,Cindy taught her two-year old that the pictures are square and that the plates are,English,round,26,26,1,claude
+105,"While the national anthem is played, one needs to show respect and everyone is expected to",English,stand,22,22,1,claude
+105,"Während die Nationalhymne läuft, soll man Respekt zeigen and everyone is expected to",code_switching,stand,26,26,1,claude
+106,After dinner they got up and washed the,English,dishes,26,26,1,claude
+106,Nach dem Abendessen standen sie auf and washed the,code_switching,dishes,22,22,1,claude
+107,After lunch he scraped the cold food from his,English,plate,22,22,1,claude
+107,Er kratzte nach dem Mittagessen the cold food from his,code_switching,plate,26,26,1,claude
+108,"Es gab Durchzug, weil die kalte Luft reinkam durch die Tür and all the side",code_switching,windows,22,22,1,claude
+108,It was drafty because of the cold air leaking in through the door and all the side,English,windows,26,26,1,claude
+109,"Tracy and her husband weren't Catholic, but she was glad when the priest warmly welcomed their three",English,children,22,22,1,claude
+109,"Tracy und ihr Mann waren nicht katholisch, aber sie war froh, als der Priester welcomed their three",code_switching,children,26,26,1,claude
+11,Der Vater in der Küche carved the turkey with a,code_switching,knife,19,19,1,claude
+11,"In the kitchen, Father carved the turkey with a",English,knife,18,18,1,claude
+110,As soon as they reached the sand he stopped to take off his,English,shoes,26,26,1,claude
+110,"Sobald sie am Sand angekommen waren, hielt er an to take off his",code_switching,shoes,22,22,1,claude
+111,Peter malte die Wände der Vogelausstellung blau an to resemble the,code_switching,sky,26,26,1,claude
+111,Peter painted the walls of the bird exhibit light blue to resemble the,English,sky,22,22,1,claude
+112,"After a warning, the bad boy was sent to his",English,room,26,26,1,claude
+112,Nach einer Ermahnung wurde der böse Junge sent to his,code_switching,room,22,22,1,claude
+113,No one at the reunion recognized Dan because he had grown a,English,beard,22,22,1,claude
+114,"After the skiing accident, Randy broke his",English,leg,26,26,1,claude
+114,Nach dem Unfall beim Skifahren Randy broke his,code_switching,leg,22,22,1,claude
+115,Das alte Klavier aus Italien was out of,code_switching,tune,26,26,1,claude
+115,The old piano from Italy was out of,English,tune,22,22,1,claude
+116,Das Kind kam auf die Welt with a rare,code_switching,condition,22,22,1,claude
+116,The child was born with a rare,English,disease,26,26,1,claude
+117,She pulled her head out from under the faucet and reached for a,English,towel,22,22,1,claude
+117,Sie zog ihren Kopf unter dem Wasserhahn hervor and reached for a,code_switching,towel,26,26,1,claude
+118,Er schlich sich in den room without a,code_switching,sound,22,22,1,claude
+118,He crept into the room without a,English,sound,26,26,1,claude
+119,Der Ausgang war gekennzeichnet by a large,code_switching,sign,26,26,1,claude
+119,The exit was marked by a large,English,sign,22,22,1,claude
+12,"Mike felt sorry, but it was not his",English,fault,19,19,1,claude
+12,"Mike tat es leid, but it was not his",code_switching,fault,18,18,1,claude
+120,Joe ging zum Baumarkt und kaufte Ersatzfenster at twice the original,code_switching,price,22,22,1,claude
+120,Joe went to the hardware store and bought a replacement window at twice the original,English,price,26,26,1,claude
+121,Sam could not believe her story was,English,true,22,22,1,claude
+121,Sam konnte nicht glauben dass her story was,code_switching,true,26,26,1,claude
+122,The Hausordnung erlaubte es Besuchern nicht to feed the,code_switching,animals,22,22,1,claude
+122,The house rules did not allow visitors to feed the,English,animals,26,26,1,claude
+123,Als Daniela ungeplannt im Restaurant auftachte gab Laurie ihm einen Stuhl from the adjacent,code_switching,table,26,26,1,claude
+124,She honestly seriously thought she had seen a,English,ghost,26,26,1,claude
+124,"Sie dachte tatsächlich ernsthaft, dass she had seen a",code_switching,ghost,22,22,1,claude
+125,"After the jeweler was asked, he would examine the ring's huge",English,diamond,22,22,1,claude
+125,"Nachdem der Juwelier gefragt wurde, überprüfte er the ring's huge",code_switching,diamond,26,26,1,claude
+126,He always drinks tea in the morning and uses a special filter to catch the loose,English,leaves,26,26,1,claude
+126,Morgens trinkt er immer Tee und benutzt ein besonderes Sieb to catch the loose,code_switching,leaves,22,22,1,claude
+127,She installed a new anti-virus program and is now convinced that her laptop is,English,safe,22,22,1,claude
+127,"Sie hat ein neues Anti-Virus-Programm installiert und ist nun überzeugt davon, that her laptop is",code_switching,safe,19,26,0.7307692307692307,claude
+127,"Sie hat ein neues Anti-Virus-Programm installiert und ist nun überzeugt davon, that her laptop is",code_switching,secure,7,26,0.2692307692307692,claude
+128,"She needed a special charging cable, but could not find it inside her",English,purse,26,26,1,claude
+128,"Sie brauchte ein bestimmtes Ladekabel, aber could not find it inside her",code_switching,purse,22,22,1,claude
+129,Er nahm sich einen kleinen Taschenrechner und typed in some,code_switching,numbers,26,26,1,claude
+129,He took a small pocket calculator and typed in some,English,numbers,22,22,1,claude
+13,"Der Lehrer sah, dass einige Schüler schummelten and wrote down their",code_switching,names,19,19,1,claude
+13,The teacher saw that some students were cheating and wrote down their,English,names,18,18,1,claude
+130,Er holt einen neuen Korkenzieher and opened the,code_switching,bottle,22,22,1,claude
+130,He took a new cork screw and opened the,English,bottle,26,26,1,claude
+131,He folded out a big drying rack to dry the,English,laundry,22,22,1,claude
+132,She grabbed a big pitcher near the sink and filled it with,English,water,26,26,1,claude
+132,Sie schnappte sich am Waschbecken eine große Kanne and filled it with,code_switching,water,22,22,1,claude
+133,Er leiht sich von Petra eine gute Fahrradpumpe to inflate the,code_switching,tire,26,26,1,claude
+133,He borrowed a good bicycle pump from Petra to inflate the,English,tire,22,22,1,claude
+134,Er kaufte sich einen neuen Rasierer to trim his,code_switching,beard,22,22,1,claude
+134,He bought a new razor to trim his,English,beard,26,26,1,claude
+135,Er nahm sich ein neues Taschentuch to wipe his,code_switching,nose,26,26,1,claude
+135,He got out a clean tissue to wipe his,English,nose,22,22,1,claude
+136,"When he got older, he got himself a pair of new reading glasses to read the",English,newspaper,26,26,1,claude
+137,Im Supermarkt nahm er sich einen großen Einkaufswagen und started filling it with,code_switching,groceries,26,26,1,claude
+137,In the supermarket he took a big shopping cart and started filling it with,English,groceries,22,22,1,claude
+138,She needs a custom-made wheel chair with an electric,English,motor,26,26,1,claude
+138,Sie braucht einen maßgefertigten Rollstuhl with an electric,code_switching,motor,22,22,1,claude
+139,Sie nahm beim Backen ein Sieb und verteilte den powdered sugar over the,code_switching,cake,26,26,1,claude
+139,"While baking, she took a sifter and sprinkled the powdered sugar over the",English,cake,22,22,1,claude
+14,Maria schloss das Fenster vorne and locked the back,code_switching,door,18,18,1,claude
+14,Maria shut the front window and locked the back,English,door,19,19,1,claude
+140,She took her new pen to take some,English,notes,26,26,1,claude
+140,Sie nahm sich einen neuen Stift to take some,code_switching,notes,22,22,1,claude
+141,Das Mädchen holte sich einen luxuriösen Fön and dried her,code_switching,hair,26,26,1,claude
+141,The girl got herself a fancy blowdryer and dried her,English,hair,22,22,1,claude
+142,"In order to examine the unusual bacterium carefully, the biologist bought a more powerful",English,microscope,26,26,1,claude
+143,"Since the wooden garden chair had a hard seat, Karen fetched a soft, fluffy",English,pillow,22,22,1,claude
+15,Man kann die Tür nicht öffnen with the wrong,code_switching,key,19,19,1,claude
+15,You can't open the door with the wrong,English,key,18,18,1,claude
+16,I didn't like the show so I changed the,English,channel,19,19,1,claude
+16,Mir hat die Show nicht gefallen so I changed the,code_switching,channel,18,18,1,claude
+17,"Als der Strom ausfiel, sahen wir nichts mehr and the house became",code_switching,dark,19,19,1,claude
+17,When the power went out we couldn't see anything and the house became,English,dark,18,18,1,claude
+18,Alfonso has started biking to work instead of driving his,English,car,19,19,1,claude
+18,"Alfonso hat angefangen, mit dem Fahrrad zur Arbeit zu fahren, instead of driving his",code_switching,car,18,18,1,claude
+19,A dog in good health has a good sense of,English,smell,18,18,1,claude
+19,Ein Hund in guter Gesundheit has a good sense of,code_switching,smell,19,19,1,claude
+2,"In caring for hospitalized patients, a doctor often needs the help of a",English,nurse,19,19,1,claude
+20,Die meisten Menschen in unserem Land spend December 25th with their,code_switching,families,18,18,1,claude
+20,Most people in our country spend December 25th with their,English,families,19,19,1,claude
+21,Sie sahen den Blitz and clearly heard the,code_switching,thunder,19,19,1,claude
+21,They saw the lightening and clearly heard the,English,thunder,18,18,1,claude
+22,She had to leave the movie when the baby started to,English,cry,19,19,1,claude
+22,"Sie musste den Film verlassen, denn the baby started to",code_switching,cry,18,18,1,claude
+23,"I greeted him, but I could not remember his",English,name,18,18,1,claude
+23,"Ich begrüßte ihn, aber I could not remember his",code_switching,name,19,19,1,claude
+24,"Although she heard it ringing, Nancy was too busy cleaning the chimney to get the",English,phone,19,19,1,claude
+24,"Obwohl sie es klingeln hörte, war Nancy zu beschäftigt damit, den Kamin zu reinigen, to get the",code_switching,phone,18,18,1,claude
+25,"After the hurricane shattered the window, the room was filled with broken",English,glass,18,18,1,claude
+25,"Nachdem der Hurrikan das Fenster zerstört hatte, war das Zimmer filled with broken",code_switching,glass,19,19,1,claude
+26,Der unhöfliche Kellner im Restaurant was not given a,code_switching,tip,18,18,1,claude
+26,The rude waiter in the restaurant was not given a,English,tip,19,19,1,claude
+27,"Dass er aufgewachsen war im Süden, you could tell by his",code_switching,accent,19,19,1,claude
+27,That he had grown up in the South you could tell by his,English,accent,18,18,1,claude
+28,Be careful because the top of the stove is very,English,hot,19,19,1,claude
+29,"Wenn du ins Bett gehst, turn off the",code_switching,lights,19,19,1,claude
+29,When you go to bed turn off the,English,light,18,18,1,claude
+3,"After realizing he forgot utensils for his salad, the customer went back to get himself a",English,fork,18,18,1,claude
+3,"Nachdem er bemerkte, dass er das Besteck für seinen Salat vergessen hatte, ging der Kunde zurück to get himself a",code_switching,fork,19,19,1,claude
+30,Paul malte den Anzug des Clowns blau und gab him a big red,code_switching,nose,18,18,1,claude
+30,Paul painted the clown's suit blue and gave him a big red,English,nose,19,19,1,claude
+31,Bill jumped in the lake and made a big,English,splash,18,18,1,claude
+31,Bill sprang in den See and made a big,code_switching,splash,19,19,1,claude
+32,"Sein Chef in der Firma, in der er nachmittags arbeitet, refused to give him a",code_switching,raise,18,18,1,claude
+32,The boss of the store where he worked afternoons refused to give him a,English,raise,19,19,1,claude
+33,"Er wusste, dass er Chris anrufen konnte, auch in the middle of the",code_switching,night,19,19,1,claude
+33,"He knew that he could call Chris, even in the middle of the",English,night,18,18,1,claude
+34,Die Kinder der Schule vor meinem Haus went outside to,code_switching,play,18,18,1,claude
+34,The children from the school across from my house went outside to,English,play,19,19,1,claude
+35,Die junge Mutter aus der Nachbarschaft fütterte her baby some warm,code_switching,milk,19,19,1,claude
+35,The young mother in the neighborhood fed her baby some warm,English,milk,18,18,1,claude
+36,"Die Schulen wurden geschlossen, weil die Lehrer beschlossen to go on",code_switching,strike,18,18,1,claude
+36,The schools closed down because the teachers decided to go on,English,strike,19,19,1,claude
+37,"Nur wenige Minuten nach seiner Ankunft im Büro, verschüttete der Detective his thermos full of",code_switching,coffee,19,19,1,claude
+37,"Within minutes of arriving at the office, the detective spilled his thermos full of",English,coffee,18,18,1,claude
+38,Mein Mitbewohner aus Berlin ließ the dirty dishes in the,code_switching,sink,18,18,1,claude
+38,My roommate from Berlin left the dirty dishes in the,English,sink,19,19,1,claude
+39,Richard was afraid to walk near the edge of the cliff because he was afraid to,English,fall,18,18,1,claude
+4,"Das kleine Mädchen weigerte sich, schlafen zu gehen, until he told her a",code_switching,story,18,18,1,claude
+4,The little girl refused to go to sleep until he told her a,English,story,19,19,1,claude
+40,Die Mathelehrerin der vierten Klasse konnte nicht gut sehen without her thick,code_switching,glasses,18,18,1,claude
+40,The fourth grade math teacher could not see well without her thick,English,glasses,19,19,1,claude
+41,Die meisten Haiangriffe passieren very close to,code_switching,shore,19,19,1,claude
+41,Most shark attacks occur very close to,English,shore,18,18,1,claude
+42,Alle hupten den alten Mann an who was driving too,code_switching,slow,18,18,1,claude
+42,Everyone was honking at the old man who was driving too,English,slow,19,19,1,claude
+43,Keine seiner Geschichten made any real,code_switching,sense,19,19,1,claude
+43,None of his stories made any real,English,sense,18,18,1,claude
+44,Der Sekretär des Büros schickte the letter without a,code_switching,stamp,18,18,1,claude
+44,The office secretary mailed the letter without a,English,stamp,19,19,1,claude
+45,Die Kühe liefen von der Sonne weg into the cool,code_switching,barn,19,19,1,claude
+45,The cows moved from the sun into the cool,English,shade,18,18,1,claude
+46,Der Mann nebenan spielte his stereo much too,code_switching,loud,18,18,1,claude
+46,The man downstairs played his stereo much too,English,loud,19,19,1,claude
+47,Die Jungen spielten Murmeln and the girls jumped,code_switching,rope,19,19,1,claude
+47,The boys played marbles and the girls jumped,English,rope,18,18,1,claude
+48,Der Surfer aus Hawaii fiel von seinem Surfboard after the first big,code_switching,wave,18,18,1,claude
+48,The surfer from Hawaii fell off his surfboard after the first big,English,wave,19,19,1,claude
+49,Tim threw a rock and broke the,English,window,18,18,1,claude
+49,Tim warf einen Stein and broke the,code_switching,window,17,17,1,claude
+5,He wrote himself a note so that he wouldn't,English,forget,18,18,1,claude
+50,Steve spilled coffee all over his white,English,shirt,17,17,1,claude
+50,Steve verschüttete Kaffee all over his white,code_switching,shirt,18,18,1,claude
+51,"Er entschied sich, im Iran zu reisen, obwohl er wusste, it could be",code_switching,dangerous,17,17,1,claude
+51,He decided to travel to Iran even though he knew it could be,English,dangerous,18,18,1,claude
+52,Cold damp weather makes her joints ache so she took some aspirin for the,English,pain,17,17,1,claude
+52,"Kalte, feuchte Witterung lässt ihre Gelenke schmerzen, deshalb nahm sie some aspirin for the",code_switching,pain,18,18,1,claude
+53,"Before she arrived, he opened a bottle of wine and put on some soft",English,music,18,18,1,claude
+53,"Bevor sie ankam, öffnete er eine Flasche Wein and put on some soft",code_switching,music,17,17,1,claude
+54,Das Schiff mit den weißen Segeln verschwand into the thick,code_switching,fog,18,18,1,claude
+54,The ship with the white sails disappeared into the thick,English,fog,17,17,1,claude
+55,Ron bought a board for the window that was too long and then he bought one that was way too,English,short,18,18,1,claude
+55,"Ron kaufte ein Brett für das Fenster, das zu lang war, und dann kaufte er eins, that was way too",code_switching,short,17,17,1,claude
+56,"Als das Wetter wärmer wurde, begann Mark, seine leichtere Jacke zu tragen, und zwar nicht his heavy winter",code_switching,coat,18,18,1,claude
+56,"As the weather got warmer, Mark started wearing his lighter jacket instead of his heavy winter",English,coat,17,17,1,claude
+57,Er kaufte ihr eine Perlenkette for her,code_switching,birthday,17,17,1,claude
+57,He bought her a pearl necklace for her,English,birthday,18,18,1,claude
+58,Der junge Mann im Park must keep his pet on a,code_switching,leash,18,18,1,claude
+58,The young man in the park must keep his pet on a,English,leash,17,17,1,claude
+59,"Rachel liebt den Geruch von Tabak, but she can't stand all the",code_switching,smoke,17,17,1,claude
+59,Rachel loves the smell of tobacco but she can't stand all the,English,smoke,18,18,1,claude
+6,Die Häftlinge im Gefängnis were planning their,code_switching,escape,18,18,1,claude
+6,The inmates in prison were planning their,English,escape,19,19,1,claude
+60,"Er hatte gerade genug Zeit, einen Kuchen zu kaufen und sich umzuziehen before the guests",code_switching,arrived,18,18,1,claude
+60,He had just enough time to buy a cake from the store and change his clothes before the guests,English,arrived,17,17,1,claude
+61,Das Eichhörnchen versteckte ein paar Nüsse in the big,code_switching,tree,17,17,1,claude
+61,The squirrel stored some nuts in the big,English,tree,18,18,1,claude
+62,Every morning before school his mother laid out his clothes and packed his,English,lunch,17,17,1,claude
+62,Jeden morgen vor der Schule legte seine Mutter seine Kleidung raus and packed his,code_switching,lunch,18,18,1,claude
+63,"Er kündigte seinen Job und verließ seine Familie, so he could sail around the",code_switching,world,17,17,1,claude
+63,He quit his job and left his family so that he could sail around the,English,world,18,18,1,claude
+64,Berühre auf gar keinen Fall the sticky wet,code_switching,paint,18,18,1,claude
+64,"In any case, don't touch the sticky wet",English,paint,17,17,1,claude
+65,Cats loved to be scratched behind the,English,ears,18,18,1,claude
+65,"Katzen lieben es, gekrault zu werden behind the",code_switching,ears,17,17,1,claude
+66,Die weiße Möve tauchte ab and caught a,code_switching,fish,18,18,1,claude
+66,The white seagull dove down and caught a,English,fish,17,17,1,claude
+67,John fegte den Boden with a long,code_switching,broom,17,17,1,claude
+67,John swept the floor with a long,English,broom,18,18,1,claude
+68,He was cold most of the night and finally got up to get another,English,blanket,17,17,1,claude
+68,"Ihm war die ganze Nacht kalt, bis er schließlich aufstand to get another",code_switching,blanket,18,18,1,claude
+69,"At first the boy refused, but eventually he changed his",English,mind,18,18,1,claude
+7,Giraffes are known for their long necks and zebras for their,English,stripes,18,18,1,claude
+70,Rafael möchte den Wald schützen by guarding every,code_switching,tree,18,18,1,claude
+70,Rafael wants to preserve the forest by guarding every,English,tree,17,17,1,claude
+71,Es gab bunte Bilder on every single,code_switching,page,17,17,1,claude
+71,There were colorful pictures on every single,English,page,18,18,1,claude
+72,"At the end of the trip, Pam had no more clothes to",English,wear,17,17,1,claude
+72,Pam hatte am Ende der Reise no more clothes to,code_switching,wear,18,18,1,claude
+73,Sie züchteten Schweine on their,code_switching,farm,17,17,1,claude
+73,They raised pigs on their,English,farm,18,18,1,claude
+74,Er entschied sich für deutschen Wein because the imported stuff was too,code_switching,expensive,18,18,1,claude
+74,He settled for German wine because the imported stuff was too,English,expensive,17,17,1,claude
+75,"Simon denkt, dass es ok ist, sich laute Musik anzuhören, even if his door is",code_switching,open,17,17,1,claude
+75,Simon thinks it's ok to listen to loud music even if his door is,English,open,18,18,1,claude
+76,His skin was bright red from spending time at the,English,beach,17,17,1,claude
+76,Seine Haut war knallrot from spending time at the,code_switching,beach,18,18,1,claude
+77,Phil nutzte die Pipette und tat einige drops in his,code_switching,eye,17,17,1,claude
+77,Phil used the dropper to put some drops in his,English,eyes,18,18,1,claude
+78,"Der Oberst wünschte sich der Feldwebel würde seine Befehle nicht als höfliche Bitte wahrnehmen, but as a direct",code_switching,order,18,18,1,claude
+78,The colonel wished the sergeant would treat his command not as a polite request but as a direct,English,order,17,17,1,claude
+79,Sharon dried the bowls with a big,English,towel,18,18,1,claude
+79,Sharon trocknete die Schüsseln with a big,code_switching,towel,17,17,1,claude
+8,Marsha knew the guests could remain eating appetizers for at least another,English,hour,19,19,1,claude
+80,Misch die Karten thoroughly before you,code_switching,deal,18,18,1,claude
+80,Shuffle the cards thoroughly before you,English,deal,17,17,1,claude
+81,"Esther dachte nicht, dass das Schwert gefährlich war, because it wasn't very",code_switching,sharp,17,17,1,claude
+81,Esther didn't think the sword was dangerous because it wasn't very,English,sharp,18,18,1,claude
+82,Das Kleinkind schrie ununterbrochen and upset her,code_switching,mother,18,18,1,claude
+82,The child cried continuously and upset her,English,mother,17,17,1,claude
+83,Die Mieter entschieden sich nach weiter steigenden Mietpreisen to take their landlord to,code_switching,court,17,17,1,claude
+84,"Als George nicht in sein Auto kam, kniete er sich hin und suchte under the bumper for the spare",code_switching,key,18,18,1,claude
+84,"When George couldn't get into his car, he got down on one knee and reached under the bumper for the spare",English,key,17,17,1,claude
+85,Die Bauarbeiterin hatte sehr muskulöse Arme bekommen from unloading cement from the,code_switching,truck,17,17,1,claude
+85,The construction worker had developed very powerful arms from unloading cement from the,English,truck,18,18,1,claude
+86,Es war ihr immer wichtig to be on,code_switching,time,18,18,1,claude
+86,It was important for him to be on,English,time,17,17,1,claude
+87,Die Katze lag gerne curled up in Jill's,code_switching,lap,17,17,1,claude
+87,The cat liked to curl up in Jill's,English,lap,18,18,1,claude
+88,Our long-awaited guests should be arriving,English,soon,17,17,1,claude
+88,Unsere lang erwarteten Gäste should be arriving,code_switching,soon,18,18,1,claude
+89,Each night at midnight the boy scouts built a huge,English,bonfire,18,18,1,claude
+89,Jede Nacht um Mitternacht machten the boy scouts a huge,code_switching,bonfire,17,17,1,claude
+9,Every morning Susan braids her little daughter's hair and helps her dress for,English,school,18,18,1,claude
+9,Jeden Morgen flechtet Susan ihrer kleinen Tochter die Haare and helps her dress for,code_switching,school,19,19,1,claude
+90,"Es regnet und ich habe alles vergessen: my coat, hat, and",code_switching,umbrella,18,18,1,claude
+90,"It's raining, and I forgot everything: my coat, hat, and",English,umbrella,17,17,1,claude
+91,I just had a new sound system installed in my brand new,English,car,18,18,1,claude
+91,Ich ließ mir vor kurzem eine neue Musikanlage einbauen in my brand new,code_switching,car,17,17,1,claude
+92,"Die Umzugsleute schienen es sehr zu genießen, to toss the boxes marked",code_switching,fragile,18,18,1,claude
+92,The movers seemed to take great delight in tossing the boxes marked,English,fragile,17,17,1,claude
+93,An heißen Tagen sonnen sich viele Leute on the nearest,code_switching,beach,17,17,1,claude
+93,"On hot days, many people sun themselves on the nearest",English,beach,18,18,1,claude
+94,Er mochte Zitrone und Zucker in his hot,code_switching,tea,18,18,1,claude
+94,He liked lemon and sugar in his hot,English,tea,17,17,1,claude
+95,Es ist schwer zuzugeben when one is,code_switching,wrong,17,17,1,claude
+95,It's hard to admit when one is,English,wrong,18,18,1,claude
+96,"After dinner, they spent a long time over coffee just",English,talking,17,17,1,claude
+96,Nach dem Abendessen verbrachten sie viel Zeit over coffee just,code_switching,chatting,11,18,0.6111111111111112,claude
+96,Nach dem Abendessen verbrachten sie viel Zeit over coffee just,code_switching,talking,7,18,0.3888888888888889,claude
+97,The organic fertilizer helped enrich the,English,soil,22,22,1,claude
+98,Das Problem mit meinem Freund Paul ist that he can't take a,code_switching,joke,22,22,1,claude
+98,The problem with my friend Paul is that he can't take a,English,joke,26,26,1,claude
+99,Die zwei Räuber trugen Waffen but they didn't,code_switching,shoot,26,26,1,claude
+99,The two robbers carried guns but didn't,English,shoot,22,22,1,claude
+NA,"After the rents went up again, the tenants decided to take their landlord to",English,court,18,18,1,claude
+NA,"Anfangs lehnte der Junge es ab, aber eventually he changed his",code_switching,mind,17,17,1,claude
+NA,"Because Tom wants to go to India and work there for a year, he applies for a",English,visa,26,26,1,claude
+NA,"Bei der Versorgung von hospitalisierten Patienten, benötigt ein Artz oft the help of a",code_switching,nurse,18,18,1,claude
+NA,"Da der hölzerne Gartenstuhl eine harte Sitzfläche hatte, holte Karen a soft, fluffy",code_switching,pillow,26,26,1,claude
+NA,"Er besorgt sich im Alter eine neue Lesebrille, to read the",code_switching,newspaper,22,22,1,claude
+NA,"Er hat sich selbst eine Notiz geschrieben, so that he wouldn't",code_switching,forget,19,19,1,claude
+NA,"Giraffen sind für ihre langen Hälse bekannt, and zebras for their",code_switching,stripes,19,19,1,claude
+NA,"Marsha wusste, dass die Gäste noch weiter Appetithäppchen essen könnten, und zwar for at least another",code_switching,hour,18,18,1,claude
+NA,"Niemand konnte Dan beim Klassentreffen wiedererkennen, because he had grown a",code_switching,beard,26,26,1,claude
+NA,"Richard hatte Angst, nahe am Rand der Klippe zu gehen, because he was afraid to",code_switching,fall,19,19,1,claude
+NA,"Sei vorsichtig, denn der obere Teil of the stove is very",code_switching,hot,18,18,1,claude
+NA,"Sie klappt einen großen Wäscheständer auf, to dry the",code_switching,laundry,26,26,1,claude
+NA,"Um die ungewöhnliche Bakterie sorgfältig untersuchen zu können, kaufte sich die Biologin a more powerful",code_switching,microscope,22,22,1,claude
+NA,"Weil Tom nach Indien gehen und dort ein Jahr arbeiten möchte, he applies for a",code_switching,visa,22,22,1,claude
+NA,"When Daniela arrived unexpectedly at the restaurant, Laurie got him a chair from the adjacent",English,room,22,22,1,claude
+1,Nora couldn't take the message because she didn't have a pencil or a piece of,English,paper,18,18,1,mistral
+1,"Nora konnte die Nachricht nicht aufschreiben, weil sie keinen Stift hatte or a piece of",code_switching,paper,11,19,0.5789473684210527,mistral
+1,"Nora konnte die Nachricht nicht aufschreiben, weil sie keinen Stift hatte or a piece of",code_switching,pen,8,19,0.42105263157894735,mistral
+10,Der Bräutigam nahm die Hand der Braut und steckte the ring on her,code_switching,finger,18,18,1,mistral
+10,The groom took the bride's hand and placed the ring on her,English,finger,19,19,1,mistral
+100,After two hours of hard work they decided to take a short,English,break,26,26,1,mistral
+100,"Nach zwei Stunden harter Arbeit entschieden sie, to take a short",code_switching,break,22,22,1,mistral
+101,He carefully positioned the violin under his,English,chin,22,22,1,mistral
+101,Vorsichtig platzierte er the violin under his,code_switching,arm,3,26,0.11538461538461539,mistral
+101,Vorsichtig platzierte er the violin under his,code_switching,chest,23,26,0.8846153846153846,mistral
+102,Er legte eine saubere Decke on the clean,code_switching,bed,7,22,0.3181818181818182,mistral
+102,Er legte eine saubere Decke on the clean,code_switching,blanket,15,22,0.6818181818181818,mistral
+102,He put a new sheet on the clean,English,bed,26,26,1,mistral
+103,"Sie entschieden, ein kleines Haus zu kaufen und bauten an addition with two more",code_switching,bedrooms,26,26,1,mistral
+103,They decided to buy a small home and built an addition with two more,English,bedrooms,11,22,0.5,mistral
+103,They decided to buy a small home and built an addition with two more,English,rooms,11,22,0.5,mistral
+104,"Cindy brachte ihrer zweijährigen Tochter bei, dass Bilder quadratisch sind and that the plates are",code_switching,flat,22,22,1,mistral
+104,Cindy taught her two-year old that the pictures are square and that the plates are,English,round,26,26,1,mistral
+105,"While the national anthem is played, one needs to show respect and everyone is expected to",English,stand,22,22,1,mistral
+105,"Während die Nationalhymne läuft, soll man Respekt zeigen and everyone is expected to",code_switching,stand,26,26,1,mistral
+106,After dinner they got up and washed the,English,dishes,17,26,0.6538461538461539,mistral
+106,After dinner they got up and washed the,English,plates,9,26,0.34615384615384615,mistral
+106,Nach dem Abendessen standen sie auf and washed the,code_switching,dishes,22,22,1,mistral
+107,After lunch he scraped the cold food from his,English,plate,22,22,1,mistral
+107,Er kratzte nach dem Mittagessen the cold food from his,code_switching,plate,26,26,1,mistral
+108,"Es gab Durchzug, weil die kalte Luft reinkam durch die Tür and all the side",code_switching,window,22,22,1,mistral
+108,It was drafty because of the cold air leaking in through the door and all the side,English,window,26,26,1,mistral
+109,"Tracy and her husband weren't Catholic, but she was glad when the priest warmly welcomed their three",English,children,22,22,1,mistral
+109,"Tracy und ihr Mann waren nicht katholisch, aber sie war froh, als der Priester welcomed their three",code_switching,children,26,26,1,mistral
+11,Der Vater in der Küche carved the turkey with a,code_switching,knife,19,19,1,mistral
+11,"In the kitchen, Father carved the turkey with a",English,knife,18,18,1,mistral
+110,As soon as they reached the sand he stopped to take off his,English,shoes,26,26,1,mistral
+110,"Sobald sie am Sand angekommen waren, hielt er an to take off his",code_switching,shoes,22,22,1,mistral
+111,Peter malte die Wände der Vogelausstellung blau an to resemble the,code_switching,sky,26,26,1,mistral
+111,Peter painted the walls of the bird exhibit light blue to resemble the,English,sky,22,22,1,mistral
+112,"After a warning, the bad boy was sent to his",English,room,26,26,1,mistral
+112,Nach einer Ermahnung wurde der böse Junge sent to his,code_switching,room,22,22,1,mistral
+113,No one at the reunion recognized Dan because he had grown a,English,beard,22,22,1,mistral
+114,"After the skiing accident, Randy broke his",English,arm,1,26,0.038461538461538464,mistral
+114,"After the skiing accident, Randy broke his",English,leg,25,26,0.9615384615384616,mistral
+114,Nach dem Unfall beim Skifahren Randy broke his,code_switching,arm,1,22,0.045454545454545456,mistral
+114,Nach dem Unfall beim Skifahren Randy broke his,code_switching,leg,21,22,0.9545454545454546,mistral
+115,Das alte Klavier aus Italien was out of,code_switching,tune,26,26,1,mistral
+115,The old piano from Italy was out of,English,tune,22,22,1,mistral
+116,Das Kind kam auf die Welt with a rare,code_switching,birthmark,22,22,1,mistral
+116,The child was born with a rare,English,disease,26,26,1,mistral
+117,She pulled her head out from under the faucet and reached for a,English,towel,22,22,1,mistral
+117,Sie zog ihren Kopf unter dem Wasserhahn hervor and reached for a,code_switching,towel,26,26,1,mistral
+118,Er schlich sich in den room without a,code_switching,sound,22,22,1,mistral
+118,He crept into the room without a,English,sound,26,26,1,mistral
+119,Der Ausgang war gekennzeichnet by a large,code_switching,door,26,26,1,mistral
+119,The exit was marked by a large,English,sign,22,22,1,mistral
+12,"Mike felt sorry, but it was not his",English,fault,19,19,1,mistral
+12,"Mike tat es leid, but it was not his",code_switching,fault,18,18,1,mistral
+120,Joe ging zum Baumarkt und kaufte Ersatzfenster at twice the original,code_switching,price,22,22,1,mistral
+120,Joe went to the hardware store and bought a replacement window at twice the original,English,price,26,26,1,mistral
+121,Sam could not believe her story was,English,true,22,22,1,mistral
+121,Sam konnte nicht glauben dass her story was,code_switching,fake,26,26,1,mistral
+122,The Hausordnung erlaubte es Besuchern nicht to feed the,code_switching,animals,22,22,1,mistral
+122,The house rules did not allow visitors to feed the,English,pets,26,26,1,mistral
+123,Als Daniela ungeplannt im Restaurant auftachte gab Laurie ihm einen Stuhl from the adjacent,code_switching,table,26,26,1,mistral
+124,She honestly seriously thought she had seen a,English,ghost,26,26,1,mistral
+124,"Sie dachte tatsächlich ernsthaft, dass she had seen a",code_switching,ghost,22,22,1,mistral
+125,"After the jeweler was asked, he would examine the ring's huge",English,diamond,22,22,1,mistral
+125,"Nachdem der Juwelier gefragt wurde, überprüfte er the ring's huge",code_switching,diamond,26,26,1,mistral
+126,He always drinks tea in the morning and uses a special filter to catch the loose,English,leaves,26,26,1,mistral
+126,Morgens trinkt er immer Tee und benutzt ein besonderes Sieb to catch the loose,code_switching,leaves,22,22,1,mistral
+127,She installed a new anti-virus program and is now convinced that her laptop is,English,secure,22,22,1,mistral
+127,"Sie hat ein neues Anti-Virus-Programm installiert und ist nun überzeugt davon, that her laptop is",code_switching,secure,26,26,1,mistral
+128,"She needed a special charging cable, but could not find it inside her",English,bag,26,26,1,mistral
+128,"Sie brauchte ein bestimmtes Ladekabel, aber could not find it inside her",code_switching,bag,22,22,1,mistral
+129,Er nahm sich einen kleinen Taschenrechner und typed in some,code_switching,numbers,26,26,1,mistral
+129,He took a small pocket calculator and typed in some,English,numbers,22,22,1,mistral
+13,"Der Lehrer sah, dass einige Schüler schummelten and wrote down their",code_switching,names,19,19,1,mistral
+13,The teacher saw that some students were cheating and wrote down their,English,names,18,18,1,mistral
+130,Er holt einen neuen Korkenzieher and opened the,code_switching,bottle,22,22,1,mistral
+130,He took a new cork screw and opened the,English,bottle,26,26,1,mistral
+131,He folded out a big drying rack to dry the,English,clothes,22,22,1,mistral
+132,She grabbed a big pitcher near the sink and filled it with,English,water,26,26,1,mistral
+132,Sie schnappte sich am Waschbecken eine große Kanne and filled it with,code_switching,water,22,22,1,mistral
+133,Er leiht sich von Petra eine gute Fahrradpumpe to inflate the,code_switching,bike,26,26,1,mistral
+133,He borrowed a good bicycle pump from Petra to inflate the,English,tire,22,22,1,mistral
+134,Er kaufte sich einen neuen Rasierer to trim his,code_switching,beard,22,22,1,mistral
+134,He bought a new razor to trim his,English,beard,26,26,1,mistral
+135,Er nahm sich ein neues Taschentuch to wipe his,code_switching,nose,26,26,1,mistral
+135,He got out a clean tissue to wipe his,English,nose,22,22,1,mistral
+136,"When he got older, he got himself a pair of new reading glasses to read the",English,book,26,26,1,mistral
+137,Im Supermarkt nahm er sich einen großen Einkaufswagen und started filling it with,code_switching,food,26,26,1,mistral
+137,In the supermarket he took a big shopping cart and started filling it with,English,food,22,22,1,mistral
+138,She needs a custom-made wheel chair with an electric,English,motor,26,26,1,mistral
+138,Sie braucht einen maßgefertigten Rollstuhl with an electric,code_switching,motor,22,22,1,mistral
+139,Sie nahm beim Backen ein Sieb und verteilte den powdered sugar over the,code_switching,flour,26,26,1,mistral
+139,"While baking, she took a sifter and sprinkled the powdered sugar over the",English,cake,22,22,1,mistral
+14,Maria schloss das Fenster vorne and locked the back,code_switching,door,18,18,1,mistral
+14,Maria shut the front window and locked the back,English,door,19,19,1,mistral
+140,She took her new pen to take some,English,notes,26,26,1,mistral
+140,Sie nahm sich einen neuen Stift to take some,code_switching,notes,22,22,1,mistral
+141,Das Mädchen holte sich einen luxuriösen Fön and dried her,code_switching,hair,26,26,1,mistral
+141,The girl got herself a fancy blowdryer and dried her,English,hair,22,22,1,mistral
+142,"In order to examine the unusual bacterium carefully, the biologist bought a more powerful",English,microscope,26,26,1,mistral
+143,"Since the wooden garden chair had a hard seat, Karen fetched a soft, fluffy",English,pillow,22,22,1,mistral
+15,Man kann die Tür nicht öffnen with the wrong,code_switching,key,19,19,1,mistral
+15,You can't open the door with the wrong,English,key,18,18,1,mistral
+16,I didn't like the show so I changed the,English,channel,19,19,1,mistral
+16,Mir hat die Show nicht gefallen so I changed the,code_switching,channel,18,18,1,mistral
+17,"Als der Strom ausfiel, sahen wir nichts mehr and the house became",code_switching,dark,19,19,1,mistral
+17,When the power went out we couldn't see anything and the house became,English,dark,18,18,1,mistral
+18,Alfonso has started biking to work instead of driving his,English,car,19,19,1,mistral
+18,"Alfonso hat angefangen, mit dem Fahrrad zur Arbeit zu fahren, instead of driving his",code_switching,car,18,18,1,mistral
+19,A dog in good health has a good sense of,English,smell,18,18,1,mistral
+19,Ein Hund in guter Gesundheit has a good sense of,code_switching,smell,19,19,1,mistral
+2,"In caring for hospitalized patients, a doctor often needs the help of a",English,nurse,19,19,1,mistral
+20,Die meisten Menschen in unserem Land spend December 25th with their,code_switching,family,18,18,1,mistral
+20,Most people in our country spend December 25th with their,English,family,19,19,1,mistral
+21,Sie sahen den Blitz and clearly heard the,code_switching,thunder,19,19,1,mistral
+21,They saw the lightening and clearly heard the,English,thunder,18,18,1,mistral
+22,She had to leave the movie when the baby started to,English,cry,19,19,1,mistral
+22,"Sie musste den Film verlassen, denn the baby started to",code_switching,cry,18,18,1,mistral
+23,"I greeted him, but I could not remember his",English,name,18,18,1,mistral
+23,"Ich begrüßte ihn, aber I could not remember his",code_switching,name,19,19,1,mistral
+24,"Although she heard it ringing, Nancy was too busy cleaning the chimney to get the",English,phone,19,19,1,mistral
+24,"Obwohl sie es klingeln hörte, war Nancy zu beschäftigt damit, den Kamin zu reinigen, to get the",code_switching,fire,18,18,1,mistral
+25,"After the hurricane shattered the window, the room was filled with broken",English,glass,18,18,1,mistral
+25,"Nachdem der Hurrikan das Fenster zerstört hatte, war das Zimmer filled with broken",code_switching,glass,19,19,1,mistral
+26,Der unhöfliche Kellner im Restaurant was not given a,code_switching,tip,18,18,1,mistral
+26,The rude waiter in the restaurant was not given a,English,tip,19,19,1,mistral
+27,"Dass er aufgewachsen war im Süden, you could tell by his",code_switching,accent,19,19,1,mistral
+27,That he had grown up in the South you could tell by his,English,accent,18,18,1,mistral
+28,Be careful because the top of the stove is very,English,hot,19,19,1,mistral
+29,"Wenn du ins Bett gehst, turn off the",code_switching,light,19,19,1,mistral
+29,When you go to bed turn off the,English,light,18,18,1,mistral
+3,"After realizing he forgot utensils for his salad, the customer went back to get himself a",English,fork,18,18,1,mistral
+3,"Nachdem er bemerkte, dass er das Besteck für seinen Salat vergessen hatte, ging der Kunde zurück to get himself a",code_switching,fork,19,19,1,mistral
+30,Paul malte den Anzug des Clowns blau und gab him a big red,code_switching,hat,2,18,0.1111111111111111,mistral
+30,Paul malte den Anzug des Clowns blau und gab him a big red,code_switching,smile,16,18,0.8888888888888888,mistral
+30,Paul painted the clown's suit blue and gave him a big red,English,nose,19,19,1,mistral
+31,Bill jumped in the lake and made a big,English,splash,18,18,1,mistral
+31,Bill sprang in den See and made a big,code_switching,splash,19,19,1,mistral
+32,"Sein Chef in der Firma, in der er nachmittags arbeitet, refused to give him a",code_switching,raise,18,18,1,mistral
+32,The boss of the store where he worked afternoons refused to give him a,English,raise,19,19,1,mistral
+33,"Er wusste, dass er Chris anrufen konnte, auch in the middle of the",code_switching,night,19,19,1,mistral
+33,"He knew that he could call Chris, even in the middle of the",English,night,18,18,1,mistral
+34,Die Kinder der Schule vor meinem Haus went outside to,code_switching,play,18,18,1,mistral
+34,The children from the school across from my house went outside to,English,play,19,19,1,mistral
+35,Die junge Mutter aus der Nachbarschaft fütterte her baby some warm,code_switching,milch,2,19,0.10526315789473684,mistral
+35,Die junge Mutter aus der Nachbarschaft fütterte her baby some warm,code_switching,milk,17,19,0.8947368421052632,mistral
+35,The young mother in the neighborhood fed her baby some warm,English,milk,18,18,1,mistral
+36,"Die Schulen wurden geschlossen, weil die Lehrer beschlossen to go on",code_switching,strike,18,18,1,mistral
+36,The schools closed down because the teachers decided to go on,English,strike,19,19,1,mistral
+37,"Nur wenige Minuten nach seiner Ankunft im Büro, verschüttete der Detective his thermos full of",code_switching,coffee,19,19,1,mistral
+37,"Within minutes of arriving at the office, the detective spilled his thermos full of",English,coffee,18,18,1,mistral
+38,Mein Mitbewohner aus Berlin ließ the dirty dishes in the,code_switching,sink,18,18,1,mistral
+38,My roommate from Berlin left the dirty dishes in the,English,kitchen,4,19,0.21052631578947367,mistral
+38,My roommate from Berlin left the dirty dishes in the,English,sink,15,19,0.7894736842105263,mistral
+39,Richard was afraid to walk near the edge of the cliff because he was afraid to,English,fall,18,18,1,mistral
+4,"Das kleine Mädchen weigerte sich, schlafen zu gehen, until he told her a",code_switching,story,18,18,1,mistral
+4,The little girl refused to go to sleep until he told her a,English,story,19,19,1,mistral
+40,Die Mathelehrerin der vierten Klasse konnte nicht gut sehen without her thick,code_switching,glasses,18,18,1,mistral
+40,The fourth grade math teacher could not see well without her thick,English,glasses,19,19,1,mistral
+41,Die meisten Haiangriffe passieren very close to,code_switching,shore,19,19,1,mistral
+41,Most shark attacks occur very close to,English,beaches,18,18,1,mistral
+42,Alle hupten den alten Mann an who was driving too,code_switching,fast,18,18,1,mistral
+42,Everyone was honking at the old man who was driving too,English,slowly,19,19,1,mistral
+43,Keine seiner Geschichten made any real,code_switching,sense,19,19,1,mistral
+43,None of his stories made any real,English,sense,18,18,1,mistral
+44,Der Sekretär des Büros schickte the letter without a,code_switching,signature,15,18,0.8333333333333334,mistral
+44,Der Sekretär des Büros schickte the letter without a,code_switching,stamp,3,18,0.16666666666666666,mistral
+44,The office secretary mailed the letter without a,English,stamp,19,19,1,mistral
+45,Die Kühe liefen von der Sonne weg into the cool,code_switching,shade,19,19,1,mistral
+45,The cows moved from the sun into the cool,English,shade,10,18,0.5555555555555556,mistral
+45,The cows moved from the sun into the cool,English,shadows,8,18,0.4444444444444444,mistral
+46,Der Mann nebenan spielte his stereo much too,code_switching,loud,18,18,1,mistral
+46,The man downstairs played his stereo much too,English,loud,19,19,1,mistral
+47,Die Jungen spielten Murmeln and the girls jumped,code_switching,rope,19,19,1,mistral
+47,The boys played marbles and the girls jumped,English,rope,18,18,1,mistral
+48,Der Surfer aus Hawaii fiel von seinem Surfboard after the first big,code_switching,wave,18,18,1,mistral
+48,The surfer from Hawaii fell off his surfboard after the first big,English,wave,19,19,1,mistral
+49,Tim threw a rock and broke the,English,window,18,18,1,mistral
+49,Tim warf einen Stein and broke the,code_switching,window,17,17,1,mistral
+5,He wrote himself a note so that he wouldn't,English,forget,18,18,1,mistral
+50,Steve spilled coffee all over his white,English,shirt,17,17,1,mistral
+50,Steve verschüttete Kaffee all over his white,code_switching,shirt,18,18,1,mistral
+51,"Er entschied sich, im Iran zu reisen, obwohl er wusste, it could be",code_switching,dangerous,17,17,1,mistral
+51,He decided to travel to Iran even though he knew it could be,English,dangerous,18,18,1,mistral
+52,Cold damp weather makes her joints ache so she took some aspirin for the,English,pain,17,17,1,mistral
+52,"Kalte, feuchte Witterung lässt ihre Gelenke schmerzen, deshalb nahm sie some aspirin for the",code_switching,pain,18,18,1,mistral
+53,"Before she arrived, he opened a bottle of wine and put on some soft",English,music,18,18,1,mistral
+53,"Bevor sie ankam, öffnete er eine Flasche Wein and put on some soft",code_switching,music,17,17,1,mistral
+54,Das Schiff mit den weißen Segeln verschwand into the thick,code_switching,mist,18,18,1,mistral
+54,The ship with the white sails disappeared into the thick,English,mist,17,17,1,mistral
+55,Ron bought a board for the window that was too long and then he bought one that was way too,English,short,18,18,1,mistral
+55,"Ron kaufte ein Brett für das Fenster, das zu lang war, und dann kaufte er eins, that was way too",code_switching,short,17,17,1,mistral
+56,"Als das Wetter wärmer wurde, begann Mark, seine leichtere Jacke zu tragen, und zwar nicht his heavy winter",code_switching,coat,16,18,0.8888888888888888,mistral
+56,"Als das Wetter wärmer wurde, begann Mark, seine leichtere Jacke zu tragen, und zwar nicht his heavy winter",code_switching,cooler,2,18,0.1111111111111111,mistral
+56,"As the weather got warmer, Mark started wearing his lighter jacket instead of his heavy winter",English,coat,17,17,1,mistral
+57,Er kaufte ihr eine Perlenkette for her,code_switching,gift,4,17,0.23529411764705882,mistral
+57,Er kaufte ihr eine Perlenkette for her,code_switching,jewelry,13,17,0.7647058823529411,mistral
+57,He bought her a pearl necklace for her,English,birthday,18,18,1,mistral
+58,Der junge Mann im Park must keep his pet on a,code_switching,leash,18,18,1,mistral
+58,The young man in the park must keep his pet on a,English,leash,17,17,1,mistral
+59,"Rachel liebt den Geruch von Tabak, but she can't stand all the",code_switching,smoke,17,17,1,mistral
+59,Rachel loves the smell of tobacco but she can't stand all the,English,smoke,18,18,1,mistral
+6,Die Häftlinge im Gefängnis were planning their,code_switching,escape,18,18,1,mistral
+6,The inmates in prison were planning their,English,escape,19,19,1,mistral
+60,"Er hatte gerade genug Zeit, einen Kuchen zu kaufen und sich umzuziehen before the guests",code_switching,arrived,18,18,1,mistral
+60,He had just enough time to buy a cake from the store and change his clothes before the guests,English,arrived,17,17,1,mistral
+61,Das Eichhörnchen versteckte ein paar Nüsse in the big,code_switching,tree,17,17,1,mistral
+61,The squirrel stored some nuts in the big,English,tree,18,18,1,mistral
+62,Every morning before school his mother laid out his clothes and packed his,English,lunch,16,17,0.9411764705882353,mistral
+62,Every morning before school his mother laid out his clothes and packed his,English,lunchbox,1,17,0.058823529411764705,mistral
+62,Jeden morgen vor der Schule legte seine Mutter seine Kleidung raus and packed his,code_switching,lunch,18,18,1,mistral
+63,"Er kündigte seinen Job und verließ seine Familie, so he could sail around the",code_switching,world,17,17,1,mistral
+63,He quit his job and left his family so that he could sail around the,English,world,18,18,1,mistral
+64,Berühre auf gar keinen Fall the sticky wet,code_switching,wall,18,18,1,mistral
+64,"In any case, don't touch the sticky wet",English,floor,6,17,0.35294117647058826,mistral
+64,"In any case, don't touch the sticky wet",English,mess,11,17,0.6470588235294118,mistral
+65,Cats loved to be scratched behind the,English,ears,18,18,1,mistral
+65,"Katzen lieben es, gekrault zu werden behind the",code_switching,ears,17,17,1,mistral
+66,Die weiße Möve tauchte ab and caught a,code_switching,fish,18,18,1,mistral
+66,The white seagull dove down and caught a,English,fish,17,17,1,mistral
+67,John fegte den Boden with a long,code_switching,brush,15,17,0.8823529411764706,mistral
+67,John fegte den Boden with a long,code_switching,mop,2,17,0.11764705882352941,mistral
+67,John swept the floor with a long,English,broom,18,18,1,mistral
+68,He was cold most of the night and finally got up to get another,English,blanket,17,17,1,mistral
+68,"Ihm war die ganze Nacht kalt, bis er schließlich aufstand to get another",code_switching,blanket,18,18,1,mistral
+69,"At first the boy refused, but eventually he changed his",English,mind,18,18,1,mistral
+7,Giraffes are known for their long necks and zebras for their,English,stripes,18,18,1,mistral
+70,Rafael möchte den Wald schützen by guarding every,code_switching,tree,18,18,1,mistral
+70,Rafael wants to preserve the forest by guarding every,English,tree,17,17,1,mistral
+71,Es gab bunte Bilder on every single,code_switching,wall,17,17,1,mistral
+71,There were colorful pictures on every single,English,wall,18,18,1,mistral
+72,"At the end of the trip, Pam had no more clothes to",English,pack,17,17,1,mistral
+72,Pam hatte am Ende der Reise no more clothes to,code_switching,pack,7,18,0.3888888888888889,mistral
+72,Pam hatte am Ende der Reise no more clothes to,code_switching,wear,11,18,0.6111111111111112,mistral
+73,Sie züchteten Schweine on their,code_switching,farm,17,17,1,mistral
+73,They raised pigs on their,English,farm,18,18,1,mistral
+74,Er entschied sich für deutschen Wein because the imported stuff was too,code_switching,expensive,18,18,1,mistral
+74,He settled for German wine because the imported stuff was too,English,expensive,17,17,1,mistral
+75,"Simon denkt, dass es ok ist, sich laute Musik anzuhören, even if his door is",code_switching,neighbor,11,17,0.6470588235294118,mistral
+75,"Simon denkt, dass es ok ist, sich laute Musik anzuhören, even if his door is",code_switching,neighbors,6,17,0.35294117647058826,mistral
+75,Simon thinks it's ok to listen to loud music even if his door is,English,closed,18,18,1,mistral
+76,His skin was bright red from spending time at the,English,beach,17,17,1,mistral
+76,Seine Haut war knallrot from spending time at the,code_switching,beach,14,18,0.7777777777777778,mistral
+76,Seine Haut war knallrot from spending time at the,code_switching,pool,4,18,0.2222222222222222,mistral
+77,Phil nutzte die Pipette und tat einige drops in his,code_switching,glass,17,17,1,mistral
+77,Phil used the dropper to put some drops in his,English,eye,18,18,1,mistral
+78,"Der Oberst wünschte sich der Feldwebel würde seine Befehle nicht als höfliche Bitte wahrnehmen, but as a direct",code_switching,order,18,18,1,mistral
+78,The colonel wished the sergeant would treat his command not as a polite request but as a direct,English,order,17,17,1,mistral
+79,Sharon dried the bowls with a big,English,towel,18,18,1,mistral
+79,Sharon trocknete die Schüsseln with a big,code_switching,towel,17,17,1,mistral
+8,Marsha knew the guests could remain eating appetizers for at least another,English,hour,19,19,1,mistral
+80,Misch die Karten thoroughly before you,code_switching,shuffle,18,18,1,mistral
+80,Shuffle the cards thoroughly before you,English,deal,17,17,1,mistral
+81,"Esther dachte nicht, dass das Schwert gefährlich war, because it wasn't very",code_switching,sharp,17,17,1,mistral
+81,Esther didn't think the sword was dangerous because it wasn't very,English,sharp,18,18,1,mistral
+82,Das Kleinkind schrie ununterbrochen and upset her,code_switching,mother,18,18,1,mistral
+82,The child cried continuously and upset her,English,mother,17,17,1,mistral
+83,Die Mieter entschieden sich nach weiter steigenden Mietpreisen to take their landlord to,code_switching,court,17,17,1,mistral
+84,"Als George nicht in sein Auto kam, kniete er sich hin und suchte under the bumper for the spare",code_switching,key,18,18,1,mistral
+84,"When George couldn't get into his car, he got down on one knee and reached under the bumper for the spare",English,key,17,17,1,mistral
+85,Die Bauarbeiterin hatte sehr muskulöse Arme bekommen from unloading cement from the,code_switching,truck,17,17,1,mistral
+85,The construction worker had developed very powerful arms from unloading cement from the,English,trucks,18,18,1,mistral
+86,Es war ihr immer wichtig to be on,code_switching,time,18,18,1,mistral
+86,It was important for him to be on,English,time,17,17,1,mistral
+87,Die Katze lag gerne curled up in Jill's,code_switching,armchair,14,17,0.8235294117647058,mistral
+87,Die Katze lag gerne curled up in Jill's,code_switching,lap,3,17,0.17647058823529413,mistral
+87,The cat liked to curl up in Jill's,English,armchair,3,18,0.16666666666666666,mistral
+87,The cat liked to curl up in Jill's,English,blanket,15,18,0.8333333333333334,mistral
+88,Our long-awaited guests should be arriving,English,soon,17,17,1,mistral
+88,Unsere lang erwarteten Gäste should be arriving,code_switching,plane,13,18,0.7222222222222222,mistral
+88,Unsere lang erwarteten Gäste should be arriving,code_switching,soon,5,18,0.2777777777777778,mistral
+89,Each night at midnight the boy scouts built a huge,English,fire,18,18,1,mistral
+89,Jede Nacht um Mitternacht machten the boy scouts a huge,code_switching,fire,17,17,1,mistral
+9,Every morning Susan braids her little daughter's hair and helps her dress for,English,school,18,18,1,mistral
+9,Jeden Morgen flechtet Susan ihrer kleinen Tochter die Haare and helps her dress for,code_switching,school,19,19,1,mistral
+90,"Es regnet und ich habe alles vergessen: my coat, hat, and",code_switching,umbrella,18,18,1,mistral
+90,"It's raining, and I forgot everything: my coat, hat, and",English,umbrella,17,17,1,mistral
+91,I just had a new sound system installed in my brand new,English,car,18,18,1,mistral
+91,Ich ließ mir vor kurzem eine neue Musikanlage einbauen in my brand new,code_switching,home,17,17,1,mistral
+92,"Die Umzugsleute schienen es sehr zu genießen, to toss the boxes marked",code_switching,laughing,10,18,0.5555555555555556,mistral
+92,"Die Umzugsleute schienen es sehr zu genießen, to toss the boxes marked",code_switching,loudly,8,18,0.4444444444444444,mistral
+92,The movers seemed to take great delight in tossing the boxes marked,English,around,4,17,0.23529411764705882,mistral
+92,The movers seemed to take great delight in tossing the boxes marked,English,carefully,1,17,0.058823529411764705,mistral
+92,The movers seemed to take great delight in tossing the boxes marked,English,loudly,1,17,0.058823529411764705,mistral
+92,The movers seemed to take great delight in tossing the boxes marked,English,upstairs,11,17,0.6470588235294118,mistral
+93,An heißen Tagen sonnen sich viele Leute on the nearest,code_switching,beach,17,17,1,mistral
+93,"On hot days, many people sun themselves on the nearest",English,beach,18,18,1,mistral
+94,Er mochte Zitrone und Zucker in his hot,code_switching,chocolate,1,18,0.05555555555555555,mistral
+94,Er mochte Zitrone und Zucker in his hot,code_switching,tea,17,18,0.9444444444444444,mistral
+94,He liked lemon and sugar in his hot,English,chocolate,5,17,0.29411764705882354,mistral
+94,He liked lemon and sugar in his hot,English,tea,12,17,0.7058823529411765,mistral
+95,Es ist schwer zuzugeben when one is,code_switching,loses,10,17,0.5882352941176471,mistral
+95,Es ist schwer zuzugeben when one is,code_switching,losing,7,17,0.4117647058823529,mistral
+95,It's hard to admit when one is,English,wrong,18,18,1,mistral
+96,"After dinner, they spent a long time over coffee just",English,talking,17,17,1,mistral
+96,Nach dem Abendessen verbrachten sie viel Zeit over coffee just,code_switching,chat,1,18,0.05555555555555555,mistral
+96,Nach dem Abendessen verbrachten sie viel Zeit over coffee just,code_switching,talking,17,18,0.9444444444444444,mistral
+97,Der biologische Dünger helped enrich the,code_switching,soil,26,26,1,mistral
+97,The organic fertilizer helped enrich the,English,soil,22,22,1,mistral
+98,Das Problem mit meinem Freund Paul ist that he can't take a,code_switching,joke,22,22,1,mistral
+98,The problem with my friend Paul is that he can't take a,English,joke,26,26,1,mistral
+99,Die zwei Räuber trugen Waffen but they didn't,code_switching,use,26,26,1,mistral
+99,The two robbers carried guns but didn't,English,fire,22,22,1,mistral
+NA,"After the rents went up again, the tenants decided to take their landlord to",English,court,18,18,1,mistral
+NA,"Anfangs lehnte der Junge es ab, aber eventually he changed his",code_switching,mind,17,17,1,mistral
+NA,"Because Tom wants to go to India and work there for a year, he applies for a",English,visa,26,26,1,mistral
+NA,"Bei der Versorgung von hospitalisierten Patienten, benötigt ein Artz oft the help of a",code_switching,nurse,18,18,1,mistral
+NA,"Da der hölzerne Gartenstuhl eine harte Sitzfläche hatte, holte Karen a soft, fluffy",code_switching,blanket,2,26,0.07692307692307693,mistral
+NA,"Da der hölzerne Gartenstuhl eine harte Sitzfläche hatte, holte Karen a soft, fluffy",code_switching,cushion,6,26,0.23076923076923078,mistral
+NA,"Da der hölzerne Gartenstuhl eine harte Sitzfläche hatte, holte Karen a soft, fluffy",code_switching,pillow,18,26,0.6923076923076923,mistral
+NA,"Er besorgt sich im Alter eine neue Lesebrille, to read the",code_switching,newspaper,22,22,1,mistral
+NA,"Er hat sich selbst eine Notiz geschrieben, so that he wouldn't",code_switching,forget,19,19,1,mistral
+NA,"Giraffen sind für ihre langen Hälse bekannt, and zebras for their",code_switching,stripes,19,19,1,mistral
+NA,"Marsha wusste, dass die Gäste noch weiter Appetithäppchen essen könnten, und zwar for at least another",code_switching,hour,18,18,1,mistral
+NA,"Niemand konnte Dan beim Klassentreffen wiedererkennen, because he had grown a",code_switching,beard,26,26,1,mistral
+NA,"Richard hatte Angst, nahe am Rand der Klippe zu gehen, because he was afraid to",code_switching,fall,19,19,1,mistral
+NA,"Sei vorsichtig, denn der obere Teil of the stove is very",code_switching,hot,18,18,1,mistral
+NA,"Sie klappt einen großen Wäscheständer auf, to dry the",code_switching,clothes,26,26,1,mistral
+NA,"Um die ungewöhnliche Bakterie sorgfältig untersuchen zu können, kaufte sich die Biologin a more powerful",code_switching,microscope,22,22,1,mistral
+NA,"Weil Tom nach Indien gehen und dort ein Jahr arbeiten möchte, he applies for a",code_switching,job,22,22,1,mistral
+NA,"When Daniela arrived unexpectedly at the restaurant, Laurie got him a chair from the adjacent",English,table,22,22,1,mistral
+1,Nora couldn't take the message because she didn't have a pencil or a piece of,English,paper,17,17,1,gpt
+1,"Nora konnte die Nachricht nicht aufschreiben, weil sie keinen Stift hatte or a piece of",code_switching,paper,18,18,1,gpt
+10,Der Bräutigam nahm die Hand der Braut und steckte the ring on her,code_switching,finger,17,17,1,gpt
+10,The groom took the bride's hand and placed the ring on her,English,finger,18,18,1,gpt
+100,After two hours of hard work they decided to take a short,English,break,25,25,1,gpt
+100,"Nach zwei Stunden harter Arbeit entschieden sie, to take a short",code_switching,break,22,22,1,gpt
+101,He carefully positioned the violin under his,English,arm,2,21,0.09523809523809523,gpt
+101,He carefully positioned the violin under his,English,chin,19,21,0.9047619047619048,gpt
+101,Vorsichtig platzierte er the violin under his,code_switching,arm,17,25,0.68,gpt
+101,Vorsichtig platzierte er the violin under his,code_switching,chin,7,25,0.28,gpt
+101,Vorsichtig platzierte er the violin under his,code_switching,shoulder,1,25,0.04,gpt
+102,Er legte eine saubere Decke on the clean,code_switching,floor,20,20,1,gpt
+102,He put a new sheet on the clean,English,bed,15,25,0.6,gpt
+102,He put a new sheet on the clean,English,floor,5,25,0.2,gpt
+102,He put a new sheet on the clean,English,table,5,25,0.2,gpt
+103,"Sie entschieden, ein kleines Haus zu kaufen und bauten an addition with two more",code_switching,rooms,25,25,1,gpt
+103,They decided to buy a small home and built an addition with two more,English,rooms,21,21,1,gpt
+104,"Cindy brachte ihrer zweijährigen Tochter bei, dass Bilder quadratisch sind and that the plates are",code_switching,round,21,21,1,gpt
+104,Cindy taught her two-year old that the pictures are square and that the plates are,English,round,25,25,1,gpt
+105,"While the national anthem is played, one needs to show respect and everyone is expected to",English,stand,22,22,1,gpt
+105,"Während die Nationalhymne läuft, soll man Respekt zeigen and everyone is expected to",code_switching,behave,2,25,0.08,gpt
+105,"Während die Nationalhymne läuft, soll man Respekt zeigen and everyone is expected to",code_switching,stand,23,25,0.92,gpt
+106,After dinner they got up and washed the,English,dishes,24,24,1,gpt
+106,Nach dem Abendessen standen sie auf and washed the,code_switching,dishes,22,22,1,gpt
+107,After lunch he scraped the cold food from his,English,plate,20,20,1,gpt
+107,Er kratzte nach dem Mittagessen the cold food from his,code_switching,plate,24,25,0.96,gpt
+107,Er kratzte nach dem Mittagessen the cold food from his,code_switching,refrigerator,1,25,0.04,gpt
+108,"Es gab Durchzug, weil die kalte Luft reinkam durch die Tür and all the side",code_switching,effects,10,21,0.47619047619047616,gpt
+108,"Es gab Durchzug, weil die kalte Luft reinkam durch die Tür and all the side",code_switching,walls,10,21,0.47619047619047616,gpt
+108,"Es gab Durchzug, weil die kalte Luft reinkam durch die Tür and all the side",code_switching,windows,1,21,0.047619047619047616,gpt
+108,It was drafty because of the cold air leaking in through the door and all the side,English,walls,25,25,1,gpt
+109,"Tracy and her husband weren't Catholic, but she was glad when the priest warmly welcomed their three",English,children,22,22,1,gpt
+109,"Tracy und ihr Mann waren nicht katholisch, aber sie war froh, als der Priester welcomed their three",code_switching,children,24,24,1,gpt
+11,Der Vater in der Küche carved the turkey with a,code_switching,knife,18,18,1,gpt
+11,"In the kitchen, Father carved the turkey with a",English,knife,17,17,1,gpt
+110,As soon as they reached the sand he stopped to take off his,English,shoes,25,25,1,gpt
+110,"Sobald sie am Sand angekommen waren, hielt er an to take off his",code_switching,shoes,20,20,1,gpt
+111,Peter malte die Wände der Vogelausstellung blau an to resemble the,code_switching,birds,9,25,0.36,gpt
+111,Peter malte die Wände der Vogelausstellung blau an to resemble the,code_switching,sky,16,25,0.64,gpt
+111,Peter painted the walls of the bird exhibit light blue to resemble the,English,sky,20,20,1,gpt
+112,"After a warning, the bad boy was sent to his",English,room,24,24,1,gpt
+112,Nach einer Ermahnung wurde der böse Junge sent to his,code_switching,parents,1,21,0.047619047619047616,gpt
+112,Nach einer Ermahnung wurde der böse Junge sent to his,code_switching,room,20,21,0.9523809523809523,gpt
+113,No one at the reunion recognized Dan because he had grown a,English,beard,20,20,1,gpt
+114,"After the skiing accident, Randy broke his",English,leg,26,26,1,gpt
+114,Nach dem Unfall beim Skifahren Randy broke his,code_switching,leg,21,21,1,gpt
+115,Das alte Klavier aus Italien was out of,code_switching,order,4,25,0.16,gpt
+115,Das alte Klavier aus Italien was out of,code_switching,tune,21,25,0.84,gpt
+115,The old piano from Italy was out of,English,tune,19,19,1,gpt
+116,Das Kind kam auf die Welt with a rare,code_switching,condition,1,21,0.047619047619047616,gpt
+116,Das Kind kam auf die Welt with a rare,code_switching,disease,16,21,0.7619047619047619,gpt
+116,Das Kind kam auf die Welt with a rare,code_switching,gift,4,21,0.19047619047619047,gpt
+116,The child was born with a rare,English,disease,24,24,1,gpt
+117,She pulled her head out from under the faucet and reached for a,English,towel,21,21,1,gpt
+117,Sie zog ihren Kopf unter dem Wasserhahn hervor and reached for a,code_switching,soap,1,25,0.04,gpt
+117,Sie zog ihren Kopf unter dem Wasserhahn hervor and reached for a,code_switching,towel,24,25,0.96,gpt
+118,Er schlich sich in den room without a,code_switching,key,19,20,0.95,gpt
+118,Er schlich sich in den room without a,code_switching,weapon,1,20,0.05,gpt
+118,He crept into the room without a,English,sound,25,25,1,gpt
+119,Der Ausgang war gekennzeichnet by a large,code_switching,crowd,7,26,0.2692307692307692,gpt
+119,Der Ausgang war gekennzeichnet by a large,code_switching,sign,19,26,0.7307692307692307,gpt
+119,The exit was marked by a large,English,sign,22,22,1,gpt
+12,"Mike felt sorry, but it was not his",English,fault,19,19,1,gpt
+12,"Mike tat es leid, but it was not his",code_switching,fault,17,17,1,gpt
+120,Joe ging zum Baumarkt und kaufte Ersatzfenster at twice the original,code_switching,price,21,21,1,gpt
+120,Joe went to the hardware store and bought a replacement window at twice the original,English,price,25,25,1,gpt
+121,Sam could not believe her story was,English,true,22,22,1,gpt
+121,Sam konnte nicht glauben dass her story was,code_switching,false,1,25,0.04,gpt
+121,Sam konnte nicht glauben dass her story was,code_switching,true,24,25,0.96,gpt
+122,The Hausordnung erlaubte es Besuchern nicht to feed the,code_switching,animals,22,22,1,gpt
+122,The house rules did not allow visitors to feed the,English,animals,25,25,1,gpt
+123,Als Daniela ungeplannt im Restaurant auftachte gab Laurie ihm einen Stuhl from the adjacent,code_switching,building,1,24,0.041666666666666664,gpt
+123,Als Daniela ungeplannt im Restaurant auftachte gab Laurie ihm einen Stuhl from the adjacent,code_switching,room,15,24,0.625,gpt
+123,Als Daniela ungeplannt im Restaurant auftachte gab Laurie ihm einen Stuhl from the adjacent,code_switching,table,8,24,0.3333333333333333,gpt
+124,She honestly seriously thought she had seen a,English,ghost,24,26,0.9230769230769231,gpt
+124,She honestly seriously thought she had seen a,English,unicorn,2,26,0.07692307692307693,gpt
+124,"Sie dachte tatsächlich ernsthaft, dass she had seen a",code_switching,dog,9,22,0.4090909090909091,gpt
+124,"Sie dachte tatsächlich ernsthaft, dass she had seen a",code_switching,ghost,13,22,0.5909090909090909,gpt
+125,"After the jeweler was asked, he would examine the ring's huge",English,size,17,21,0.8095238095238095,gpt
+125,"After the jeweler was asked, he would examine the ring's huge",English,stone,4,21,0.19047619047619047,gpt
+125,"Nachdem der Juwelier gefragt wurde, überprüfte er the ring's huge",code_switching,size,24,24,1,gpt
+126,He always drinks tea in the morning and uses a special filter to catch the loose,English,leaf,25,25,1,gpt
+126,Morgens trinkt er immer Tee und benutzt ein besonderes Sieb to catch the loose,code_switching,leaf,3,22,0.13636363636363635,gpt
+126,Morgens trinkt er immer Tee und benutzt ein besonderes Sieb to catch the loose,code_switching,leaves,9,22,0.4090909090909091,gpt
+126,Morgens trinkt er immer Tee und benutzt ein besonderes Sieb to catch the loose,code_switching,tea,10,22,0.45454545454545453,gpt
+127,She installed a new anti-virus program and is now convinced that her laptop is,English,infected,6,22,0.2727272727272727,gpt
+127,She installed a new anti-virus program and is now convinced that her laptop is,English,secure,16,22,0.7272727272727273,gpt
+127,"Sie hat ein neues Anti-Virus-Programm installiert und ist nun überzeugt davon, that her laptop is",code_switching,secure,26,26,1,gpt
+128,"She needed a special charging cable, but could not find it inside her",English,bag,13,24,0.5416666666666666,gpt
+128,"She needed a special charging cable, but could not find it inside her",English,drawer,7,24,0.2916666666666667,gpt
+128,"She needed a special charging cable, but could not find it inside her",English,house,1,24,0.041666666666666664,gpt
+128,"She needed a special charging cable, but could not find it inside her",English,purse,3,24,0.125,gpt
+128,"Sie brauchte ein bestimmtes Ladekabel, aber could not find it inside her",code_switching,bag,22,22,1,gpt
+129,Er nahm sich einen kleinen Taschenrechner und typed in some,code_switching,numbers,26,26,1,gpt
+129,He took a small pocket calculator and typed in some,English,numbers,22,22,1,gpt
+13,"Der Lehrer sah, dass einige Schüler schummelten and wrote down their",code_switching,answers,15,18,0.8333333333333334,gpt
+13,"Der Lehrer sah, dass einige Schüler schummelten and wrote down their",code_switching,names,3,18,0.16666666666666666,gpt
+13,The teacher saw that some students were cheating and wrote down their,English,names,18,18,1,gpt
+130,Er holt einen neuen Korkenzieher and opened the,code_switching,bottle,20,20,1,gpt
+130,He took a new cork screw and opened the,English,bottle,26,26,1,gpt
+131,He folded out a big drying rack to dry the,English,clothes,22,22,1,gpt
+132,She grabbed a big pitcher near the sink and filled it with,English,water,23,23,1,gpt
+132,Sie schnappte sich am Waschbecken eine große Kanne and filled it with,code_switching,water,22,22,1,gpt
+133,Er leiht sich von Petra eine gute Fahrradpumpe to inflate the,code_switching,tire,1,24,0.041666666666666664,gpt
+133,Er leiht sich von Petra eine gute Fahrradpumpe to inflate the,code_switching,tires,23,24,0.9583333333333334,gpt
+133,He borrowed a good bicycle pump from Petra to inflate the,English,tires,21,21,1,gpt
+134,Er kaufte sich einen neuen Rasierer to trim his,code_switching,beard,19,20,0.95,gpt
+134,Er kaufte sich einen neuen Rasierer to trim his,code_switching,hair,1,20,0.05,gpt
+134,He bought a new razor to trim his,English,beard,26,26,1,gpt
+135,Er nahm sich ein neues Taschentuch to wipe his,code_switching,nose,23,23,1,gpt
+135,He got out a clean tissue to wipe his,English,nose,20,20,1,gpt
+136,"When he got older, he got himself a pair of new reading glasses to read the",English,books,1,26,0.038461538461538464,gpt
+136,"When he got older, he got himself a pair of new reading glasses to read the",English,newspaper,25,26,0.9615384615384616,gpt
+137,Im Supermarkt nahm er sich einen großen Einkaufswagen und started filling it with,code_switching,groceries,26,26,1,gpt
+137,In the supermarket he took a big shopping cart and started filling it with,English,groceries,20,20,1,gpt
+138,She needs a custom-made wheel chair with an electric,English,motor,25,25,1,gpt
+138,Sie braucht einen maßgefertigten Rollstuhl with an electric,code_switching,motor,22,22,1,gpt
+139,Sie nahm beim Backen ein Sieb und verteilte den powdered sugar over the,code_switching,cake,17,25,0.68,gpt
+139,Sie nahm beim Backen ein Sieb und verteilte den powdered sugar over the,code_switching,top,8,25,0.32,gpt
+139,"While baking, she took a sifter and sprinkled the powdered sugar over the",English,cake,3,21,0.14285714285714285,gpt
+139,"While baking, she took a sifter and sprinkled the powdered sugar over the",English,top,18,21,0.8571428571428571,gpt
+14,Maria schloss das Fenster vorne and locked the back,code_switching,door,16,16,1,gpt
+14,Maria shut the front window and locked the back,English,door,18,18,1,gpt
+140,She took her new pen to take some,English,notes,11,25,0.44,gpt
+140,She took her new pen to take some,English,write,14,25,0.56,gpt
+140,Sie nahm sich einen neuen Stift to take some,code_switching,notes,22,22,1,gpt
+141,Das Mädchen holte sich einen luxuriösen Fön and dried her,code_switching,hair,25,25,1,gpt
+141,The girl got herself a fancy blowdryer and dried her,English,hair,22,22,1,gpt
+142,"In order to examine the unusual bacterium carefully, the biologist bought a more powerful",English,microscope,26,26,1,gpt
+143,"Since the wooden garden chair had a hard seat, Karen fetched a soft, fluffy",English,cushion,20,20,1,gpt
+15,Man kann die Tür nicht öffnen with the wrong,code_switching,imsorrybuticanonlycompletesentencesthatareinenglishspanishoramixofthosetwolanguages,1,18,0.05555555555555555,gpt
+15,Man kann die Tür nicht öffnen with the wrong,code_switching,key,17,18,0.9444444444444444,gpt
+15,You can't open the door with the wrong,English,key,17,17,1,gpt
+16,I didn't like the show so I changed the,English,channel,19,19,1,gpt
+16,Mir hat die Show nicht gefallen so I changed the,code_switching,channel,18,18,1,gpt
+17,"Als der Strom ausfiel, sahen wir nichts mehr and the house became",code_switching,dark,17,17,1,gpt
+17,When the power went out we couldn't see anything and the house became,English,dark,16,16,1,gpt
+18,Alfonso has started biking to work instead of driving his,English,car,17,17,1,gpt
+18,"Alfonso hat angefangen, mit dem Fahrrad zur Arbeit zu fahren, instead of driving his",code_switching,car,18,18,1,gpt
+19,A dog in good health has a good sense of,English,smell,17,17,1,gpt
+19,Ein Hund in guter Gesundheit has a good sense of,code_switching,smell,18,18,1,gpt
+2,"In caring for hospitalized patients, a doctor often needs the help of a",English,nurse,17,17,1,gpt
+20,Die meisten Menschen in unserem Land spend December 25th with their,code_switching,families,11,17,0.6470588235294118,gpt
+20,Die meisten Menschen in unserem Land spend December 25th with their,code_switching,family,6,17,0.35294117647058826,gpt
+20,Most people in our country spend December 25th with their,English,family,19,19,1,gpt
+21,Sie sahen den Blitz and clearly heard the,code_switching,sound,2,19,0.10526315789473684,gpt
+21,Sie sahen den Blitz and clearly heard the,code_switching,thunder,17,19,0.8947368421052632,gpt
+21,They saw the lightening and clearly heard the,English,thunder,17,17,1,gpt
+22,She had to leave the movie when the baby started to,English,cry,18,18,1,gpt
+22,"Sie musste den Film verlassen, denn the baby started to",code_switching,cry,18,18,1,gpt
+23,"I greeted him, but I could not remember his",English,name,17,17,1,gpt
+23,"Ich begrüßte ihn, aber I could not remember his",code_switching,name,19,19,1,gpt
+24,"Although she heard it ringing, Nancy was too busy cleaning the chimney to get the",English,answer,5,19,0.2631578947368421,gpt
+24,"Although she heard it ringing, Nancy was too busy cleaning the chimney to get the",English,phone,14,19,0.7368421052631579,gpt
+24,"Obwohl sie es klingeln hörte, war Nancy zu beschäftigt damit, den Kamin zu reinigen, to get the",code_switching,door,1,17,0.058823529411764705,gpt
+24,"Obwohl sie es klingeln hörte, war Nancy zu beschäftigt damit, den Kamin zu reinigen, to get the",code_switching,fire,9,17,0.5294117647058824,gpt
+24,"Obwohl sie es klingeln hörte, war Nancy zu beschäftigt damit, den Kamin zu reinigen, to get the",code_switching,heat,4,17,0.23529411764705882,gpt
+24,"Obwohl sie es klingeln hörte, war Nancy zu beschäftigt damit, den Kamin zu reinigen, to get the",code_switching,warmth,3,17,0.17647058823529413,gpt
+25,"After the hurricane shattered the window, the room was filled with broken",English,glass,17,17,1,gpt
+25,"Nachdem der Hurrikan das Fenster zerstört hatte, war das Zimmer filled with broken",code_switching,glass,19,19,1,gpt
+26,Der unhöfliche Kellner im Restaurant was not given a,code_switching,tip,18,18,1,gpt
+26,The rude waiter in the restaurant was not given a,English,tip,18,18,1,gpt
+27,"Dass er aufgewachsen war im Süden, you could tell by his",code_switching,accent,19,19,1,gpt
+27,That he had grown up in the South you could tell by his,English,accent,17,17,1,gpt
+28,Be careful because the top of the stove is very,English,hot,19,19,1,gpt
+29,"Wenn du ins Bett gehst, turn off the",code_switching,light,9,19,0.47368421052631576,gpt
+29,"Wenn du ins Bett gehst, turn off the",code_switching,lights,10,19,0.5263157894736842,gpt
+29,When you go to bed turn off the,English,light,10,18,0.5555555555555556,gpt
+29,When you go to bed turn off the,English,lights,8,18,0.4444444444444444,gpt
+3,"After realizing he forgot utensils for his salad, the customer went back to get himself a",English,fork,17,17,1,gpt
+3,"Nachdem er bemerkte, dass er das Besteck für seinen Salat vergessen hatte, ging der Kunde zurück to get himself a",code_switching,fork,19,19,1,gpt
+30,Paul malte den Anzug des Clowns blau und gab him a big red,code_switching,balloon,9,17,0.5294117647058824,gpt
+30,Paul malte den Anzug des Clowns blau und gab him a big red,code_switching,nose,8,17,0.47058823529411764,gpt
+30,Paul painted the clown's suit blue and gave him a big red,English,nose,19,19,1,gpt
+31,Bill jumped in the lake and made a big,English,splash,18,18,1,gpt
+31,Bill sprang in den See and made a big,code_switching,splash,18,18,1,gpt
+32,"Sein Chef in der Firma, in der er nachmittags arbeitet, refused to give him a",code_switching,raise,17,17,1,gpt
+32,The boss of the store where he worked afternoons refused to give him a,English,raise,17,17,1,gpt
+33,"Er wusste, dass er Chris anrufen konnte, auch in the middle of the",code_switching,night,19,19,1,gpt
+33,"He knew that he could call Chris, even in the middle of the",English,night,17,17,1,gpt
+34,Die Kinder der Schule vor meinem Haus went outside to,code_switching,play,18,18,1,gpt
+34,The children from the school across from my house went outside to,English,play,18,18,1,gpt
+35,Die junge Mutter aus der Nachbarschaft fütterte her baby some warm,code_switching,milk,18,18,1,gpt
+35,The young mother in the neighborhood fed her baby some warm,English,milk,18,18,1,gpt
+36,"Die Schulen wurden geschlossen, weil die Lehrer beschlossen to go on",code_switching,strike,18,18,1,gpt
+36,The schools closed down because the teachers decided to go on,English,strike,18,18,1,gpt
+37,"Nur wenige Minuten nach seiner Ankunft im Büro, verschüttete der Detective his thermos full of",code_switching,coffee,18,18,1,gpt
+37,"Within minutes of arriving at the office, the detective spilled his thermos full of",English,coffee,18,18,1,gpt
+38,Mein Mitbewohner aus Berlin ließ the dirty dishes in the,code_switching,sink,17,17,1,gpt
+38,My roommate from Berlin left the dirty dishes in the,English,sink,19,19,1,gpt
+39,Richard was afraid to walk near the edge of the cliff because he was afraid to,English,fall,16,16,1,gpt
+4,"Das kleine Mädchen weigerte sich, schlafen zu gehen, until he told her a",code_switching,story,16,16,1,gpt
+4,The little girl refused to go to sleep until he told her a,English,story,19,19,1,gpt
+40,Die Mathelehrerin der vierten Klasse konnte nicht gut sehen without her thick,code_switching,glasses,16,16,1,gpt
+40,The fourth grade math teacher could not see well without her thick,English,glasses,19,19,1,gpt
+41,Die meisten Haiangriffe passieren very close to,code_switching,shore,18,18,1,gpt
+41,Most shark attacks occur very close to,English,shore,16,16,1,gpt
+42,Alle hupten den alten Mann an who was driving too,code_switching,fast,11,18,0.6111111111111112,gpt
+42,Alle hupten den alten Mann an who was driving too,code_switching,late,2,18,0.1111111111111111,gpt
+42,Alle hupten den alten Mann an who was driving too,code_switching,slow,2,18,0.1111111111111111,gpt
+42,Alle hupten den alten Mann an who was driving too,code_switching,slowly,3,18,0.16666666666666666,gpt
+42,Everyone was honking at the old man who was driving too,English,fast,14,19,0.7368421052631579,gpt
+42,Everyone was honking at the old man who was driving too,English,slowly,5,19,0.2631578947368421,gpt
+43,Keine seiner Geschichten made any real,code_switching,difference,1,19,0.05263157894736842,gpt
+43,Keine seiner Geschichten made any real,code_switching,impact,17,19,0.8947368421052632,gpt
+43,Keine seiner Geschichten made any real,code_switching,sense,1,19,0.05263157894736842,gpt
+43,None of his stories made any real,English,difference,5,18,0.2777777777777778,gpt
+43,None of his stories made any real,English,impact,13,18,0.7222222222222222,gpt
+44,Der Sekretär des Büros schickte the letter without a,code_switching,delay,2,18,0.1111111111111111,gpt
+44,Der Sekretär des Büros schickte the letter without a,code_switching,doubt,1,18,0.05555555555555555,gpt
+44,Der Sekretär des Büros schickte the letter without a,code_switching,response,7,18,0.3888888888888889,gpt
+44,Der Sekretär des Büros schickte the letter without a,code_switching,signature,8,18,0.4444444444444444,gpt
+44,The office secretary mailed the letter without a,English,stamp,17,17,1,gpt
+45,Die Kühe liefen von der Sonne weg into the cool,code_switching,air,3,17,0.17647058823529413,gpt
+45,Die Kühe liefen von der Sonne weg into the cool,code_switching,shade,14,17,0.8235294117647058,gpt
+45,The cows moved from the sun into the cool,English,shade,18,18,1,gpt
+46,Der Mann nebenan spielte his stereo much too,code_switching,loud,17,17,1,gpt
+46,The man downstairs played his stereo much too,English,loud,4,18,0.2222222222222222,gpt
+46,The man downstairs played his stereo much too,English,loudly,14,18,0.7777777777777778,gpt
+47,Die Jungen spielten Murmeln and the girls jumped,code_switching,high,6,18,0.3333333333333333,gpt
+47,Die Jungen spielten Murmeln and the girls jumped,code_switching,higher,8,18,0.4444444444444444,gpt
+47,Die Jungen spielten Murmeln and the girls jumped,code_switching,over,3,18,0.16666666666666666,gpt
+47,Die Jungen spielten Murmeln and the girls jumped,code_switching,rope,1,18,0.05555555555555555,gpt
+47,The boys played marbles and the girls jumped,English,rope,18,18,1,gpt
+48,Der Surfer aus Hawaii fiel von seinem Surfboard after the first big,code_switching,wave,17,17,1,gpt
+48,The surfer from Hawaii fell off his surfboard after the first big,English,wave,18,18,1,gpt
+49,Tim threw a rock and broke the,English,window,17,17,1,gpt
+49,Tim warf einen Stein and broke the,code_switching,window,17,17,1,gpt
+5,He wrote himself a note so that he wouldn't,English,forget,17,17,1,gpt
+50,Steve spilled coffee all over his white,English,shirt,17,17,1,gpt
+50,Steve verschüttete Kaffee all over his white,code_switching,shirt,18,18,1,gpt
+51,"Er entschied sich, im Iran zu reisen, obwohl er wusste, it could be",code_switching,dangerous,16,16,1,gpt
+51,He decided to travel to Iran even though he knew it could be,English,dangerous,18,18,1,gpt
+52,Cold damp weather makes her joints ache so she took some aspirin for the,English,pain,16,16,1,gpt
+52,"Kalte, feuchte Witterung lässt ihre Gelenke schmerzen, deshalb nahm sie some aspirin for the",code_switching,pain,16,16,1,gpt
+53,"Before she arrived, he opened a bottle of wine and put on some soft",English,music,17,17,1,gpt
+53,"Bevor sie ankam, öffnete er eine Flasche Wein and put on some soft",code_switching,music,16,16,1,gpt
+54,Das Schiff mit den weißen Segeln verschwand into the thick,code_switching,fog,18,18,1,gpt
+54,The ship with the white sails disappeared into the thick,English,fog,17,17,1,gpt
+55,Ron bought a board for the window that was too long and then he bought one that was way too,English,short,17,17,1,gpt
+55,"Ron kaufte ein Brett für das Fenster, das zu lang war, und dann kaufte er eins, that was way too",code_switching,big,6,16,0.375,gpt
+55,"Ron kaufte ein Brett für das Fenster, das zu lang war, und dann kaufte er eins, that was way too",code_switching,long,7,16,0.4375,gpt
+55,"Ron kaufte ein Brett für das Fenster, das zu lang war, und dann kaufte er eins, that was way too",code_switching,short,3,16,0.1875,gpt
+56,"Als das Wetter wärmer wurde, begann Mark, seine leichtere Jacke zu tragen, und zwar nicht his heavy winter",code_switching,coat,18,18,1,gpt
+56,"As the weather got warmer, Mark started wearing his lighter jacket instead of his heavy winter",English,coat,16,16,1,gpt
+57,Er kaufte ihr eine Perlenkette for her,code_switching,birthday,12,17,0.7058823529411765,gpt
+57,Er kaufte ihr eine Perlenkette for her,code_switching,gift,5,17,0.29411764705882354,gpt
+57,He bought her a pearl necklace for her,English,birthday,17,17,1,gpt
+58,Der junge Mann im Park must keep his pet on a,code_switching,leash,18,18,1,gpt
+58,The young man in the park must keep his pet on a,English,leash,16,16,1,gpt
+59,"Rachel liebt den Geruch von Tabak, but she can't stand all the",code_switching,smoke,16,16,1,gpt
+59,Rachel loves the smell of tobacco but she can't stand all the,English,smoke,18,18,1,gpt
+6,Die Häftlinge im Gefängnis were planning their,code_switching,escape,18,18,1,gpt
+6,The inmates in prison were planning their,English,escape,19,19,1,gpt
+60,"Er hatte gerade genug Zeit, einen Kuchen zu kaufen und sich umzuziehen before the guests",code_switching,arrive,15,16,0.9375,gpt
+60,"Er hatte gerade genug Zeit, einen Kuchen zu kaufen und sich umzuziehen before the guests",code_switching,arrived,1,16,0.0625,gpt
+60,He had just enough time to buy a cake from the store and change his clothes before the guests,English,arrive,8,17,0.47058823529411764,gpt
+60,He had just enough time to buy a cake from the store and change his clothes before the guests,English,arrived,9,17,0.5294117647058824,gpt
+61,Das Eichhörnchen versteckte ein paar Nüsse in the big,code_switching,tree,16,16,1,gpt
+61,The squirrel stored some nuts in the big,English,tree,18,18,1,gpt
+62,Every morning before school his mother laid out his clothes and packed his,English,bag,16,16,1,gpt
+62,Jeden morgen vor der Schule legte seine Mutter seine Kleidung raus and packed his,code_switching,bag,14,18,0.7777777777777778,gpt
+62,Jeden morgen vor der Schule legte seine Mutter seine Kleidung raus and packed his,code_switching,lunch,4,18,0.2222222222222222,gpt
+63,"Er kündigte seinen Job und verließ seine Familie, so he could sail around the",code_switching,world,16,16,1,gpt
+63,He quit his job and left his family so that he could sail around the,English,world,18,18,1,gpt
+64,Berühre auf gar keinen Fall the sticky wet,code_switching,floor,14,16,0.875,gpt
+64,Berühre auf gar keinen Fall the sticky wet,code_switching,surface,1,16,0.0625,gpt
+64,Berühre auf gar keinen Fall the sticky wet,code_switching,thing,1,16,0.0625,gpt
+64,"In any case, don't touch the sticky wet",English,floor,10,17,0.5882352941176471,gpt
+64,"In any case, don't touch the sticky wet",English,mess,1,17,0.058823529411764705,gpt
+64,"In any case, don't touch the sticky wet",English,surface,2,17,0.11764705882352941,gpt
+64,"In any case, don't touch the sticky wet",English,thing,4,17,0.23529411764705882,gpt
+65,Cats loved to be scratched behind the,English,ears,18,18,1,gpt
+65,"Katzen lieben es, gekrault zu werden behind the",code_switching,couch,4,17,0.23529411764705882,gpt
+65,"Katzen lieben es, gekrault zu werden behind the",code_switching,ears,4,17,0.23529411764705882,gpt
+65,"Katzen lieben es, gekrault zu werden behind the",code_switching,scenes,2,17,0.11764705882352941,gpt
+65,"Katzen lieben es, gekrault zu werden behind the",code_switching,sofa,7,17,0.4117647058823529,gpt
+66,Die weiße Möve tauchte ab and caught a,code_switching,fish,18,18,1,gpt
+66,The white seagull dove down and caught a,English,fish,15,15,1,gpt
+67,John fegte den Boden with a long,code_switching,broom,7,16,0.4375,gpt
+67,John fegte den Boden with a long,code_switching,brush,1,16,0.0625,gpt
+67,John fegte den Boden with a long,code_switching,handle,7,16,0.4375,gpt
+67,John fegte den Boden with a long,code_switching,mop,1,16,0.0625,gpt
+67,John swept the floor with a long,English,mop,18,18,1,gpt
+68,He was cold most of the night and finally got up to get another,English,blanket,17,17,1,gpt
+68,"Ihm war die ganze Nacht kalt, bis er schließlich aufstand to get another",code_switching,blanket,1,16,0.0625,gpt
+68,"Ihm war die ganze Nacht kalt, bis er schließlich aufstand to get another",code_switching,drink,15,16,0.9375,gpt
+69,"At first the boy refused, but eventually he changed his",English,mind,16,16,1,gpt
+7,Giraffes are known for their long necks and zebras for their,English,stripes,18,18,1,gpt
+70,Rafael möchte den Wald schützen by guarding every,code_switching,day,1,17,0.058823529411764705,gpt
+70,Rafael möchte den Wald schützen by guarding every,code_switching,tree,16,17,0.9411764705882353,gpt
+70,Rafael wants to preserve the forest by guarding every,English,tree,16,16,1,gpt
+71,Es gab bunte Bilder on every single,code_switching,day,3,16,0.1875,gpt
+71,Es gab bunte Bilder on every single,code_switching,occasion,1,16,0.0625,gpt
+71,Es gab bunte Bilder on every single,code_switching,page,9,16,0.5625,gpt
+71,Es gab bunte Bilder on every single,code_switching,wall,3,16,0.1875,gpt
+71,There were colorful pictures on every single,English,wall,17,17,1,gpt
+72,"At the end of the trip, Pam had no more clothes to",English,wash,1,16,0.0625,gpt
+72,"At the end of the trip, Pam had no more clothes to",English,wear,15,16,0.9375,gpt
+72,Pam hatte am Ende der Reise no more clothes to,code_switching,clothes,6,15,0.4,gpt
+72,Pam hatte am Ende der Reise no more clothes to,code_switching,wear,9,15,0.6,gpt
+73,Sie züchteten Schweine on their,code_switching,farm,17,17,1,gpt
+73,They raised pigs on their,English,farm,16,16,1,gpt
+74,Er entschied sich für deutschen Wein because the imported stuff was too,code_switching,expensive,18,18,1,gpt
+74,He settled for German wine because the imported stuff was too,English,expensive,16,16,1,gpt
+75,"Simon denkt, dass es ok ist, sich laute Musik anzuhören, even if his door is",code_switching,closed,3,17,0.17647058823529413,gpt
+75,"Simon denkt, dass es ok ist, sich laute Musik anzuhören, even if his door is",code_switching,open,14,17,0.8235294117647058,gpt
+75,Simon thinks it's ok to listen to loud music even if his door is,English,closed,16,16,1,gpt
+76,His skin was bright red from spending time at the,English,beach,4,17,0.23529411764705882,gpt
+76,His skin was bright red from spending time at the,English,sun,13,17,0.7647058823529411,gpt
+76,Seine Haut war knallrot from spending time at the,code_switching,beach,3,17,0.17647058823529413,gpt
+76,Seine Haut war knallrot from spending time at the,code_switching,sun,14,17,0.8235294117647058,gpt
+77,Phil nutzte die Pipette und tat einige drops in his,code_switching,eye,1,16,0.0625,gpt
+77,Phil nutzte die Pipette und tat einige drops in his,code_switching,hand,11,16,0.6875,gpt
+77,Phil nutzte die Pipette und tat einige drops in his,code_switching,sample,4,16,0.25,gpt
+77,Phil used the dropper to put some drops in his,English,eyes,17,17,1,gpt
+78,"Der Oberst wünschte sich der Feldwebel würde seine Befehle nicht als höfliche Bitte wahrnehmen, but as a direct",code_switching,order,15,15,1,gpt
+78,The colonel wished the sergeant would treat his command not as a polite request but as a direct,English,order,16,16,1,gpt
+79,Sharon dried the bowls with a big,English,towel,18,18,1,gpt
+79,Sharon trocknete die Schüsseln with a big,code_switching,towel,17,17,1,gpt
+8,Marsha knew the guests could remain eating appetizers for at least another,English,hour,19,19,1,gpt
+80,Misch die Karten thoroughly before you,code_switching,deal,3,17,0.17647058823529413,gpt
+80,Misch die Karten thoroughly before you,code_switching,play,6,17,0.35294117647058826,gpt
+80,Misch die Karten thoroughly before you,code_switching,shuffle,8,17,0.47058823529411764,gpt
+80,Shuffle the cards thoroughly before you,English,play,17,17,1,gpt
+81,"Esther dachte nicht, dass das Schwert gefährlich war, because it wasn't very",code_switching,dangerous,16,17,0.9411764705882353,gpt
+81,"Esther dachte nicht, dass das Schwert gefährlich war, because it wasn't very",code_switching,sharp,1,17,0.058823529411764705,gpt
+81,Esther didn't think the sword was dangerous because it wasn't very,English,sharp,17,17,1,gpt
+82,Das Kleinkind schrie ununterbrochen and upset her,code_switching,again,1,17,0.058823529411764705,gpt
+82,Das Kleinkind schrie ununterbrochen and upset her,code_switching,badly,2,17,0.11764705882352941,gpt
+82,Das Kleinkind schrie ununterbrochen and upset her,code_switching,completely,7,17,0.4117647058823529,gpt
+82,Das Kleinkind schrie ununterbrochen and upset her,code_switching,deeply,3,17,0.17647058823529413,gpt
+82,Das Kleinkind schrie ununterbrochen and upset her,code_switching,mother,1,17,0.058823529411764705,gpt
+82,Das Kleinkind schrie ununterbrochen and upset her,code_switching,today,2,17,0.11764705882352941,gpt
+82,Das Kleinkind schrie ununterbrochen and upset her,code_switching,too,1,17,0.058823529411764705,gpt
+82,The child cried continuously and upset her,English,mother,17,17,1,gpt
+83,Die Mieter entschieden sich nach weiter steigenden Mietpreisen to take their landlord to,code_switching,court,15,15,1,gpt
+84,"Als George nicht in sein Auto kam, kniete er sich hin und suchte under the bumper for the spare",code_switching,tire,15,15,1,gpt
+84,"When George couldn't get into his car, he got down on one knee and reached under the bumper for the spare",English,tire,16,16,1,gpt
+85,Die Bauarbeiterin hatte sehr muskulöse Arme bekommen from unloading cement from the,code_switching,site,5,17,0.29411764705882354,gpt
+85,Die Bauarbeiterin hatte sehr muskulöse Arme bekommen from unloading cement from the,code_switching,truck,12,17,0.7058823529411765,gpt
+85,The construction worker had developed very powerful arms from unloading cement from the,English,truck,16,16,1,gpt
+86,Es war ihr immer wichtig to be on,code_switching,time,17,17,1,gpt
+86,It was important for him to be on,English,time,16,16,1,gpt
+87,Die Katze lag gerne curled up in Jill's,code_switching,lap,17,17,1,gpt
+87,The cat liked to curl up in Jill's,English,lap,17,17,1,gpt
+88,Our long-awaited guests should be arriving,English,soon,17,17,1,gpt
+88,Unsere lang erwarteten Gäste should be arriving,code_switching,soon,17,17,1,gpt
+89,Each night at midnight the boy scouts built a huge,English,campfire,1,17,0.058823529411764705,gpt
+89,Each night at midnight the boy scouts built a huge,English,fire,16,17,0.9411764705882353,gpt
+89,Jede Nacht um Mitternacht machten the boy scouts a huge,code_switching,campfire,2,16,0.125,gpt
+89,Jede Nacht um Mitternacht machten the boy scouts a huge,code_switching,fire,14,16,0.875,gpt
+9,Every morning Susan braids her little daughter's hair and helps her dress for,English,school,16,16,1,gpt
+9,Jeden Morgen flechtet Susan ihrer kleinen Tochter die Haare and helps her dress for,code_switching,school,17,17,1,gpt
+90,"Es regnet und ich habe alles vergessen: my coat, hat, and",code_switching,gloves,2,17,0.11764705882352941,gpt
+90,"Es regnet und ich habe alles vergessen: my coat, hat, and",code_switching,scarf,15,17,0.8823529411764706,gpt
+90,"It's raining, and I forgot everything: my coat, hat, and",English,gloves,1,16,0.0625,gpt
+90,"It's raining, and I forgot everything: my coat, hat, and",English,scarf,1,16,0.0625,gpt
+90,"It's raining, and I forgot everything: my coat, hat, and",English,umbrella,14,16,0.875,gpt
+91,I just had a new sound system installed in my brand new,English,home,17,17,1,gpt
+91,Ich ließ mir vor kurzem eine neue Musikanlage einbauen in my brand new,code_switching,home,16,17,0.9411764705882353,gpt
+91,Ich ließ mir vor kurzem eine neue Musikanlage einbauen in my brand new,code_switching,house,1,17,0.058823529411764705,gpt
+92,"Die Umzugsleute schienen es sehr zu genießen, to toss the boxes marked",code_switching,correctly,1,18,0.05555555555555555,gpt
+92,"Die Umzugsleute schienen es sehr zu genießen, to toss the boxes marked",code_switching,fragile,17,18,0.9444444444444444,gpt
+92,The movers seemed to take great delight in tossing the boxes marked,English,fragile,17,17,1,gpt
+93,An heißen Tagen sonnen sich viele Leute on the nearest,code_switching,beach,17,17,1,gpt
+93,"On hot days, many people sun themselves on the nearest",English,beach,15,15,1,gpt
+94,Er mochte Zitrone und Zucker in his hot,code_switching,tea,17,17,1,gpt
+94,He liked lemon and sugar in his hot,English,coffee,3,16,0.1875,gpt
+94,He liked lemon and sugar in his hot,English,tea,13,16,0.8125,gpt
+95,Es ist schwer zuzugeben when one is,code_switching,alone,2,17,0.11764705882352941,gpt
+95,Es ist schwer zuzugeben when one is,code_switching,guilty,3,17,0.17647058823529413,gpt
+95,Es ist schwer zuzugeben when one is,code_switching,honest,1,17,0.058823529411764705,gpt
+95,Es ist schwer zuzugeben when one is,code_switching,tired,2,17,0.11764705882352941,gpt
+95,Es ist schwer zuzugeben when one is,code_switching,wrong,9,17,0.5294117647058824,gpt
+95,It's hard to admit when one is,English,wrong,18,18,1,gpt
+96,"After dinner, they spent a long time over coffee just",English,talking,14,14,1,gpt
+96,Nach dem Abendessen verbrachten sie viel Zeit over coffee just,code_switching,later,4,18,0.2222222222222222,gpt
+96,Nach dem Abendessen verbrachten sie viel Zeit over coffee just,code_switching,like,1,18,0.05555555555555555,gpt
+96,Nach dem Abendessen verbrachten sie viel Zeit over coffee just,code_switching,talking,7,18,0.3888888888888889,gpt
+96,Nach dem Abendessen verbrachten sie viel Zeit over coffee just,code_switching,together,6,18,0.3333333333333333,gpt
+97,Der biologische Dünger helped enrich the,code_switching,soil,24,24,1,gpt
+97,The organic fertilizer helped enrich the,English,soil,22,22,1,gpt
+98,Das Problem mit meinem Freund Paul ist that he can't take a,code_switching,break,20,21,0.9523809523809523,gpt
+98,Das Problem mit meinem Freund Paul ist that he can't take a,code_switching,picture,1,21,0.047619047619047616,gpt
+98,The problem with my friend Paul is that he can't take a,English,break,24,25,0.96,gpt
+98,The problem with my friend Paul is that he can't take a,English,hint,1,25,0.04,gpt
+99,Die zwei Räuber trugen Waffen but they didn't,code_switching,shoot,20,24,0.8333333333333334,gpt
+99,Die zwei Räuber trugen Waffen but they didn't,code_switching,use,4,24,0.16666666666666666,gpt
+99,The two robbers carried guns but didn't,English,shoot,20,20,1,gpt
+NA,"After the rents went up again, the tenants decided to take their landlord to",English,court,17,17,1,gpt
+NA,"Anfangs lehnte der Junge es ab, aber eventually he changed his",code_switching,mind,16,16,1,gpt
+NA,"Because Tom wants to go to India and work there for a year, he applies for a",English,visa,25,25,1,gpt
+NA,"Bei der Versorgung von hospitalisierten Patienten, benötigt ein Artz oft the help of a",code_switching,nurse,17,17,1,gpt
+NA,"Da der hölzerne Gartenstuhl eine harte Sitzfläche hatte, holte Karen a soft, fluffy",code_switching,cushion,23,25,0.92,gpt
+NA,"Da der hölzerne Gartenstuhl eine harte Sitzfläche hatte, holte Karen a soft, fluffy",code_switching,pillow,2,25,0.08,gpt
+NA,"Er besorgt sich im Alter eine neue Lesebrille, to read the",code_switching,books,9,18,0.5,gpt
+NA,"Er besorgt sich im Alter eine neue Lesebrille, to read the",code_switching,newspaper,9,18,0.5,gpt
+NA,"Er hat sich selbst eine Notiz geschrieben, so that he wouldn't",code_switching,forget,19,19,1,gpt
+NA,"Giraffen sind für ihre langen Hälse bekannt, and zebras for their",code_switching,stripes,19,19,1,gpt
+NA,"Marsha wusste, dass die Gäste noch weiter Appetithäppchen essen könnten, und zwar for at least another",code_switching,hour,18,18,1,gpt
+NA,"Niemand konnte Dan beim Klassentreffen wiedererkennen, because he had grown a",code_switching,beard,26,26,1,gpt
+NA,"Richard hatte Angst, nahe am Rand der Klippe zu gehen, because he was afraid to",code_switching,fall,17,17,1,gpt
+NA,"Sei vorsichtig, denn der obere Teil of the stove is very",code_switching,hot,18,18,1,gpt
+NA,"Sie klappt einen großen Wäscheständer auf, to dry the",code_switching,clothes,24,24,1,gpt
+NA,"Um die ungewöhnliche Bakterie sorgfältig untersuchen zu können, kaufte sich die Biologin a more powerful",code_switching,microscope,20,21,0.9523809523809523,gpt
+NA,"Um die ungewöhnliche Bakterie sorgfältig untersuchen zu können, kaufte sich die Biologin a more powerful",code_switching,powerful,1,21,0.047619047619047616,gpt
+NA,"Weil Tom nach Indien gehen und dort ein Jahr arbeiten möchte, he applies for a",code_switching,visa,22,22,1,gpt
+NA,"When Daniela arrived unexpectedly at the restaurant, Laurie got him a chair from the adjacent",English,bar,1,19,0.05263157894736842,gpt
+NA,"When Daniela arrived unexpectedly at the restaurant, Laurie got him a chair from the adjacent",English,room,5,19,0.2631578947368421,gpt
+NA,"When Daniela arrived unexpectedly at the restaurant, Laurie got him a chair from the adjacent",English,table,13,19,0.6842105263157895,gpt
