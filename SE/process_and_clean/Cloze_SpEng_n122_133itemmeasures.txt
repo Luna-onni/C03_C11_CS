@@ -1,0 +1,267 @@
+"InnerNumber" "Item" "Itemtype" "n_tokens" "n_types" "type_token_ratio" "total" "n_idio" "proportion_idiosyncratic"
+1 "Nora couldn't take the message because she didn't have a pencil or a piece of" "E" 19 1 0.0526315789473684 19 0 0
+1 "Nora no pudo tomar el mensaje porque no tenía un lapiz ni un piece of" "CS" 18 1 0.0555555555555556 18 0 0
+2 "Al atender a pacientes hospitalizados, un médico a veces necesita the help of a" "CS" 29 6 0.206896551724138 29 5 0.172413793103448
+2 "In caring for hospitalized patients, a doctor often needs the help of a" "E" 19 1 0.0526315789473684 19 0 0
+3 "After realizing he forgot utensils for his salad, the customer went back to get himself a" "E" 19 2 0.105263157894737 19 1 0.0526315789473684
+3 "Al darse cuenta que se le había olvidado de los cubiertos, el cliente regresó to get himself a" "CS" 18 10 0.555555555555556 18 8 0.444444444444444
+4 "La niñita se negó a dormirse hasta que he told her a" "CS" 20 2 0.1 20 1 0.05
+4 "The little girl refused to go to sleep until he told her a" "E" 16 1 0.0625 16 0 0
+5 "Los nietos de Ruby contrataron a una enfermera interna porque pensaron que era too old to live" "CS" 19 2 0.105263157894737 19 0 0
+5 "Ruby's grandchildren hired a live-in nurse because they thought she was too old to live" "E" 16 2 0.125 16 1 0.0625
+6 "Patricia had never seen a spider get tangled up in its own" "E" 29 1 0.0344827586206897 29 0 0
+6 "Patricia nunca había visto a una araña enredarse in its own" "CS" 18 3 0.166666666666667 18 2 0.111111111111111
+7 "El se escribió una nota so he wouldn't" "CS" 19 2 0.105263157894737 19 1 0.0526315789473684
+7 "He wrote himself a note so that he wouldn't" "E" 17 1 0.0588235294117647 17 0 0
+8 "Los prisioneros estaban planning their" "CS" 19 3 0.157894736842105 19 2 0.105263157894737
+8 "The prisoners were planning their" "E" 29 1 0.0344827586206897 29 0 0
+9 "Cada invierno se ve la casa de los Hernández y su enorme chimenea con puffs of billowing" "CS" 19 2 0.105263157894737 19 1 0.0526315789473684
+9 "Every winter you see the Hernandez house and its huge chimney with puffs of billowing" "E" 18 1 0.0555555555555556 18 0 0
+10 "Giraffes are known for their long necks and zebras for their" "E" 29 1 0.0344827586206897 29 0 0
+10 "Las jirafas son conocidas por sus cuellos largos y las zebras for their" "CS" 19 2 0.105263157894737 19 1 0.0526315789473684
+11 "Marsha no se preocupaba por la cena porque sabía que los invitados podrían seguir comiendo aperitivos for at least another" "CS" 17 1 0.0588235294117647 17 0 0
+11 "Marsha wasn't worried about dinner because she knew the guests could remain eating appetizers for at least another" "E" 20 1 0.05 20 0 0
+12 "Every morning Susan braids her little girl's hair then helps her dress for" "E" 19 1 0.0526315789473684 19 0 0
+12 "Todas las mañanas, Susan trenza el cabello de su hijita y luego helps her dress for" "CS" 18 1 0.0555555555555556 18 0 0
+13 "El novio tomó la mano de la novia y le colocó the ring on her" "CS" 18 2 0.111111111111111 18 1 0.0555555555555556
+13 "The groom took the bride's hand and placed the ring on her" "E" 19 1 0.0526315789473684 19 0 0
+14 "El pequeño cachorro creció to be a huge" "CS" 20 4 0.2 20 3 0.15
+14 "The little puppy grew up to be a huge" "E" 17 1 0.0588235294117647 17 0 0
+15 "Father carved the turkey with a" "E" 17 1 0.0588235294117647 17 0 0
+15 "Papá trinchó el turkey with a" "CS" 20 3 0.15 20 2 0.1
+16 "After the meeting I added my name to the" "E" 17 2 0.117647058823529 17 0 0
+16 "Después de la reunión, agregué mi name to the" "CS" 20 6 0.3 20 4 0.2
+17 "Mike felt sorry, but it was not his" "E" 17 3 0.176470588235294 17 2 0.117647058823529
+17 "Mike sintió pena, pero it was not his" "CS" 20 3 0.15 20 1 0.05
+18 "He tried to put the pieces of the broken plate back together with" "E" 18 1 0.0555555555555556 18 0 0
+18 "Intentó volver a juntar los pedazos del broken plate back together with" "CS" 19 2 0.105263157894737 19 1 0.0526315789473684
+19 "El profesor vio que algunos estudiantes estaban haciendo trampa and wrote down their" "CS" 17 4 0.235294117647059 17 3 0.176470588235294
+19 "The teacher saw that some students were cheating and wrote down their" "E" 20 2 0.1 20 1 0.05
+20 "Maria remembered to shut the front window and lock the back" "E" 17 2 0.117647058823529 17 1 0.0588235294117647
+20 "María se acordó de cerrar la ventana delantera y lock the back" "CS" 20 2 0.1 20 1 0.05
+21 "No puedes abrir la puerta with the wrong" "CS" 17 2 0.117647058823529 17 1 0.0588235294117647
+21 "You can't open the door with the wrong" "E" 20 3 0.15 20 0 0
+23 "Cuando se fue la luz, the house became" "CS" 29 4 0.137931034482759 29 3 0.103448275862069
+23 "When the power went out the house became" "E" 19 3 0.157894736842105 19 1 0.0526315789473684
+24 "Alfonso ha empezado a ir en bicicleta al trabajo instead of driving his" "CS" 17 1 0.0588235294117647 17 0 0
+24 "Alfonso has started biking to work instead of driving his" "E" 19 2 0.105263157894737 19 1 0.0526315789473684
+25 "A dog has a good sense of" "E" 19 5 0.263157894736842 19 4 0.210526315789474
+25 "Un perro tiene un good sense of" "CS" 29 6 0.206896551724138 29 3 0.103448275862069
+26 "La mayoría de la gente pasa el 25 de December with their" "CS" 18 1 0.0555555555555556 18 0 0
+26 "Most people spend December 25th with their" "E" 19 1 0.0526315789473684 19 0 0
+27 "At night the old woman made sure to lock the" "E" 20 1 0.05 20 0 0
+27 "En la noche la mujer mayor made sure to lock the" "CS" 17 1 0.0588235294117647 17 0 0
+28 "Ellos vieron el relámpago and heard the" "CS" 19 6 0.315789473684211 19 4 0.210526315789474
+28 "They saw the lightning and heard the" "E" 29 3 0.103448275862069 29 1 0.0344827586206897
+29 "Ella tuvo que salir del cine cuando the baby started to" "CS" 17 3 0.176470588235294 17 2 0.117647058823529
+29 "She had to leave the movie when the baby started to" "E" 20 1 0.05 20 0 0
+30 "I greeted him, but could not remember his last" "E" 20 2 0.1 20 1 0.05
+30 "Lo saludé, pero no podía remember his last" "CS" 17 1 0.0588235294117647 17 0 0
+32 "Although she heard it ringing, Nancy was too busy cleaning the chimney to get the" "E" 20 2 0.1 20 0 0
+32 "Aunque lo eschuchó sonar, Nancy estaba demasiado ocupada limpiando the chimney to get the" "CS" 17 9 0.529411764705882 17 7 0.411764705882353
+33 "After the hurricane, the area around the window was filled with broken" "E" 19 2 0.105263157894737 19 1 0.0526315789473684
+33 "Después del huracán, el área alrededor de la ventana was filled with broken" "CS" 29 3 0.103448275862069 29 2 0.0689655172413793
+35 "La disputa fue resuelta by a third" "CS" 19 4 0.210526315789474 19 2 0.105263157894737
+35 "The dispute was settled by a third" "E" 18 3 0.166666666666667 18 2 0.111111111111111
+36 "Se notaba que había crecido en the South by his" "CS" 18 7 0.388888888888889 18 6 0.333333333333333
+36 "You could tell he had grown up in the South by his" "E" 19 1 0.0526315789473684 19 0 0
+37 "Be careful because the top of the stove is very" "E" 19 3 0.157894736842105 19 2 0.105263157894737
+37 "Ten cuidado porque la parte de arriba del stove is very" "CS" 29 2 0.0689655172413793 29 1 0.0344827586206897
+38 "Cuando te vayas a dormir, turn off the" "CS" 17 3 0.176470588235294 17 2 0.117647058823529
+38 "When you go to bed turn off the" "E" 20 1 0.05 20 0 0
+39 "Cuando los dos se encontraron, uno de ellos held out his" "CS" 19 2 0.105263157894737 19 0 0
+39 "When the two met, one of them held out his" "E" 18 2 0.111111111111111 18 0 0
+40 "Pablo pintó el traje del payaso de azul y le dio a big red" "CS" 17 4 0.235294117647059 17 3 0.176470588235294
+40 "Paul painted the clown's suit blue and gave him a big red" "E" 20 2 0.1 20 1 0.05
+41 "Tom jumped in the lake and made a big" "E" 19 3 0.157894736842105 19 2 0.105263157894737
+41 "Tom saltó en el lago and made a big" "CS" 29 3 0.103448275862069 29 1 0.0344827586206897
+42 "Josie found she could not bend the elbow of her broken" "E" 17 1 0.0588235294117647 17 0 0
+42 "Josie se dio cuenta de que no podía doblar the elbow of her broken" "CS" 18 3 0.166666666666667 18 2 0.111111111111111
+43 "His boss refused to give him a" "E" 20 1 0.05 20 0 0
+43 "Su jefe se negó to give him a" "CS" 17 4 0.235294117647059 17 3 0.176470588235294
+44 "He knew that he could call Chris even if it was the middle of the" "E" 19 4 0.210526315789474 19 2 0.105263157894737
+44 "Él sabía que podía llamar a Chris incluso in the middle of the" "CS" 29 6 0.206896551724138 29 4 0.137931034482759
+45 "Los niños de la escuela went outside to" "CS" 17 1 0.0588235294117647 17 0 0
+45 "The school children went outside to" "E" 19 1 0.0526315789473684 19 0 0
+46 "Joan fed her baby some warm" "E" 18 3 0.166666666666667 18 2 0.111111111111111
+46 "Joan le dio de comer a su baby some warm" "CS" 19 3 0.157894736842105 19 0 0
+47 "Las escuelas se cerraron porque the teachers decided to go on" "CS" 19 3 0.157894736842105 19 2 0.105263157894737
+47 "The schools closed down because the teachers decided to go on" "E" 18 4 0.222222222222222 18 2 0.111111111111111
+48 "Dentro de minutos de llegar al trabajo, el ejecutivo spilled his thermos full of" "CS" 19 6 0.315789473684211 19 3 0.157894736842105
+48 "Within minutes of arriving at the office, the executive spilled his thermos full of" "E" 29 3 0.103448275862069 29 1 0.0344827586206897
+49 "Mi compañero de cuarto de Miami dejó the dirty dishes in the" "CS" 19 1 0.0526315789473684 19 0 0
+49 "My roommate from Miami left the dirty dishes in the" "E" 17 2 0.117647058823529 17 1 0.0588235294117647
+50 "Le descontaron una hora de pago for coming to work" "CS" 19 1 0.0526315789473684 19 0 0
+50 "She was docked one hour's pay for coming to work" "E" 18 1 0.0555555555555556 18 0 0
+51 "Ricardo estaba asustado de caminar cerca a la orilla del precipicio porque he was afraid he would" "CS" 18 4 0.222222222222222 18 3 0.166666666666667
+51 "Richard was afraid to walk near the edge of the cliff because he was afraid he would" "E" 29 3 0.103448275862069 29 2 0.0689655172413793
+52 "Nicole could not read very well without her thick" "E" 18 2 0.111111111111111 18 1 0.0555555555555556
+52 "Nicole no leía muy bien without her thick" "CS" 19 1 0.0526315789473684 19 0 0
+53 "La mayoría de los ataques de tiburones suceden very close to" "CS" 15 4 0.266666666666667 15 2 0.133333333333333
+53 "Most shark attacks occur very close to" "E" 19 6 0.315789473684211 19 3 0.157894736842105
+55 "Ninguno de sus books made any" "CS" 19 5 0.263157894736842 19 4 0.210526315789474
+55 "None of his books made any" "E" 29 2 0.0689655172413793 29 0 0
+56 "He mailed the letter without a" "E" 29 3 0.103448275862069 29 2 0.0689655172413793
+56 "Él envió un letter without a" "CS" 19 6 0.315789473684211 19 4 0.210526315789474
+57 "Las vacas se movieron del sun into the" "CS" 17 2 0.117647058823529 17 1 0.0588235294117647
+57 "The cows moved from the sun into the" "E" 20 3 0.15 20 1 0.05
+58 "William played his stereo much too" "E" 29 2 0.0689655172413793 29 1 0.0344827586206897
+58 "William tocó su stereo much too" "CS" 18 6 0.333333333333333 18 3 0.166666666666667
+60 "El surfista fue empujado de su tabla de surfear by the first" "CS" 19 2 0.105263157894737 19 1 0.0526315789473684
+60 "The surfer was knocked off his surfboard by the first" "E" 18 1 0.0555555555555556 18 0 0
+61 "Tim threw a rock and broke the" "E" 17 2 0.117647058823529 17 1 0.0588235294117647
+61 "Tim tiró una piedra and broke the" "CS" 20 2 0.1 20 1 0.05
+62 "Ricardo spilled coffee all over his clean white" "E" 20 3 0.15 20 1 0.05
+62 "Ricardo tiró el café all over his clean white" "CS" 17 6 0.352941176470588 17 4 0.235294117647059
+63 "He decided to travel in Iran even though he knew it could be" "E" 29 4 0.137931034482759 29 3 0.103448275862069
+63 "Él decidió ir a Irán a pesar de que he knew it could be" "CS" 19 4 0.210526315789474 19 3 0.157894736842105
+64 "Cold damp weather makes her joints ache so she's been taking a lot of aspirin for the" "E" 19 2 0.105263157894737 19 1 0.0526315789473684
+64 "El clima frío y húmedo le hace doler las articulaciones, así que ha estado tomando a lot of aspirin for the" "CS" 18 3 0.166666666666667 18 2 0.111111111111111
+65 "Antes que ella llegara él abrió una botella de vino y put on some soft" "CS" 29 5 0.172413793103448 29 3 0.103448275862069
+65 "Before she arrived he opened a bottle of wine and put on some soft" "E" 18 4 0.222222222222222 18 1 0.0555555555555556
+66 "El barco desapareció into the thick" "CS" 19 6 0.315789473684211 19 3 0.157894736842105
+66 "The ship disappeared into the thick" "E" 29 5 0.172413793103448 29 3 0.103448275862069
+67 "Ron bought a board for the window that was too long and then he bought one that was too" "E" 29 4 0.137931034482759 29 1 0.0344827586206897
+67 "Ron compró una tabla para la ventana que era demasiada larga y luego compró otra that was too" "CS" 19 6 0.315789473684211 19 3 0.157894736842105
+68 "A medida que el clima se volvió más cálido, Mark comenzó a usar su chaqueta más liviana en lugar de his heavy winter" "CS" 16 5 0.3125 16 4 0.25
+68 "As the weather got warmer, Mark started wearing his lighter jacket instead of his heavy winter" "E" 29 3 0.103448275862069 29 2 0.0689655172413793
+70 "Jorge debe mantener su pet on a" "CS" 17 4 0.235294117647059 17 2 0.117647058823529
+70 "Jorge must keep his pet on a" "E" 20 1 0.05 20 0 0
+71 "A Raquel le encanta el olor del tabaco pero she can't stand all the" "CS" 26 4 0.153846153846154 26 3 0.115384615384615
+71 "Rachel loves the smell of tobacco but she can't stand all the" "E" 18 4 0.222222222222222 18 3 0.166666666666667
+72 "He had just enough time to buy a cake from the store and change his clothes before the guests" "E" 18 2 0.111111111111111 18 1 0.0555555555555556
+72 "Él tuvo tiempo justo para comprar un pastel en la tienda y cambiarse de ropa before the guests" "CS" 19 1 0.0526315789473684 19 0 0
+73 "La ardilla guardó some nuts in the" "CS" 18 5 0.277777777777778 18 3 0.166666666666667
+73 "The squirrel stored some nuts in the" "E" 19 6 0.315789473684211 19 5 0.263157894736842
+74 "Every morning before school his mother laid out his clothes and packed his" "E" 19 4 0.210526315789474 19 3 0.157894736842105
+74 "Todas las mañanas, antes de ir a la escuela, su madre preparaba su ropa and packed his" "CS" 29 6 0.206896551724138 29 4 0.137931034482759
+75 "He quit his job and left his family so that he could sail around the" "E" 29 3 0.103448275862069 29 2 0.0689655172413793
+75 "Él dejó su trabajo y abandonó a su familia para poder sail around the" "CS" 19 3 0.157894736842105 19 2 0.105263157894737
+76 "Don't touch the sticky wet" "E" 19 12 0.631578947368421 19 8 0.421052631578947
+76 "No toque the sticky wet" "CS" 29 10 0.344827586206897 29 6 0.206896551724138
+77 "Cats loved to be scratched gently behind the" "E" 17 1 0.0588235294117647 17 0 0
+77 "Los gatos aman que los rasquen gently behind the" "CS" 20 2 0.1 20 1 0.05
+78 "La gaviota blanca se sumergió and caught a" "CS" 18 4 0.222222222222222 18 2 0.111111111111111
+78 "The white seagull dove down and caught a" "E" 29 4 0.137931034482759 29 3 0.103448275862069
+79 "Juan barrió el piso with a big" "CS" 20 1 0.05 20 0 0
+79 "Juan swept the floor with a big" "E" 17 2 0.117647058823529 17 1 0.0588235294117647
+80 "He was cold most of the night and finally got up to get another" "E" 17 3 0.176470588235294 17 2 0.117647058823529
+80 "Él pasó frío casi toda la noche y finalmente se levantó to get another" "CS" 20 3 0.15 20 2 0.1
+81 "Al principio el chico se negó, pero eventualmente he changed his" "CS" 18 2 0.111111111111111 18 1 0.0555555555555556
+81 "At first the boy refused, but eventually he changed his" "E" 19 3 0.157894736842105 19 2 0.105263157894737
+82 "Rafael quiere preservar el bosque nacional by guarding every" "CS" 18 7 0.388888888888889 18 5 0.277777777777778
+82 "Rafael wants to preserve the national forest by guarding every" "E" 19 5 0.263157894736842 19 3 0.157894736842105
+84 "Pamela did not have any clothes to" "E" 17 5 0.294117647058824 17 3 0.176470588235294
+84 "Pamela no tenía any clothes to" "CS" 19 7 0.368421052631579 19 5 0.263157894736842
+85 "Ellos criaban cerdos on their" "CS" 16 5 0.3125 16 4 0.25
+85 "They raised pigs on their" "E" 20 2 0.1 20 1 0.05
+86 "He settled for American wine because the imported stuff was too" "E" 18 3 0.166666666666667 18 2 0.111111111111111
+86 "Él se conformó con el vino americano porque the imported stuff was too" "CS" 19 3 0.157894736842105 19 1 0.0526315789473684
+87 "A Simón le parece bien escuchar música alta incluso si la puerta to his bedroom is" "CS" 19 3 0.157894736842105 19 1 0.0526315789473684
+87 "Simon thinks it's ok to listen to loud music even if the door to his bedroom is" "E" 18 2 0.111111111111111 18 0 0
+88 "His skin was red from spending the day at the" "E" 19 3 0.157894736842105 19 2 0.105263157894737
+88 "Su piel estaba roja por haber pasado the day at the" "CS" 29 4 0.137931034482759 29 2 0.0689655172413793
+89 "Felipe puso unas drops in his" "CS" 19 4 0.210526315789474 19 2 0.105263157894737
+89 "Felipe put some drops in his" "E" 18 3 0.166666666666667 18 2 0.111111111111111
+90 "The colonel wished the sergeant would treat his command not as a polite request but as a direct" "E" 17 3 0.176470588235294 17 1 0.0588235294117647
+90 "Él coronel deseaba que el sargento tratara su orden no como una solicitud educada, but as a direct" "CS" 20 3 0.15 20 2 0.1
+91 "Sharon dried the dishes with a" "E" 19 3 0.157894736842105 19 0 0
+91 "Sharon secó los dishes with a" "CS" 18 4 0.222222222222222 18 1 0.0555555555555556
+93 "Esther didn't think the sword was that dangerous because it wasn't very" "E" 19 3 0.157894736842105 19 2 0.105263157894737
+93 "Esther no pensaba que la espada era tan peligrosa porque it wasn't very" "CS" 17 4 0.235294117647059 17 1 0.0588235294117647
+94 "El bebé lloró and upset his" "CS" 18 4 0.222222222222222 18 2 0.111111111111111
+94 "The baby cried and upset his" "E" 19 4 0.210526315789474 19 0 0
+95 "Los inquilinos decidieron llevar a su landlord to" "CS" 19 4 0.210526315789474 19 3 0.157894736842105
+95 "The tenants decided to take their landlord to" "E" 18 5 0.277777777777778 18 4 0.222222222222222
+96 "Cuando Jorge no pudo entrar a su auto, se arrodilló y buscó debajo del paragolpes for the spare" "CS" 17 3 0.176470588235294 17 1 0.0588235294117647
+96 "When Jorge couldn't get into his car, he got down on one knee and reached under the bumper for the spare" "E" 20 2 0.1 20 0 0
+97 "El trabajador de construcción habia desarrollado brazos muy fuertes de bajar las bolsas de cement from the" "CS" 19 4 0.210526315789474 19 3 0.157894736842105
+97 "The construction worker had developed very powerful arms from unloading bags of cement from the" "E" 18 1 0.0555555555555556 18 0 0
+98 "Es importante to be on" "CS" 17 3 0.176470588235294 17 2 0.117647058823529
+98 "It is important to be on" "E" 29 4 0.137931034482759 29 2 0.0689655172413793
+99 "El gato estaba acurrucado in Aunt Anna's" "CS" 29 7 0.241379310344828 29 3 0.103448275862069
+99 "The cat was curled up in Aunt Anna's" "E" 19 4 0.210526315789474 19 2 0.105263157894737
+100 "Nuestros invitados expeciales should be arriving" "CS" 19 4 0.210526315789474 19 3 0.157894736842105
+100 "Our special guests should be arriving" "E" 29 3 0.103448275862069 29 2 0.0689655172413793
+101 "Each night the campers built a huge" "E" 18 3 0.166666666666667 18 1 0.0555555555555556
+101 "Todas las noches los campistas built a huge" "CS" 19 2 0.105263157894737 19 0 0
+102 "Está lloviendo, y me olvidé de mi coat, hat, and" "CS" 29 6 0.206896551724138 29 2 0.0689655172413793
+102 "It's raining, and I forgot my coat, hat, and" "E" 19 6 0.315789473684211 19 4 0.210526315789474
+103 "I just had a new sound system installed in my" "E" 29 5 0.172413793103448 29 3 0.103448275862069
+103 "Recientemente tuve un sistema de sonido nuevo installed in my" "CS" 19 5 0.263157894736842 19 1 0.0526315789473684
+104 "El hombre que manejaba el equipaje parecía tomar mucho placer en arrojar the boxes marked" "CS" 17 5 0.294117647058824 17 3 0.176470588235294
+104 "The luggage handler seemed to take great delight in tossing the boxes marked" "E" 19 8 0.421052631578947 19 7 0.368421052631579
+105 "Los días calurosos, muchas personas sun themselves on the" "CS" 20 7 0.35 20 4 0.2
+105 "On hot days, many people sun themselves on the" "E" 17 4 0.235294117647059 17 3 0.176470588235294
+106 "He liked putting lemon and sugar in his hot" "E" 19 6 0.315789473684211 19 4 0.210526315789474
+106 "Le gusta agregar limón y azúcar in his hot" "CS" 29 5 0.172413793103448 29 1 0.0344827586206897
+107 "Es difícil admitir when one is" "CS" 18 3 0.166666666666667 18 2 0.111111111111111
+107 "It's hard to admit when one is" "E" 19 3 0.157894736842105 19 2 0.105263157894737
+108 "After dinner, they spent a long time over coffee just" "E" 29 5 0.172413793103448 29 2 0.0689655172413793
+108 "Después de la cena, ellos pasaron mucho tiempo over coffee just" "CS" 18 4 0.222222222222222 18 2 0.111111111111111
+109 "El fertilizante orgánico helped enrich the" "CS" 18 6 0.333333333333333 18 3 0.166666666666667
+109 "The organic fertilizer helped enrich the" "E" 19 5 0.263157894736842 19 3 0.157894736842105
+110 "El problema con Cristina es que she can't take a" "CS" 20 3 0.15 20 0 0
+110 "The problem with Christina is that she can't take a" "E" 17 5 0.294117647058824 17 2 0.117647058823529
+111 "Los dos ladrones llevaban pistolas but they didn't" "CS" 18 5 0.277777777777778 18 3 0.166666666666667
+111 "The two robbers carried guns but they didn't" "E" 18 2 0.111111111111111 18 0 0
+112 "After two hours of hard work they decided to take a short" "E" 20 4 0.2 20 3 0.15
+112 "Después de dos horas de trabajo duro ellos decidieron to take a short" "CS" 17 2 0.117647058823529 17 1 0.0588235294117647
+113 "He carefully positioned the violin under his" "E" 19 5 0.263157894736842 19 4 0.210526315789474
+113 "Él puso cuidadosamente the violin under his" "CS" 18 4 0.222222222222222 18 0 0
+114 "He put a new sheet on the clean" "E" 19 2 0.105263157894737 19 1 0.0526315789473684
+114 "Él puso una sábana nueva on the clean" "CS" 18 3 0.166666666666667 18 1 0.0555555555555556
+115 "Ellos decidieron comprar una casa pequeña y construir una adición with two more" "CS" 19 5 0.263157894736842 19 4 0.210526315789474
+115 "They decided to buy a small home and build an addition with two more" "E" 29 3 0.103448275862069 29 2 0.0689655172413793
+116 "La universidad no lo dejaba registrarse hasta que pagara las multas de demora on the borrowed" "CS" 29 9 0.310344827586207 29 5 0.172413793103448
+116 "The university wouldn't let him register until he paid the overdue fines on the borrowed" "E" 19 6 0.315789473684211 19 4 0.210526315789474
+117 "Carolina le enseñó a su hija de dos años que las fotos son cuadradas y the plates are" "CS" 19 4 0.210526315789474 19 1 0.0526315789473684
+117 "Carolina taught her two-year-old that the pictures are square and that the plates are" "E" 29 5 0.172413793103448 29 3 0.103448275862069
+118 "Cuando suena el himno nacional, todos are expected to" "CS" 17 4 0.235294117647059 17 3 0.176470588235294
+118 "While the national anthem is played, everyone is expected to" "E" 18 2 0.111111111111111 18 1 0.0555555555555556
+119 "After dinner they washed the dirty" "E" 17 3 0.176470588235294 17 2 0.117647058823529
+119 "Después de la cena ellos washed the dirty" "CS" 20 3 0.15 20 1 0.05
+120 "After lunch he scraped the cold food from his" "E" 29 5 0.172413793103448 29 4 0.137931034482759
+120 "Después del almuerzo él raspó the cold food from his" "CS" 19 6 0.315789473684211 19 5 0.263157894736842
+121 "Había viento por el aire frío que entraba por la puerta de entrada y all the side" "CS" 18 2 0.111111111111111 18 0 0
+121 "It was drafty because of the cold air leaking in through the front door and all the side" "E" 17 5 0.294117647058824 17 4 0.235294117647059
+122 "Tracy and her husband weren't Catholic, but she was glad when the priest warmly welcomed their three" "E" 19 6 0.315789473684211 19 3 0.157894736842105
+122 "Tracy y su esposo no eran católicos, pero ella estaba contenta cuando un sacerdote cálidamente recibió a their three" "CS" 29 6 0.206896551724138 29 2 0.0689655172413793
+124 "As soon as they reached the sand he stopped to take off his" "E" 18 5 0.277777777777778 18 3 0.166666666666667
+124 "En cuanto llegaron a la arena él se paró to take off his" "CS" 19 8 0.421052631578947 19 4 0.210526315789474
+125 "Pedro painted the walls of the bird exhibit light blue to resemble the" "E" 17 1 0.0588235294117647 17 0 0
+125 "Pedro pintó de color azul claro las paredes de la exibición de pájaros to resemble the" "CS" 20 1 0.05 20 0 0
+126 "El niño malo was sent to his" "CS" 29 4 0.137931034482759 29 2 0.0689655172413793
+126 "The bad boy was sent to his" "E" 19 6 0.315789473684211 19 5 0.263157894736842
+128 "Nadie en la reunión de la escuela reconoció a Daniel porque he had grown a" "CS" 20 4 0.2 20 1 0.05
+128 "No one at the reunion recognized Daniel because he had grown a" "E" 17 3 0.176470588235294 17 2 0.117647058823529
+130 "El piano viejo was out of" "CS" 17 6 0.352941176470588 17 3 0.176470588235294
+130 "The old piano was out of" "E" 19 5 0.263157894736842 19 3 0.157894736842105
+131 "El niño nació with a rare" "CS" 20 4 0.2 20 2 0.1
+131 "The child was born with a rare" "E" 17 4 0.235294117647059 17 1 0.0588235294117647
+134 "El entró furtivamente al room without a" "CS" 28 14 0.5 28 6 0.214285714285714
+134 "He crept into the room without a" "E" 19 7 0.368421052631579 19 6 0.315789473684211
+135 "La salida estaba indicada by a large" "CS" 17 2 0.117647058823529 17 1 0.0588235294117647
+135 "The exit was marked by a large" "E" 20 2 0.1 20 1 0.05
+136 "Juan fue a la ferretería y compró una ventana de repuesto at twice the original" "CS" 17 1 0.0588235294117647 17 0 0
+136 "Juan went to the hardware store and bought a replacement window at twice the original" "E" 20 2 0.1 20 1 0.05
+137 "Samuel could not believe the story was" "E" 19 5 0.263157894736842 19 3 0.157894736842105
+137 "Samuel no podía creer que the story was" "CS" 18 7 0.388888888888889 18 3 0.166666666666667
+138 "Las reglas no permiten que los visitors feed the" "CS" 18 6 0.333333333333333 18 3 0.166666666666667
+138 "The rules did not allow visitors to feed the" "E" 19 6 0.315789473684211 19 4 0.210526315789474
+139 "Cuando Andres llegó al restaurante inseperadamente, Lorenzo le trajo una silla from the adjacent" "CS" 29 4 0.137931034482759 29 2 0.0689655172413793
+139 "When Andres arrived unexpectedly at the restaurant, Lorenzo got him a chair from the adjacent" "E" 19 3 0.157894736842105 19 0 0
+140 "Ella pensó que she had seen a" "CS" 28 6 0.214285714285714 28 4 0.142857142857143
+140 "She thought she had seen a" "E" 19 5 0.263157894736842 19 4 0.210526315789474
+141 "Le preguntaron al joyero si podía examinar the ring's huge" "CS" 29 5 0.172413793103448 29 4 0.137931034482759
+141 "The jeweler was asked if he would examine the ring's huge" "E" 19 7 0.368421052631579 19 6 0.315789473684211
+142 "Necesitaba un cable cargador especial, pero she couldn't find it inside her" "CS" 17 7 0.411764705882353 17 2 0.117647058823529
+142 "She needed a special charging cable, but could not find it inside her" "E" 20 6 0.3 20 2 0.1
+143 "He took a new cork screw and opened the" "E" 18 2 0.111111111111111 18 0 0
+143 "Él agarró un sacacorchos nuevo and opened the" "CS" 19 5 0.263157894736842 19 2 0.105263157894737
+144 "He folded out a big drying rack to dry the" "E" 17 7 0.411764705882353 17 4 0.235294117647059
+144 "Él desdobló un gran drying rack to dry the" "CS" 20 6 0.3 20 3 0.15
+145 "Ella agarró una jarra grande cerca de la canilla and filled it with" "CS" 20 3 0.15 20 2 0.1
+145 "She grabbed a big pitcher near the sink and filled it with" "E" 17 2 0.117647058823529 17 1 0.0588235294117647
+146 "He got out a clean tissue to wipe his" "E" 18 5 0.277777777777778 18 2 0.111111111111111
+146 "Él sacó un pañuelo limpio to wipe his" "CS" 19 7 0.368421052631579 19 4 0.210526315789474

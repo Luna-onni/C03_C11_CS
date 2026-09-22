@@ -1,0 +1,1287 @@
+"","inner_number","Item","Itemtype","cloze_clean","n","total","cloze_probability"
+"1",1,"Nora couldn't take the message because she didn't have a pencil or a piece of","English","paper",18,18,1
+"2",1,"Nora konnte die Nachricht nicht aufschreiben, weil sie keinen Stift hatte or a piece of","code_switching","paper",19,19,1
+"3",2,"Bei der Versorgung von hospitalisierten Patienten, benötigt ein Artz oft the help of a ","code_switching","assistant",2,18,0.111111111111111
+"4",2,"Bei der Versorgung von hospitalisierten Patienten, benötigt ein Artz oft the help of a ","code_switching","nurse",16,18,0.888888888888889
+"5",2,"In caring for hospitalized patients, a doctor often needs the help of a","English","assistant",2,19,0.105263157894737
+"6",2,"In caring for hospitalized patients, a doctor often needs the help of a","English","nurse",16,19,0.842105263157895
+"7",2,"In caring for hospitalized patients, a doctor often needs the help of a","English","staff",1,19,0.0526315789473684
+"8",3,"After realizing he forgot utensils for his salad, the customer went back to get himself a","English","coleslaw",1,18,0.0555555555555556
+"9",3,"After realizing he forgot utensils for his salad, the customer went back to get himself a","English","cucumber",1,18,0.0555555555555556
+"10",3,"After realizing he forgot utensils for his salad, the customer went back to get himself a","English","fork",14,18,0.777777777777778
+"11",3,"After realizing he forgot utensils for his salad, the customer went back to get himself a","English","sauce",1,18,0.0555555555555556
+"12",3,"After realizing he forgot utensils for his salad, the customer went back to get himself a","English","spoon",1,18,0.0555555555555556
+"13",3,"Nachdem er bemerkte, dass er das Besteck für seinen Salat vergessen hatte, ging der Kunde zurück to get himself a","code_switching","fork",19,19,1
+"14",4,"Das kleine Mädchen weigerte sich, schlafen zu gehen, until he told her a","code_switching","story",18,18,1
+"15",4,"The little girl refused to go to sleep until he told her a","English","fairytale",1,19,0.0526315789473684
+"16",4,"The little girl refused to go to sleep until he told her a","English","story",18,19,0.947368421052632
+"17",5,"Er hat sich selbst eine Notiz geschrieben, so that he wouldn't ","code_switching","forget",19,19,1
+"18",5,"He wrote himself a note so that he wouldn't","English","die",1,18,0.0555555555555556
+"19",5,"He wrote himself a note so that he wouldn't","English","forget",16,18,0.888888888888889
+"20",5,"He wrote himself a note so that he wouldn't","English","read",1,18,0.0555555555555556
+"21",6,"Die Häftlinge im Gefängnis were planning their","code_switching","break",1,18,0.0555555555555556
+"22",6,"Die Häftlinge im Gefängnis were planning their","code_switching","breakout",1,18,0.0555555555555556
+"23",6,"Die Häftlinge im Gefängnis were planning their","code_switching","escape",15,18,0.833333333333333
+"24",6,"Die Häftlinge im Gefängnis were planning their","code_switching","lunch",1,18,0.0555555555555556
+"25",6,"The inmates in prison were planning their","English","birthday",1,19,0.0526315789473684
+"26",6,"The inmates in prison were planning their","English","break",2,19,0.105263157894737
+"27",6,"The inmates in prison were planning their","English","escape",11,19,0.578947368421053
+"28",6,"The inmates in prison were planning their","English","jailbreak",1,19,0.0526315789473684
+"29",6,"The inmates in prison were planning their","English","outbreak",2,19,0.105263157894737
+"30",6,"The inmates in prison were planning their","English","plan",1,19,0.0526315789473684
+"31",6,"The inmates in prison were planning their","English","program",1,19,0.0526315789473684
+"32",7,"Giraffen sind für ihre langen Hälse bekannt, and zebras for their ","code_switching","color",1,19,0.0526315789473684
+"33",7,"Giraffen sind für ihre langen Hälse bekannt, and zebras for their ","code_switching","pattern",3,19,0.157894736842105
+"34",7,"Giraffen sind für ihre langen Hälse bekannt, and zebras for their ","code_switching","stripes",15,19,0.789473684210526
+"35",7,"Giraffes are known for their long necks and zebras for their","English","stripes",18,18,1
+"36",8,"Marsha knew the guests could remain eating appetizers for at least another","English","day",1,19,0.0526315789473684
+"37",8,"Marsha knew the guests could remain eating appetizers for at least another","English","hour",18,19,0.947368421052632
+"38",8,"Marsha wusste, dass die Gäste noch weiter Appetithäppchen essen könnten, und zwar for at least another ","code_switching","hour",17,18,0.944444444444444
+"39",8,"Marsha wusste, dass die Gäste noch weiter Appetithäppchen essen könnten, und zwar for at least another ","code_switching","round",1,18,0.0555555555555556
+"40",9,"Every morning Susan braids her little daughter's hair and helps her dress for","English","kindergarten",1,18,0.0555555555555556
+"41",9,"Every morning Susan braids her little daughter's hair and helps her dress for","English","school",17,18,0.944444444444444
+"42",9,"Jeden Morgen flechtet Susan ihrer kleinen Tochter die Haare and helps her dress for","code_switching","school",19,19,1
+"43",10,"Der Bräutigam nahm die Hand der Braut und steckte the ring on her","code_switching","finger",18,18,1
+"44",10,"The groom took the bride's hand and placed the ring on her","English","finger",18,19,0.947368421052632
+"45",10,"The groom took the bride's hand and placed the ring on her","English","hand",1,19,0.0526315789473684
+"46",11,"Der Vater in der Küche carved the turkey with a","code_switching","knife",17,19,0.894736842105263
+"47",11,"Der Vater in der Küche carved the turkey with a","code_switching","spoon",2,19,0.105263157894737
+"48",11,"In the kitchen, Father carved the turkey with a","English","knife",16,18,0.888888888888889
+"49",11,"In the kitchen, Father carved the turkey with a","English","spoon",2,18,0.111111111111111
+"50",12,"Mike felt sorry, but it was not his","English","fault",16,19,0.842105263157895
+"51",12,"Mike felt sorry, but it was not his","English","intention",2,19,0.105263157894737
+"52",12,"Mike felt sorry, but it was not his","English","problem",1,19,0.0526315789473684
+"53",12,"Mike tat es leid, but it was not his","code_switching","day",2,18,0.111111111111111
+"54",12,"Mike tat es leid, but it was not his","code_switching","fault",15,18,0.833333333333333
+"55",12,"Mike tat es leid, but it was not his","code_switching","problem",1,18,0.0555555555555556
+"56",13,"Der Lehrer sah, dass einige Schüler schummelten and wrote down their","code_switching","action",1,19,0.0526315789473684
+"57",13,"Der Lehrer sah, dass einige Schüler schummelten and wrote down their","code_switching","names",18,19,0.947368421052632
+"58",13,"The teacher saw that some students were cheating and wrote down their","English","answers",1,18,0.0555555555555556
+"59",13,"The teacher saw that some students were cheating and wrote down their","English","grades",1,18,0.0555555555555556
+"60",13,"The teacher saw that some students were cheating and wrote down their","English","names",16,18,0.888888888888889
+"61",14,"Maria schloss das Fenster vorne and locked the back","code_switching","door",17,18,0.944444444444444
+"62",14,"Maria schloss das Fenster vorne and locked the back","code_switching","too",1,18,0.0555555555555556
+"63",14,"Maria shut the front window and locked the back","English","door",18,19,0.947368421052632
+"64",14,"Maria shut the front window and locked the back","English","off",1,19,0.0526315789473684
+"65",15,"Man kann die Tür nicht öffnen with the wrong","code_switching","code",1,19,0.0526315789473684
+"66",15,"Man kann die Tür nicht öffnen with the wrong","code_switching","direction",2,19,0.105263157894737
+"67",15,"Man kann die Tür nicht öffnen with the wrong","code_switching","grip",1,19,0.0526315789473684
+"68",15,"Man kann die Tür nicht öffnen with the wrong","code_switching","key",13,19,0.684210526315789
+"69",15,"Man kann die Tür nicht öffnen with the wrong","code_switching","move",1,19,0.0526315789473684
+"70",15,"Man kann die Tür nicht öffnen with the wrong","code_switching","technique",1,19,0.0526315789473684
+"71",15,"You can't open the door with the wrong","English","hand",1,18,0.0555555555555556
+"72",15,"You can't open the door with the wrong","English","handle",1,18,0.0555555555555556
+"73",15,"You can't open the door with the wrong","English","key",16,18,0.888888888888889
+"74",16,"I didn't like the show so I changed the","English","channel",11,19,0.578947368421053
+"75",16,"I didn't like the show so I changed the","English","movie",1,19,0.0526315789473684
+"76",16,"I didn't like the show so I changed the","English","music",1,19,0.0526315789473684
+"77",16,"I didn't like the show so I changed the","English","plan",1,19,0.0526315789473684
+"78",16,"I didn't like the show so I changed the","English","program",1,19,0.0526315789473684
+"79",16,"I didn't like the show so I changed the","English","show",2,19,0.105263157894737
+"80",16,"I didn't like the show so I changed the","English","title",1,19,0.0526315789473684
+"81",16,"I didn't like the show so I changed the","English","view",1,19,0.0526315789473684
+"82",16,"Mir hat die Show nicht gefallen so I changed the","code_switching","channel",14,18,0.777777777777778
+"83",16,"Mir hat die Show nicht gefallen so I changed the","code_switching","program",3,18,0.166666666666667
+"84",16,"Mir hat die Show nicht gefallen so I changed the","code_switching","topic",1,18,0.0555555555555556
+"85",17,"Als der Strom ausfiel, sahen wir nichts mehr and the house became","code_switching","dark",19,19,1
+"86",17,"When the power went out we couldn't see anything and the house became","English","black",1,18,0.0555555555555556
+"87",17,"When the power went out we couldn't see anything and the house became","English","cold",1,18,0.0555555555555556
+"88",17,"When the power went out we couldn't see anything and the house became","English","dark",15,18,0.833333333333333
+"89",17,"When the power went out we couldn't see anything and the house became","English","spooky",1,18,0.0555555555555556
+"90",18,"Alfonso has started biking to work instead of driving his","English","car",19,19,1
+"91",18,"Alfonso hat angefangen, mit dem Fahrrad zur Arbeit zu fahren, instead of driving his","code_switching","car",18,18,1
+"92",19,"A dog in good health has a good sense of","English","balance",1,18,0.0555555555555556
+"93",19,"A dog in good health has a good sense of","English","danger",1,18,0.0555555555555556
+"94",19,"A dog in good health has a good sense of","English","humor",3,18,0.166666666666667
+"95",19,"A dog in good health has a good sense of","English","people",1,18,0.0555555555555556
+"96",19,"A dog in good health has a good sense of","English","smell",11,18,0.611111111111111
+"97",19,"A dog in good health has a good sense of","English","space",1,18,0.0555555555555556
+"98",19,"Ein Hund in guter Gesundheit has a good sense of","code_switching","danger",1,19,0.0526315789473684
+"99",19,"Ein Hund in guter Gesundheit has a good sense of","code_switching","emotions",1,19,0.0526315789473684
+"100",19,"Ein Hund in guter Gesundheit has a good sense of","code_switching","humor",4,19,0.210526315789474
+"101",19,"Ein Hund in guter Gesundheit has a good sense of","code_switching","orientation",1,19,0.0526315789473684
+"102",19,"Ein Hund in guter Gesundheit has a good sense of","code_switching","smell",10,19,0.526315789473684
+"103",19,"Ein Hund in guter Gesundheit has a good sense of","code_switching","taste",2,19,0.105263157894737
+"104",20,"Die meisten Menschen in unserem Land spend December 25th with their","code_switching","family",18,18,1
+"105",20,"Most people in our country spend December 25th with their","English","family",18,19,0.947368421052632
+"106",20,"Most people in our country spend December 25th with their","English","loved",1,19,0.0526315789473684
+"107",21,"Sie sahen den Blitz and clearly heard the","code_switching","rumble",1,19,0.0526315789473684
+"108",21,"Sie sahen den Blitz and clearly heard the","code_switching","thunder",18,19,0.947368421052632
+"109",21,"They saw the lightening and clearly heard the","English","noise",1,18,0.0555555555555556
+"110",21,"They saw the lightening and clearly heard the","English","thunder",17,18,0.944444444444444
+"111",22,"She had to leave the movie when the baby started to","English","cry",18,19,0.947368421052632
+"112",22,"She had to leave the movie when the baby started to","English","scream",1,19,0.0526315789473684
+"113",22,"Sie musste den Film verlassen, denn the baby started to","code_switching","cry",18,18,1
+"114",23,"I greeted him, but I could not remember his","English","names",18,18,1
+"115",23,"Ich begrüßte ihn, aber I could not remember his","code_switching","face",1,19,0.0526315789473684
+"116",23,"Ich begrüßte ihn, aber I could not remember his","code_switching","names",18,19,0.947368421052632
+"117",24,"Although she heard it ringing, Nancy was too busy cleaning the chimney to get the","English","broom",1,19,0.0526315789473684
+"118",24,"Although she heard it ringing, Nancy was too busy cleaning the chimney to get the","English","call",1,19,0.0526315789473684
+"119",24,"Although she heard it ringing, Nancy was too busy cleaning the chimney to get the","English","door",10,19,0.526315789473684
+"120",24,"Although she heard it ringing, Nancy was too busy cleaning the chimney to get the","English","phone",5,19,0.263157894736842
+"121",24,"Although she heard it ringing, Nancy was too busy cleaning the chimney to get the","English","sound",2,19,0.105263157894737
+"122",24,"Obwohl sie es klingeln hörte, war Nancy zu beschäftigt damit, den Kamin zu reinigen, to get the","code_switching","cleaner",1,18,0.0555555555555556
+"123",24,"Obwohl sie es klingeln hörte, war Nancy zu beschäftigt damit, den Kamin zu reinigen, to get the","code_switching","dirty",1,18,0.0555555555555556
+"124",24,"Obwohl sie es klingeln hörte, war Nancy zu beschäftigt damit, den Kamin zu reinigen, to get the","code_switching","door",8,18,0.444444444444444
+"125",24,"Obwohl sie es klingeln hörte, war Nancy zu beschäftigt damit, den Kamin zu reinigen, to get the","code_switching","dust",1,18,0.0555555555555556
+"126",24,"Obwohl sie es klingeln hörte, war Nancy zu beschäftigt damit, den Kamin zu reinigen, to get the","code_switching","grime",1,18,0.0555555555555556
+"127",24,"Obwohl sie es klingeln hörte, war Nancy zu beschäftigt damit, den Kamin zu reinigen, to get the","code_switching","mail",1,18,0.0555555555555556
+"128",24,"Obwohl sie es klingeln hörte, war Nancy zu beschäftigt damit, den Kamin zu reinigen, to get the","code_switching","phone",4,18,0.222222222222222
+"129",24,"Obwohl sie es klingeln hörte, war Nancy zu beschäftigt damit, den Kamin zu reinigen, to get the","code_switching","post",1,18,0.0555555555555556
+"130",25,"After the hurricane shattered the window, the room was filled with broken","English","glass",17,18,0.944444444444444
+"131",25,"After the hurricane shattered the window, the room was filled with broken","English","shards",1,18,0.0555555555555556
+"132",25,"Nachdem der Hurrikan das Fenster zerstört hatte, war das Zimmer filled with broken","code_switching","glass",16,19,0.842105263157895
+"133",25,"Nachdem der Hurrikan das Fenster zerstört hatte, war das Zimmer filled with broken","code_switching","pieces",1,19,0.0526315789473684
+"134",25,"Nachdem der Hurrikan das Fenster zerstört hatte, war das Zimmer filled with broken","code_switching","shards",2,19,0.105263157894737
+"135",26,"Der unhöfliche Kellner im Restaurant was not given a","code_switching","fuck",1,18,0.0555555555555556
+"136",26,"Der unhöfliche Kellner im Restaurant was not given a","code_switching","tip",17,18,0.944444444444444
+"137",26,"The rude waiter in the restaurant was not given a","English","penny",1,19,0.0526315789473684
+"138",26,"The rude waiter in the restaurant was not given a","English","tip",18,19,0.947368421052632
+"139",27,"Dass er aufgewachsen war im Süden, you could tell by his","code_switching","accent",15,19,0.789473684210526
+"140",27,"Dass er aufgewachsen war im Süden, you could tell by his","code_switching","appearance",1,19,0.0526315789473684
+"141",27,"Dass er aufgewachsen war im Süden, you could tell by his","code_switching","attitude",1,19,0.0526315789473684
+"142",27,"Dass er aufgewachsen war im Süden, you could tell by his","code_switching","look",1,19,0.0526315789473684
+"143",27,"Dass er aufgewachsen war im Süden, you could tell by his","code_switching","style",1,19,0.0526315789473684
+"144",27,"That he had grown up in the South you could tell by his","English","accent",17,18,0.944444444444444
+"145",27,"That he had grown up in the South you could tell by his","English","dialect",1,18,0.0555555555555556
+"146",28,"Be careful because the top of the stove is very","English","hot",19,19,1
+"147",28,"Sei vorsichtig, denn der obere Teil of the stove is very ","code_switching","complicated",1,18,0.0555555555555556
+"148",28,"Sei vorsichtig, denn der obere Teil of the stove is very ","code_switching","dirty",1,18,0.0555555555555556
+"149",28,"Sei vorsichtig, denn der obere Teil of the stove is very ","code_switching","hot",14,18,0.777777777777778
+"150",28,"Sei vorsichtig, denn der obere Teil of the stove is very ","code_switching","scary",1,18,0.0555555555555556
+"151",28,"Sei vorsichtig, denn der obere Teil of the stove is very ","code_switching","unstable",1,18,0.0555555555555556
+"152",29,"Wenn du ins Bett gehst, turn off the","code_switching","lights",16,19,0.842105263157895
+"153",29,"Wenn du ins Bett gehst, turn off the","code_switching","radio",1,19,0.0526315789473684
+"154",29,"Wenn du ins Bett gehst, turn off the","code_switching","tv",2,19,0.105263157894737
+"155",29,"When you go to bed turn off the","English","heating",1,18,0.0555555555555556
+"156",29,"When you go to bed turn off the","English","lamp",1,18,0.0555555555555556
+"157",29,"When you go to bed turn off the","English","lights",16,18,0.888888888888889
+"158",30,"Paul malte den Anzug des Clowns blau und gab him a big red","code_switching","nose",18,18,1
+"159",30,"Paul painted the clown's suit blue and gave him a big red","English","nose",19,19,1
+"160",31,"Bill jumped in the lake and made a big","English","mistake",1,18,0.0555555555555556
+"161",31,"Bill jumped in the lake and made a big","English","splash",15,18,0.833333333333333
+"162",31,"Bill jumped in the lake and made a big","English","wave",2,18,0.111111111111111
+"163",31,"Bill sprang in den See and made a big","code_switching","splash",19,19,1
+"164",32,"Sein Chef in der Firma, in der er nachmittags arbeitet, refused to give him a","code_switching","break",1,18,0.0555555555555556
+"165",32,"Sein Chef in der Firma, in der er nachmittags arbeitet, refused to give him a","code_switching","check",2,18,0.111111111111111
+"166",32,"Sein Chef in der Firma, in der er nachmittags arbeitet, refused to give him a","code_switching","dayoff",1,18,0.0555555555555556
+"167",32,"Sein Chef in der Firma, in der er nachmittags arbeitet, refused to give him a","code_switching","raise",14,18,0.777777777777778
+"168",32,"The boss of the store where he worked afternoons refused to give him a","English","break",2,19,0.105263157894737
+"169",32,"The boss of the store where he worked afternoons refused to give him a","English","pay",1,19,0.0526315789473684
+"170",32,"The boss of the store where he worked afternoons refused to give him a","English","paycheck",1,19,0.0526315789473684
+"171",32,"The boss of the store where he worked afternoons refused to give him a","English","raise",14,19,0.736842105263158
+"172",32,"The boss of the store where he worked afternoons refused to give him a","English","rise",1,19,0.0526315789473684
+"173",33,"Er wusste, dass er Chris anrufen konnte, auch in the middle of the","code_switching","night",19,19,1
+"174",33,"He knew that he could call Chris, even in the middle of the","English","night",17,18,0.944444444444444
+"175",33,"He knew that he could call Chris, even in the middle of the","English","storm",1,18,0.0555555555555556
+"176",34,"Die Kinder der Schule vor meinem Haus went outside to","code_switching","play",15,18,0.833333333333333
+"177",34,"Die Kinder der Schule vor meinem Haus went outside to","code_switching","school",2,18,0.111111111111111
+"178",34,"Die Kinder der Schule vor meinem Haus went outside to","code_switching","shop",1,18,0.0555555555555556
+"179",34,"The children from the school across from my house went outside to","English","play",18,19,0.947368421052632
+"180",34,"The children from the school across from my house went outside to","English","watch",1,19,0.0526315789473684
+"181",35,"Die junge Mutter aus der Nachbarschaft fütterte her baby some warm","code_switching","applesauce",1,19,0.0526315789473684
+"182",35,"Die junge Mutter aus der Nachbarschaft fütterte her baby some warm","code_switching","chocolate",1,19,0.0526315789473684
+"183",35,"Die junge Mutter aus der Nachbarschaft fütterte her baby some warm","code_switching","food",3,19,0.157894736842105
+"184",35,"Die junge Mutter aus der Nachbarschaft fütterte her baby some warm","code_switching","meal",1,19,0.0526315789473684
+"185",35,"Die junge Mutter aus der Nachbarschaft fütterte her baby some warm","code_switching","milk",10,19,0.526315789473684
+"186",35,"Die junge Mutter aus der Nachbarschaft fütterte her baby some warm","code_switching","porridge",2,19,0.105263157894737
+"187",35,"Die junge Mutter aus der Nachbarschaft fütterte her baby some warm","code_switching","soup",1,19,0.0526315789473684
+"188",35,"The young mother in the neighborhood fed her baby some warm","English","food",1,18,0.0555555555555556
+"189",35,"The young mother in the neighborhood fed her baby some warm","English","milk",15,18,0.833333333333333
+"190",35,"The young mother in the neighborhood fed her baby some warm","English","porridge",1,18,0.0555555555555556
+"191",35,"The young mother in the neighborhood fed her baby some warm","English","soup",1,18,0.0555555555555556
+"192",36,"Die Schulen wurden geschlossen, weil die Lehrer beschlossen to go on","code_switching","break",1,18,0.0555555555555556
+"193",36,"Die Schulen wurden geschlossen, weil die Lehrer beschlossen to go on","code_switching","holidays",2,18,0.111111111111111
+"194",36,"Die Schulen wurden geschlossen, weil die Lehrer beschlossen to go on","code_switching","seminar",1,18,0.0555555555555556
+"195",36,"Die Schulen wurden geschlossen, weil die Lehrer beschlossen to go on","code_switching","strike",5,18,0.277777777777778
+"196",36,"Die Schulen wurden geschlossen, weil die Lehrer beschlossen to go on","code_switching","trip",1,18,0.0555555555555556
+"197",36,"Die Schulen wurden geschlossen, weil die Lehrer beschlossen to go on","code_switching","vacation",8,18,0.444444444444444
+"198",36,"The schools closed down because the teachers decided to go on","English","concert",1,19,0.0526315789473684
+"199",36,"The schools closed down because the teachers decided to go on","English","holidays",4,19,0.210526315789474
+"200",36,"The schools closed down because the teachers decided to go on","English","strike",3,19,0.157894736842105
+"201",36,"The schools closed down because the teachers decided to go on","English","trip",2,19,0.105263157894737
+"202",36,"The schools closed down because the teachers decided to go on","English","vacation",9,19,0.473684210526316
+"203",37,"Nur wenige Minuten nach seiner Ankunft im Büro, verschüttete der Detective his thermos full of","code_switching","coffee",11,19,0.578947368421053
+"204",37,"Nur wenige Minuten nach seiner Ankunft im Büro, verschüttete der Detective his thermos full of","code_switching","tea",8,19,0.421052631578947
+"205",37,"Within minutes of arriving at the office, the detective spilled his thermos full of","English","coffee",13,18,0.722222222222222
+"206",37,"Within minutes of arriving at the office, the detective spilled his thermos full of","English","tea",5,18,0.277777777777778
+"207",38,"Mein Mitbewohner aus Berlin ließ the dirty dishes in the","code_switching","dishwasher",3,18,0.166666666666667
+"208",38,"Mein Mitbewohner aus Berlin ließ the dirty dishes in the","code_switching","sink",15,18,0.833333333333333
+"209",38,"My roommate from Berlin left the dirty dishes in the","English","dishwasher",1,19,0.0526315789473684
+"210",38,"My roommate from Berlin left the dirty dishes in the","English","fridge",1,19,0.0526315789473684
+"211",38,"My roommate from Berlin left the dirty dishes in the","English","kitchen",2,19,0.105263157894737
+"212",38,"My roommate from Berlin left the dirty dishes in the","English","sink",15,19,0.789473684210526
+"213",39,"Richard hatte Angst, nahe am Rand der Klippe zu gehen, because he was afraid to ","code_switching","die",1,19,0.0526315789473684
+"214",39,"Richard hatte Angst, nahe am Rand der Klippe zu gehen, because he was afraid to ","code_switching","fall",18,19,0.947368421052632
+"215",39,"Richard was afraid to walk near the edge of the cliff because he was afraid to","English","fall",18,18,1
+"216",40,"Die Mathelehrerin der vierten Klasse konnte nicht gut sehen without her thick","code_switching","glasses",18,18,1
+"217",40,"The fourth grade math teacher could not see well without her thick","English","belly",1,19,0.0526315789473684
+"218",40,"The fourth grade math teacher could not see well without her thick","English","flashlight",1,19,0.0526315789473684
+"219",40,"The fourth grade math teacher could not see well without her thick","English","glasses",17,19,0.894736842105263
+"220",41,"Die meisten Haiangriffe passieren very close to","code_switching","beach",4,19,0.210526315789474
+"221",41,"Die meisten Haiangriffe passieren very close to","code_switching","boats",1,19,0.0526315789473684
+"222",41,"Die meisten Haiangriffe passieren very close to","code_switching","coast",2,19,0.105263157894737
+"223",41,"Die meisten Haiangriffe passieren very close to","code_switching","shore",11,19,0.578947368421053
+"224",41,"Die meisten Haiangriffe passieren very close to","code_switching","water",1,19,0.0526315789473684
+"225",41,"Most shark attacks occur very close to","English","australia",2,18,0.111111111111111
+"226",41,"Most shark attacks occur very close to","English","beach",4,18,0.222222222222222
+"227",41,"Most shark attacks occur very close to","English","california",1,18,0.0555555555555556
+"228",41,"Most shark attacks occur very close to","English","home",1,18,0.0555555555555556
+"229",41,"Most shark attacks occur very close to","English","mexico",1,18,0.0555555555555556
+"230",41,"Most shark attacks occur very close to","English","shore",9,18,0.5
+"231",42,"Alle hupten den alten Mann an who was driving too","code_switching","slow",18,18,1
+"232",42,"Everyone was honking at the old man who was driving too","English","fast",1,19,0.0526315789473684
+"233",42,"Everyone was honking at the old man who was driving too","English","slow",18,19,0.947368421052632
+"234",43,"Keine seiner Geschichten made any real","code_switching","connection",1,19,0.0526315789473684
+"235",43,"Keine seiner Geschichten made any real","code_switching","points",1,19,0.0526315789473684
+"236",43,"Keine seiner Geschichten made any real","code_switching","progress",1,19,0.0526315789473684
+"237",43,"Keine seiner Geschichten made any real","code_switching","progression",1,19,0.0526315789473684
+"238",43,"Keine seiner Geschichten made any real","code_switching","sense",15,19,0.789473684210526
+"239",43,"None of his stories made any real","English","impact",1,18,0.0555555555555556
+"240",43,"None of his stories made any real","English","sense",17,18,0.944444444444444
+"241",44,"Der Sekretär des Büros schickte the letter without a","code_switching","address",1,18,0.0555555555555556
+"242",44,"Der Sekretär des Büros schickte the letter without a","code_switching","greeting",1,18,0.0555555555555556
+"243",44,"Der Sekretär des Büros schickte the letter without a","code_switching","heading",1,18,0.0555555555555556
+"244",44,"Der Sekretär des Büros schickte the letter without a","code_switching","names",1,18,0.0555555555555556
+"245",44,"Der Sekretär des Büros schickte the letter without a","code_switching","sender",1,18,0.0555555555555556
+"246",44,"Der Sekretär des Büros schickte the letter without a","code_switching","sign",1,18,0.0555555555555556
+"247",44,"Der Sekretär des Büros schickte the letter without a","code_switching","signature",1,18,0.0555555555555556
+"248",44,"Der Sekretär des Büros schickte the letter without a","code_switching","signing",1,18,0.0555555555555556
+"249",44,"Der Sekretär des Büros schickte the letter without a","code_switching","stamp",9,18,0.5
+"250",44,"Der Sekretär des Büros schickte the letter without a","code_switching","warning",1,18,0.0555555555555556
+"251",44,"The office secretary mailed the letter without a","English","message",1,19,0.0526315789473684
+"252",44,"The office secretary mailed the letter without a","English","notice",1,19,0.0526315789473684
+"253",44,"The office secretary mailed the letter without a","English","postmark",1,19,0.0526315789473684
+"254",44,"The office secretary mailed the letter without a","English","reference",1,19,0.0526315789473684
+"255",44,"The office secretary mailed the letter without a","English","regret",1,19,0.0526315789473684
+"256",44,"The office secretary mailed the letter without a","English","sign",1,19,0.0526315789473684
+"257",44,"The office secretary mailed the letter without a","English","signature",2,19,0.105263157894737
+"258",44,"The office secretary mailed the letter without a","English","stamp",9,19,0.473684210526316
+"259",44,"The office secretary mailed the letter without a","English","subject",1,19,0.0526315789473684
+"260",44,"The office secretary mailed the letter without a","English","title",1,19,0.0526315789473684
+"261",45,"Die Kühe liefen von der Sonne weg into the cool","code_switching","breeze",1,19,0.0526315789473684
+"262",45,"Die Kühe liefen von der Sonne weg into the cool","code_switching","forest",1,19,0.0526315789473684
+"263",45,"Die Kühe liefen von der Sonne weg into the cool","code_switching","shade",1,19,0.0526315789473684
+"264",45,"Die Kühe liefen von der Sonne weg into the cool","code_switching","shades",1,19,0.0526315789473684
+"265",45,"Die Kühe liefen von der Sonne weg into the cool","code_switching","shadow",13,19,0.684210526315789
+"266",45,"Die Kühe liefen von der Sonne weg into the cool","code_switching","shell",1,19,0.0526315789473684
+"267",45,"Die Kühe liefen von der Sonne weg into the cool","code_switching","sunset",1,19,0.0526315789473684
+"268",45,"The cows moved from the sun into the cool","English","barn",1,18,0.0555555555555556
+"269",45,"The cows moved from the sun into the cool","English","field",1,18,0.0555555555555556
+"270",45,"The cows moved from the sun into the cool","English","shade",5,18,0.277777777777778
+"271",45,"The cows moved from the sun into the cool","English","shadow",9,18,0.5
+"272",45,"The cows moved from the sun into the cool","English","shed",1,18,0.0555555555555556
+"273",45,"The cows moved from the sun into the cool","English","water",1,18,0.0555555555555556
+"274",46,"Der Mann nebenan spielte his stereo much too","code_switching","loud",18,18,1
+"275",46,"The man downstairs played his stereo much too","English","loud",19,19,1
+"276",47,"Die Jungen spielten Murmeln and the girls jumped","code_switching","circle",1,19,0.0526315789473684
+"277",47,"Die Jungen spielten Murmeln and the girls jumped","code_switching","high",1,19,0.0526315789473684
+"278",47,"Die Jungen spielten Murmeln and the girls jumped","code_switching","pool",1,19,0.0526315789473684
+"279",47,"Die Jungen spielten Murmeln and the girls jumped","code_switching","rope",13,19,0.684210526315789
+"280",47,"Die Jungen spielten Murmeln and the girls jumped","code_switching","ropes",1,19,0.0526315789473684
+"281",47,"Die Jungen spielten Murmeln and the girls jumped","code_switching","trampoline",2,19,0.105263157894737
+"282",47,"The boys played marbles and the girls jumped","English","around",3,18,0.166666666666667
+"283",47,"The boys played marbles and the girls jumped","English","hoops",1,18,0.0555555555555556
+"284",47,"The boys played marbles and the girls jumped","English","lines",1,18,0.0555555555555556
+"285",47,"The boys played marbles and the girls jumped","English","pool",1,18,0.0555555555555556
+"286",47,"The boys played marbles and the girls jumped","English","rope",9,18,0.5
+"287",47,"The boys played marbles and the girls jumped","English","ropes",3,18,0.166666666666667
+"288",48,"Der Surfer aus Hawaii fiel von seinem Surfboard after the first big","code_switching","wave",18,18,1
+"289",48,"The surfer from Hawaii fell off his surfboard after the first big","English","wave",19,19,1
+"290",49,"Tim threw a rock and broke the","English","water",1,18,0.0555555555555556
+"291",49,"Tim threw a rock and broke the","English","window",17,18,0.944444444444444
+"292",49,"Tim warf einen Stein and broke the","code_switching","glass",4,17,0.235294117647059
+"293",49,"Tim warf einen Stein and broke the","code_switching","shell",1,17,0.0588235294117647
+"294",49,"Tim warf einen Stein and broke the","code_switching","window",12,17,0.705882352941177
+"295",50,"Steve spilled coffee all over his white","English","couch",1,17,0.0588235294117647
+"296",50,"Steve spilled coffee all over his white","English","pants",1,17,0.0588235294117647
+"297",50,"Steve spilled coffee all over his white","English","shirt",14,17,0.823529411764706
+"298",50,"Steve spilled coffee all over his white","English","tea",1,17,0.0588235294117647
+"299",50,"Steve verschüttete Kaffee all over his white","code_switching","collar",1,18,0.0555555555555556
+"300",50,"Steve verschüttete Kaffee all over his white","code_switching","jacket",1,18,0.0555555555555556
+"301",50,"Steve verschüttete Kaffee all over his white","code_switching","keyboard",1,18,0.0555555555555556
+"302",50,"Steve verschüttete Kaffee all over his white","code_switching","pants",2,18,0.111111111111111
+"303",50,"Steve verschüttete Kaffee all over his white","code_switching","shirt",13,18,0.722222222222222
+"304",51,"Er entschied sich, im Iran zu reisen, obwohl er wusste, it could be","code_switching","danger",15,17,0.882352941176471
+"305",51,"Er entschied sich, im Iran zu reisen, obwohl er wusste, it could be","code_switching","difficult",1,17,0.0588235294117647
+"306",51,"Er entschied sich, im Iran zu reisen, obwohl er wusste, it could be","code_switching","lonely",1,17,0.0588235294117647
+"307",51,"He decided to travel to Iran even though he knew it could be","English","danger",16,18,0.888888888888889
+"308",51,"He decided to travel to Iran even though he knew it could be","English","hot",1,18,0.0555555555555556
+"309",51,"He decided to travel to Iran even though he knew it could be","English","risky",1,18,0.0555555555555556
+"310",52,"Cold damp weather makes her joints ache so she took some aspirin for the","English","cabinet",1,17,0.0588235294117647
+"311",52,"Cold damp weather makes her joints ache so she took some aspirin for the","English","day",1,17,0.0588235294117647
+"312",52,"Cold damp weather makes her joints ache so she took some aspirin for the","English","headache",1,17,0.0588235294117647
+"313",52,"Cold damp weather makes her joints ache so she took some aspirin for the","English","healing",1,17,0.0588235294117647
+"314",52,"Cold damp weather makes her joints ache so she took some aspirin for the","English","pain",13,17,0.764705882352941
+"315",52,"Kalte, feuchte Witterung lässt ihre Gelenke schmerzen, deshalb nahm sie some aspirin for the","code_switching","head",1,18,0.0555555555555556
+"316",52,"Kalte, feuchte Witterung lässt ihre Gelenke schmerzen, deshalb nahm sie some aspirin for the","code_switching","journey",1,18,0.0555555555555556
+"317",52,"Kalte, feuchte Witterung lässt ihre Gelenke schmerzen, deshalb nahm sie some aspirin for the","code_switching","pain",16,18,0.888888888888889
+"318",53,"Before she arrived, he opened a bottle of wine and put on some soft","English","clothes",1,18,0.0555555555555556
+"319",53,"Before she arrived, he opened a bottle of wine and put on some soft","English","jazz",3,18,0.166666666666667
+"320",53,"Before she arrived, he opened a bottle of wine and put on some soft","English","music",13,18,0.722222222222222
+"321",53,"Before she arrived, he opened a bottle of wine and put on some soft","English","socks",1,18,0.0555555555555556
+"322",53,"Bevor sie ankam, öffnete er eine Flasche Wein and put on some soft","code_switching","clothes",1,17,0.0588235294117647
+"323",53,"Bevor sie ankam, öffnete er eine Flasche Wein and put on some soft","code_switching","jazz",1,17,0.0588235294117647
+"324",53,"Bevor sie ankam, öffnete er eine Flasche Wein and put on some soft","code_switching","lotion",1,17,0.0588235294117647
+"325",53,"Bevor sie ankam, öffnete er eine Flasche Wein and put on some soft","code_switching","music",12,17,0.705882352941177
+"326",53,"Bevor sie ankam, öffnete er eine Flasche Wein and put on some soft","code_switching","pillow",1,17,0.0588235294117647
+"327",53,"Bevor sie ankam, öffnete er eine Flasche Wein and put on some soft","code_switching","slippers",1,17,0.0588235294117647
+"328",54,"Das Schiff mit den weißen Segeln verschwand into the thick","code_switching","clouds",2,18,0.111111111111111
+"329",54,"Das Schiff mit den weißen Segeln verschwand into the thick","code_switching","dark",1,18,0.0555555555555556
+"330",54,"Das Schiff mit den weißen Segeln verschwand into the thick","code_switching","fog",12,18,0.666666666666667
+"331",54,"Das Schiff mit den weißen Segeln verschwand into the thick","code_switching","mist",2,18,0.111111111111111
+"332",54,"Das Schiff mit den weißen Segeln verschwand into the thick","code_switching","ocean",1,18,0.0555555555555556
+"333",54,"The ship with the white sails disappeared into the thick","English","cloud",1,17,0.0588235294117647
+"334",54,"The ship with the white sails disappeared into the thick","English","dark",1,17,0.0588235294117647
+"335",54,"The ship with the white sails disappeared into the thick","English","fog",13,17,0.764705882352941
+"336",54,"The ship with the white sails disappeared into the thick","English","mist",2,17,0.117647058823529
+"337",55,"Ron bought a board for the window that was too long and then he bought one that was way too","English","big",1,18,0.0555555555555556
+"338",55,"Ron bought a board for the window that was too long and then he bought one that was way too","English","flashy",1,18,0.0555555555555556
+"339",55,"Ron bought a board for the window that was too long and then he bought one that was way too","English","short",14,18,0.777777777777778
+"340",55,"Ron bought a board for the window that was too long and then he bought one that was way too","English","small",1,18,0.0555555555555556
+"341",55,"Ron bought a board for the window that was too long and then he bought one that was way too","English","thick",1,18,0.0555555555555556
+"342",55,"Ron kaufte ein Brett für das Fenster, das zu lang war, und dann kaufte er eins, that was way too","code_switching","heavy",1,17,0.0588235294117647
+"343",55,"Ron kaufte ein Brett für das Fenster, das zu lang war, und dann kaufte er eins, that was way too","code_switching","short",13,17,0.764705882352941
+"344",55,"Ron kaufte ein Brett für das Fenster, das zu lang war, und dann kaufte er eins, that was way too","code_switching","small",3,17,0.176470588235294
+"345",56,"Als das Wetter wärmer wurde, begann Mark, seine leichtere Jacke zu tragen, und zwar nicht his heavy winter","code_switching","coat",9,18,0.5
+"346",56,"Als das Wetter wärmer wurde, begann Mark, seine leichtere Jacke zu tragen, und zwar nicht his heavy winter","code_switching","jacket",8,18,0.444444444444444
+"347",56,"Als das Wetter wärmer wurde, begann Mark, seine leichtere Jacke zu tragen, und zwar nicht his heavy winter","code_switching","weather",1,18,0.0555555555555556
+"348",56,"As the weather got warmer, Mark started wearing his lighter jacket instead of his heavy winter","English","coat",10,17,0.588235294117647
+"349",56,"As the weather got warmer, Mark started wearing his lighter jacket instead of his heavy winter","English","jacket",7,17,0.411764705882353
+"350",57,"Er kaufte ihr eine Perlenkette for her","code_switching","birthday",11,17,0.647058823529412
+"351",57,"Er kaufte ihr eine Perlenkette for her","code_switching","graduation",2,17,0.117647058823529
+"352",57,"Er kaufte ihr eine Perlenkette for her","code_switching","neck",2,17,0.117647058823529
+"353",57,"Er kaufte ihr eine Perlenkette for her","code_switching","sister",1,17,0.0588235294117647
+"354",57,"Er kaufte ihr eine Perlenkette for her","code_switching","wedding",1,17,0.0588235294117647
+"355",57,"He bought her a pearl necklace for her","English","anniversary",1,18,0.0555555555555556
+"356",57,"He bought her a pearl necklace for her","English","birthday",13,18,0.722222222222222
+"357",57,"He bought her a pearl necklace for her","English","bracelet",1,18,0.0555555555555556
+"358",57,"He bought her a pearl necklace for her","English","mother",1,18,0.0555555555555556
+"359",57,"He bought her a pearl necklace for her","English","wedding",2,18,0.111111111111111
+"360",58,"Der junge Mann im Park must keep his pet on a","code_switching","leash",18,18,1
+"361",58,"The young man in the park must keep his pet on a","English","leash",15,17,0.882352941176471
+"362",58,"The young man in the park must keep his pet on a","English","line",2,17,0.117647058823529
+"363",59,"Rachel liebt den Geruch von Tabak, but she can't stand all the","code_switching","dirty",1,17,0.0588235294117647
+"364",59,"Rachel liebt den Geruch von Tabak, but she can't stand all the","code_switching","smoke",15,17,0.882352941176471
+"365",59,"Rachel liebt den Geruch von Tabak, but she can't stand all the","code_switching","smokers",1,17,0.0588235294117647
+"366",59,"Rachel loves the smell of tobacco but she can't stand all the","English","cigarettes",1,18,0.0555555555555556
+"367",59,"Rachel loves the smell of tobacco but she can't stand all the","English","fumes",1,18,0.0555555555555556
+"368",59,"Rachel loves the smell of tobacco but she can't stand all the","English","gossip",1,18,0.0555555555555556
+"369",59,"Rachel loves the smell of tobacco but she can't stand all the","English","perfumes",1,18,0.0555555555555556
+"370",59,"Rachel loves the smell of tobacco but she can't stand all the","English","sauce",1,18,0.0555555555555556
+"371",59,"Rachel loves the smell of tobacco but she can't stand all the","English","smoke",12,18,0.666666666666667
+"372",59,"Rachel loves the smell of tobacco but she can't stand all the","English","smokers",1,18,0.0555555555555556
+"373",60,"Er hatte gerade genug Zeit, einen Kuchen zu kaufen und sich umzuziehen before the guests","code_switching","arrived",15,18,0.833333333333333
+"374",60,"Er hatte gerade genug Zeit, einen Kuchen zu kaufen und sich umzuziehen before the guests","code_switching","came",3,18,0.166666666666667
+"375",60,"He had just enough time to buy a cake from the store and change his clothes before the guests","English","arrived",16,17,0.941176470588235
+"376",60,"He had just enough time to buy a cake from the store and change his clothes before the guests","English","came",1,17,0.0588235294117647
+"377",61,"Das Eichhörnchen versteckte ein paar Nüsse in the big","code_switching","cheeks",1,17,0.0588235294117647
+"378",61,"Das Eichhörnchen versteckte ein paar Nüsse in the big","code_switching","forest",1,17,0.0588235294117647
+"379",61,"Das Eichhörnchen versteckte ein paar Nüsse in the big","code_switching","garden",1,17,0.0588235294117647
+"380",61,"Das Eichhörnchen versteckte ein paar Nüsse in the big","code_switching","hole",1,17,0.0588235294117647
+"381",61,"Das Eichhörnchen versteckte ein paar Nüsse in the big","code_switching","nest",1,17,0.0588235294117647
+"382",61,"Das Eichhörnchen versteckte ein paar Nüsse in the big","code_switching","pouches",1,17,0.0588235294117647
+"383",61,"Das Eichhörnchen versteckte ein paar Nüsse in the big","code_switching","tree",10,17,0.588235294117647
+"384",61,"Das Eichhörnchen versteckte ein paar Nüsse in the big","code_switching","trunk",1,17,0.0588235294117647
+"385",61,"The squirrel stored some nuts in the big","English","cavern",1,18,0.0555555555555556
+"386",61,"The squirrel stored some nuts in the big","English","hole",3,18,0.166666666666667
+"387",61,"The squirrel stored some nuts in the big","English","mouth",1,18,0.0555555555555556
+"388",61,"The squirrel stored some nuts in the big","English","oak",1,18,0.0555555555555556
+"389",61,"The squirrel stored some nuts in the big","English","tree",12,18,0.666666666666667
+"390",62,"Every morning before school his mother laid out his clothes and packed his","English","backpack",2,17,0.117647058823529
+"391",62,"Every morning before school his mother laid out his clothes and packed his","English","bag",7,17,0.411764705882353
+"392",62,"Every morning before school his mother laid out his clothes and packed his","English","lunch",7,17,0.411764705882353
+"393",62,"Every morning before school his mother laid out his clothes and packed his","English","stuff",1,17,0.0588235294117647
+"394",62,"Jeden morgen vor der Schule legte seine Mutter seine Kleidung raus and packed his","code_switching","backpack",2,18,0.111111111111111
+"395",62,"Jeden morgen vor der Schule legte seine Mutter seine Kleidung raus and packed his","code_switching","bag",11,18,0.611111111111111
+"396",62,"Jeden morgen vor der Schule legte seine Mutter seine Kleidung raus and packed his","code_switching","lunch",4,18,0.222222222222222
+"397",62,"Jeden morgen vor der Schule legte seine Mutter seine Kleidung raus and packed his","code_switching","lunchbox",1,18,0.0555555555555556
+"398",63,"Er kündigte seinen Job und verließ seine Familie, so he could sail around the","code_switching","globe",1,17,0.0588235294117647
+"399",63,"Er kündigte seinen Job und verließ seine Familie, so he could sail around the","code_switching","world",16,17,0.941176470588235
+"400",63,"He quit his job and left his family so that he could sail around the","English","globe",1,18,0.0555555555555556
+"401",63,"He quit his job and left his family so that he could sail around the","English","pacific",2,18,0.111111111111111
+"402",63,"He quit his job and left his family so that he could sail around the","English","world",15,18,0.833333333333333
+"403",64,"Berühre auf gar keinen Fall the sticky wet","code_switching","animal",1,18,0.0555555555555556
+"404",64,"Berühre auf gar keinen Fall the sticky wet","code_switching","concrete",1,18,0.0555555555555556
+"405",64,"Berühre auf gar keinen Fall the sticky wet","code_switching","floors",2,18,0.111111111111111
+"406",64,"Berühre auf gar keinen Fall the sticky wet","code_switching","food",1,18,0.0555555555555556
+"407",64,"Berühre auf gar keinen Fall the sticky wet","code_switching","glue",1,18,0.0555555555555556
+"408",64,"Berühre auf gar keinen Fall the sticky wet","code_switching","goo",1,18,0.0555555555555556
+"409",64,"Berühre auf gar keinen Fall the sticky wet","code_switching","grass",1,18,0.0555555555555556
+"410",64,"Berühre auf gar keinen Fall the sticky wet","code_switching","gum",1,18,0.0555555555555556
+"411",64,"Berühre auf gar keinen Fall the sticky wet","code_switching","paint",1,18,0.0555555555555556
+"412",64,"Berühre auf gar keinen Fall the sticky wet","code_switching","puddles",1,18,0.0555555555555556
+"413",64,"Berühre auf gar keinen Fall the sticky wet","code_switching","rice",1,18,0.0555555555555556
+"414",64,"Berühre auf gar keinen Fall the sticky wet","code_switching","shirt",1,18,0.0555555555555556
+"415",64,"Berühre auf gar keinen Fall the sticky wet","code_switching","spider",1,18,0.0555555555555556
+"416",64,"Berühre auf gar keinen Fall the sticky wet","code_switching","substance",1,18,0.0555555555555556
+"417",64,"Berühre auf gar keinen Fall the sticky wet","code_switching","wall",1,18,0.0555555555555556
+"418",64,"Berühre auf gar keinen Fall the sticky wet","code_switching","window",1,18,0.0555555555555556
+"419",64,"Berühre auf gar keinen Fall the sticky wet","code_switching","wood",1,18,0.0555555555555556
+"420",64,"In any case, don't touch the sticky wet","English","floors",1,17,0.0588235294117647
+"421",64,"In any case, don't touch the sticky wet","English","goo",3,17,0.176470588235294
+"422",64,"In any case, don't touch the sticky wet","English","ground",2,17,0.117647058823529
+"423",64,"In any case, don't touch the sticky wet","English","paint",1,17,0.0588235294117647
+"424",64,"In any case, don't touch the sticky wet","English","paste",1,17,0.0588235294117647
+"425",64,"In any case, don't touch the sticky wet","English","shirt",1,17,0.0588235294117647
+"426",64,"In any case, don't touch the sticky wet","English","sponge",1,17,0.0588235294117647
+"427",64,"In any case, don't touch the sticky wet","English","substance",3,17,0.176470588235294
+"428",64,"In any case, don't touch the sticky wet","English","surface",4,17,0.235294117647059
+"429",65,"Cats loved to be scratched behind the","English","back",1,18,0.0555555555555556
+"430",65,"Cats loved to be scratched behind the","English","ears",14,18,0.777777777777778
+"431",65,"Cats loved to be scratched behind the","English","head",1,18,0.0555555555555556
+"432",65,"Cats loved to be scratched behind the","English","neck",2,18,0.111111111111111
+"433",65,"Katzen lieben es, gekrault zu werden behind the","code_switching","back",1,17,0.0588235294117647
+"434",65,"Katzen lieben es, gekrault zu werden behind the","code_switching","curtains",1,17,0.0588235294117647
+"435",65,"Katzen lieben es, gekrault zu werden behind the","code_switching","ears",14,17,0.823529411764706
+"436",65,"Katzen lieben es, gekrault zu werden behind the","code_switching","neck",1,17,0.0588235294117647
+"437",66,"Die weiße Möve tauchte ab and caught a","code_switching","fish",17,18,0.944444444444444
+"438",66,"Die weiße Möve tauchte ab and caught a","code_switching","mackerel",1,18,0.0555555555555556
+"439",66,"The white seagull dove down and caught a","English","fish",16,17,0.941176470588235
+"440",66,"The white seagull dove down and caught a","English","mouse",1,17,0.0588235294117647
+"441",67,"John fegte den Boden with a long","code_switching","broom",16,17,0.941176470588235
+"442",67,"John fegte den Boden with a long","code_switching","brush",1,17,0.0588235294117647
+"443",67,"John swept the floor with a long","English","broom",12,18,0.666666666666667
+"444",67,"John swept the floor with a long","English","mop",4,18,0.222222222222222
+"445",67,"John swept the floor with a long","English","towel",2,18,0.111111111111111
+"446",68,"He was cold most of the night and finally got up to get another","English","beer",1,17,0.0588235294117647
+"447",68,"He was cold most of the night and finally got up to get another","English","blanket",13,17,0.764705882352941
+"448",68,"He was cold most of the night and finally got up to get another","English","drink",1,17,0.0588235294117647
+"449",68,"He was cold most of the night and finally got up to get another","English","snack",1,17,0.0588235294117647
+"450",68,"He was cold most of the night and finally got up to get another","English","tea",1,17,0.0588235294117647
+"451",68,"Ihm war die ganze Nacht kalt, bis er schließlich aufstand to get another","code_switching","blanket",15,18,0.833333333333333
+"452",68,"Ihm war die ganze Nacht kalt, bis er schließlich aufstand to get another","code_switching","chocolate",1,18,0.0555555555555556
+"453",68,"Ihm war die ganze Nacht kalt, bis er schließlich aufstand to get another","code_switching","coffee",1,18,0.0555555555555556
+"454",68,"Ihm war die ganze Nacht kalt, bis er schließlich aufstand to get another","code_switching","icepack",1,18,0.0555555555555556
+"455",69,"Anfangs lehnte der Junge es ab, aber eventually he changed his ","code_switching","mind",16,17,0.941176470588235
+"456",69,"Anfangs lehnte der Junge es ab, aber eventually he changed his ","code_switching","opinion",1,17,0.0588235294117647
+"457",69,"At first the boy refused, but eventually he changed his","English","mind",16,18,0.888888888888889
+"458",69,"At first the boy refused, but eventually he changed his","English","mindset",1,18,0.0555555555555556
+"459",69,"At first the boy refused, but eventually he changed his","English","trousers",1,18,0.0555555555555556
+"460",70,"Rafael möchte den Wald schützen by guarding every","code_switching","animal",2,18,0.111111111111111
+"461",70,"Rafael möchte den Wald schützen by guarding every","code_switching","entrance",2,18,0.111111111111111
+"462",70,"Rafael möchte den Wald schützen by guarding every","code_switching","inch",1,18,0.0555555555555556
+"463",70,"Rafael möchte den Wald schützen by guarding every","code_switching","plant",1,18,0.0555555555555556
+"464",70,"Rafael möchte den Wald schützen by guarding every","code_switching","tree",12,18,0.666666666666667
+"465",70,"Rafael wants to preserve the forest by guarding every","English","animal",1,17,0.0588235294117647
+"466",70,"Rafael wants to preserve the forest by guarding every","English","centimeter",1,17,0.0588235294117647
+"467",70,"Rafael wants to preserve the forest by guarding every","English","entrance",1,17,0.0588235294117647
+"468",70,"Rafael wants to preserve the forest by guarding every","English","inch",2,17,0.117647058823529
+"469",70,"Rafael wants to preserve the forest by guarding every","English","meter",1,17,0.0588235294117647
+"470",70,"Rafael wants to preserve the forest by guarding every","English","person",1,17,0.0588235294117647
+"471",70,"Rafael wants to preserve the forest by guarding every","English","tree",10,17,0.588235294117647
+"472",71,"Es gab bunte Bilder on every single","code_switching","day",1,17,0.0588235294117647
+"473",71,"Es gab bunte Bilder on every single","code_switching","floors",1,17,0.0588235294117647
+"474",71,"Es gab bunte Bilder on every single","code_switching","page",7,17,0.411764705882353
+"475",71,"Es gab bunte Bilder on every single","code_switching","subject",1,17,0.0588235294117647
+"476",71,"Es gab bunte Bilder on every single","code_switching","wall",7,17,0.411764705882353
+"477",71,"There were colorful pictures on every single","English","bottle",1,18,0.0555555555555556
+"478",71,"There were colorful pictures on every single","English","frame",1,18,0.0555555555555556
+"479",71,"There were colorful pictures on every single","English","page",3,18,0.166666666666667
+"480",71,"There were colorful pictures on every single","English","surface",1,18,0.0555555555555556
+"481",71,"There were colorful pictures on every single","English","wall",10,18,0.555555555555556
+"482",71,"There were colorful pictures on every single","English","window",2,18,0.111111111111111
+"483",72,"At the end of the trip, Pam had no more clothes to","English","use",1,17,0.0588235294117647
+"484",72,"At the end of the trip, Pam had no more clothes to","English","wear",16,17,0.941176470588235
+"485",72,"Pam hatte am Ende der Reise no more clothes to","code_switching","change",2,18,0.111111111111111
+"486",72,"Pam hatte am Ende der Reise no more clothes to","code_switching","spare",1,18,0.0555555555555556
+"487",72,"Pam hatte am Ende der Reise no more clothes to","code_switching","wear",15,18,0.833333333333333
+"488",73,"Sie züchteten Schweine on their","code_switching","farm",16,17,0.941176470588235
+"489",73,"Sie züchteten Schweine on their","code_switching","property",1,17,0.0588235294117647
+"490",73,"They raised pigs on their","English","farm",17,18,0.944444444444444
+"491",73,"They raised pigs on their","English","home",1,18,0.0555555555555556
+"492",74,"Er entschied sich für deutschen Wein because the imported stuff was too","code_switching","bad",1,18,0.0555555555555556
+"493",74,"Er entschied sich für deutschen Wein because the imported stuff was too","code_switching","bitter",1,18,0.0555555555555556
+"494",74,"Er entschied sich für deutschen Wein because the imported stuff was too","code_switching","bland",1,18,0.0555555555555556
+"495",74,"Er entschied sich für deutschen Wein because the imported stuff was too","code_switching","cheap",1,18,0.0555555555555556
+"496",74,"Er entschied sich für deutschen Wein because the imported stuff was too","code_switching","expensive",12,18,0.666666666666667
+"497",74,"Er entschied sich für deutschen Wein because the imported stuff was too","code_switching","sweet",2,18,0.111111111111111
+"498",74,"He settled for German wine because the imported stuff was too","English","bad",1,17,0.0588235294117647
+"499",74,"He settled for German wine because the imported stuff was too","English","bland",1,17,0.0588235294117647
+"500",74,"He settled for German wine because the imported stuff was too","English","cheap",1,17,0.0588235294117647
+"501",74,"He settled for German wine because the imported stuff was too","English","expensive",12,17,0.705882352941177
+"502",74,"He settled for German wine because the imported stuff was too","English","pricey",1,17,0.0588235294117647
+"503",74,"He settled for German wine because the imported stuff was too","English","sweet",1,17,0.0588235294117647
+"504",75,"Simon denkt, dass es ok ist, sich laute Musik anzuhören, even if his door is","code_switching","closed",1,17,0.0588235294117647
+"505",75,"Simon denkt, dass es ok ist, sich laute Musik anzuhören, even if his door is","code_switching","open",15,17,0.882352941176471
+"506",75,"Simon denkt, dass es ok ist, sich laute Musik anzuhören, even if his door is","code_switching","shut",1,17,0.0588235294117647
+"507",75,"Simon thinks it's ok to listen to loud music even if his door is","English","closed",1,18,0.0555555555555556
+"508",75,"Simon thinks it's ok to listen to loud music even if his door is","English","open",17,18,0.944444444444444
+"509",76,"His skin was bright red from spending time at the","English","beach",11,17,0.647058823529412
+"510",76,"His skin was bright red from spending time at the","English","dispensary",1,17,0.0588235294117647
+"511",76,"His skin was bright red from spending time at the","English","lake",1,17,0.0588235294117647
+"512",76,"His skin was bright red from spending time at the","English","pool",1,17,0.0588235294117647
+"513",76,"His skin was bright red from spending time at the","English","solarium",1,17,0.0588235294117647
+"514",76,"His skin was bright red from spending time at the","English","sun",1,17,0.0588235294117647
+"515",76,"His skin was bright red from spending time at the","English","sunstudio",1,17,0.0588235294117647
+"516",76,"Seine Haut war knallrot from spending time at the","code_switching","beach",15,18,0.833333333333333
+"517",76,"Seine Haut war knallrot from spending time at the","code_switching","school",1,18,0.0555555555555556
+"518",76,"Seine Haut war knallrot from spending time at the","code_switching","solarium",2,18,0.111111111111111
+"519",77,"Phil nutzte die Pipette und tat einige drops in his","code_switching","coffee",1,17,0.0588235294117647
+"520",77,"Phil nutzte die Pipette und tat einige drops in his","code_switching","cup",1,17,0.0588235294117647
+"521",77,"Phil nutzte die Pipette und tat einige drops in his","code_switching","dish",1,17,0.0588235294117647
+"522",77,"Phil nutzte die Pipette und tat einige drops in his","code_switching","drink",1,17,0.0588235294117647
+"523",77,"Phil nutzte die Pipette und tat einige drops in his","code_switching","eyes",8,17,0.470588235294118
+"524",77,"Phil nutzte die Pipette und tat einige drops in his","code_switching","flask",1,17,0.0588235294117647
+"525",77,"Phil nutzte die Pipette und tat einige drops in his","code_switching","glass",3,17,0.176470588235294
+"526",77,"Phil nutzte die Pipette und tat einige drops in his","code_switching","sample",1,17,0.0588235294117647
+"527",77,"Phil used the dropper to put some drops in his","English","drink",2,18,0.111111111111111
+"528",77,"Phil used the dropper to put some drops in his","English","ears",1,18,0.0555555555555556
+"529",77,"Phil used the dropper to put some drops in his","English","eyes",10,18,0.555555555555556
+"530",77,"Phil used the dropper to put some drops in his","English","glass",1,18,0.0555555555555556
+"531",77,"Phil used the dropper to put some drops in his","English","mouth",1,18,0.0555555555555556
+"532",77,"Phil used the dropper to put some drops in his","English","pants",1,18,0.0555555555555556
+"533",77,"Phil used the dropper to put some drops in his","English","plate",1,18,0.0555555555555556
+"534",77,"Phil used the dropper to put some drops in his","English","water",1,18,0.0555555555555556
+"535",78,"Der Oberst wünschte sich der Feldwebel würde seine Befehle nicht als höfliche Bitte wahrnehmen, but as a direct","code_switching","command",3,18,0.166666666666667
+"536",78,"Der Oberst wünschte sich der Feldwebel würde seine Befehle nicht als höfliche Bitte wahrnehmen, but as a direct","code_switching","order",13,18,0.722222222222222
+"537",78,"Der Oberst wünschte sich der Feldwebel würde seine Befehle nicht als höfliche Bitte wahrnehmen, but as a direct","code_switching","request",1,18,0.0555555555555556
+"538",78,"Der Oberst wünschte sich der Feldwebel würde seine Befehle nicht als höfliche Bitte wahrnehmen, but as a direct","code_switching","threat",1,18,0.0555555555555556
+"539",78,"The colonel wished the sergeant would treat his command not as a polite request but as a direct","English","command",4,17,0.235294117647059
+"540",78,"The colonel wished the sergeant would treat his command not as a polite request but as a direct","English","necessity",1,17,0.0588235294117647
+"541",78,"The colonel wished the sergeant would treat his command not as a polite request but as a direct","English","order",12,17,0.705882352941177
+"542",79,"Sharon dried the bowls with a big","English","fan",1,18,0.0555555555555556
+"543",79,"Sharon dried the bowls with a big","English","hairdryer",1,18,0.0555555555555556
+"544",79,"Sharon dried the bowls with a big","English","spoon",1,18,0.0555555555555556
+"545",79,"Sharon dried the bowls with a big","English","tablecloth",1,18,0.0555555555555556
+"546",79,"Sharon dried the bowls with a big","English","towel",14,18,0.777777777777778
+"547",79,"Sharon trocknete die Schüsseln with a big","code_switching","cloth",1,17,0.0588235294117647
+"548",79,"Sharon trocknete die Schüsseln with a big","code_switching","rag",1,17,0.0588235294117647
+"549",79,"Sharon trocknete die Schüsseln with a big","code_switching","rug",1,17,0.0588235294117647
+"550",79,"Sharon trocknete die Schüsseln with a big","code_switching","towel",14,17,0.823529411764706
+"551",80,"Misch die Karten thoroughly before you","code_switching","deal",6,18,0.333333333333333
+"552",80,"Misch die Karten thoroughly before you","code_switching","distribute",1,18,0.0555555555555556
+"553",80,"Misch die Karten thoroughly before you","code_switching","handout",1,18,0.0555555555555556
+"554",80,"Misch die Karten thoroughly before you","code_switching","play",7,18,0.388888888888889
+"555",80,"Misch die Karten thoroughly before you","code_switching","start",3,18,0.166666666666667
+"556",80,"Shuffle the cards thoroughly before you","English","deal",4,17,0.235294117647059
+"557",80,"Shuffle the cards thoroughly before you","English","distribute",1,17,0.0588235294117647
+"558",80,"Shuffle the cards thoroughly before you","English","draw",1,17,0.0588235294117647
+"559",80,"Shuffle the cards thoroughly before you","English","give",2,17,0.117647058823529
+"560",80,"Shuffle the cards thoroughly before you","English","handthemout",1,17,0.0588235294117647
+"561",80,"Shuffle the cards thoroughly before you","English","play",6,17,0.352941176470588
+"562",80,"Shuffle the cards thoroughly before you","English","start",2,17,0.117647058823529
+"563",81,"Esther dachte nicht, dass das Schwert gefährlich war, because it wasn't very","code_switching","big",1,17,0.0588235294117647
+"564",81,"Esther dachte nicht, dass das Schwert gefährlich war, because it wasn't very","code_switching","heavy",2,17,0.117647058823529
+"565",81,"Esther dachte nicht, dass das Schwert gefährlich war, because it wasn't very","code_switching","long",3,17,0.176470588235294
+"566",81,"Esther dachte nicht, dass das Schwert gefährlich war, because it wasn't very","code_switching","sharp",11,17,0.647058823529412
+"567",81,"Esther didn't think the sword was dangerous because it wasn't very","English","heavy",1,18,0.0555555555555556
+"568",81,"Esther didn't think the sword was dangerous because it wasn't very","English","long",1,18,0.0555555555555556
+"569",81,"Esther didn't think the sword was dangerous because it wasn't very","English","sharp",16,18,0.888888888888889
+"570",82,"Das Kleinkind schrie ununterbrochen and upset her","code_switching","mother",12,18,0.666666666666667
+"571",82,"Das Kleinkind schrie ununterbrochen and upset her","code_switching","parents",4,18,0.222222222222222
+"572",82,"Das Kleinkind schrie ununterbrochen and upset her","code_switching","sister",1,18,0.0555555555555556
+"573",82,"Das Kleinkind schrie ununterbrochen and upset her","code_switching","stomach",1,18,0.0555555555555556
+"574",82,"The child cried continuously and upset her","English","again",1,17,0.0588235294117647
+"575",82,"The child cried continuously and upset her","English","brother",1,17,0.0588235294117647
+"576",82,"The child cried continuously and upset her","English","mother",10,17,0.588235294117647
+"577",82,"The child cried continuously and upset her","English","parents",4,17,0.235294117647059
+"578",82,"The child cried continuously and upset her","English","sister",1,17,0.0588235294117647
+"579",83,"After the rents went up again, the tenants decided to take their landlord to ","English","court",17,18,0.944444444444444
+"580",83,"After the rents went up again, the tenants decided to take their landlord to ","English","speech",1,18,0.0555555555555556
+"581",83,"Die Mieter entschieden sich nach weiter steigenden Mietpreisen to take their landlord to","code_switching","court",16,17,0.941176470588235
+"582",83,"Die Mieter entschieden sich nach weiter steigenden Mietpreisen to take their landlord to","code_switching","judge",1,17,0.0588235294117647
+"583",84,"Als George nicht in sein Auto kam, kniete er sich hin und suchte under the bumper for the spare","code_switching","key",16,18,0.888888888888889
+"584",84,"Als George nicht in sein Auto kam, kniete er sich hin und suchte under the bumper for the spare","code_switching","screw",1,18,0.0555555555555556
+"585",84,"Als George nicht in sein Auto kam, kniete er sich hin und suchte under the bumper for the spare","code_switching","tire",1,18,0.0555555555555556
+"586",84,"When George couldn't get into his car, he got down on one knee and reached under the bumper for the spare","English","key",14,17,0.823529411764706
+"587",84,"When George couldn't get into his car, he got down on one knee and reached under the bumper for the spare","English","tire",2,17,0.117647058823529
+"588",84,"When George couldn't get into his car, he got down on one knee and reached under the bumper for the spare","English","wheel",1,17,0.0588235294117647
+"589",85,"Die Bauarbeiterin hatte sehr muskulöse Arme bekommen from unloading cement from the","code_switching","car",1,17,0.0588235294117647
+"590",85,"Die Bauarbeiterin hatte sehr muskulöse Arme bekommen from unloading cement from the","code_switching","ground",1,17,0.0588235294117647
+"591",85,"Die Bauarbeiterin hatte sehr muskulöse Arme bekommen from unloading cement from the","code_switching","truck",15,17,0.882352941176471
+"592",85,"The construction worker had developed very powerful arms from unloading cement from the","English","car",2,18,0.111111111111111
+"593",85,"The construction worker had developed very powerful arms from unloading cement from the","English","lorry",1,18,0.0555555555555556
+"594",85,"The construction worker had developed very powerful arms from unloading cement from the","English","truck",14,18,0.777777777777778
+"595",85,"The construction worker had developed very powerful arms from unloading cement from the","English","trucks",1,18,0.0555555555555556
+"596",86,"Es war ihr immer wichtig to be on","code_switching","fire",1,18,0.0555555555555556
+"597",86,"Es war ihr immer wichtig to be on","code_switching","television",1,18,0.0555555555555556
+"598",86,"Es war ihr immer wichtig to be on","code_switching","time",13,18,0.722222222222222
+"599",86,"Es war ihr immer wichtig to be on","code_switching","top",2,18,0.111111111111111
+"600",86,"Es war ihr immer wichtig to be on","code_switching","vacation",1,18,0.0555555555555556
+"601",86,"It was important for him to be on","English","drugs",1,17,0.0588235294117647
+"602",86,"It was important for him to be on","English","instagram",1,17,0.0588235294117647
+"603",86,"It was important for him to be on","English","television",1,17,0.0588235294117647
+"604",86,"It was important for him to be on","English","time",11,17,0.647058823529412
+"605",86,"It was important for him to be on","English","tv",3,17,0.176470588235294
+"606",87,"Die Katze lag gerne curled up in Jill's","code_switching","bed",3,17,0.176470588235294
+"607",87,"Die Katze lag gerne curled up in Jill's","code_switching","blanket",1,17,0.0588235294117647
+"608",87,"Die Katze lag gerne curled up in Jill's","code_switching","chair",1,17,0.0588235294117647
+"609",87,"Die Katze lag gerne curled up in Jill's","code_switching","lap",12,17,0.705882352941177
+"610",87,"The cat liked to curl up in Jill's","English","arms",1,18,0.0555555555555556
+"611",87,"The cat liked to curl up in Jill's","English","bed",1,18,0.0555555555555556
+"612",87,"The cat liked to curl up in Jill's","English","blanket",1,18,0.0555555555555556
+"613",87,"The cat liked to curl up in Jill's","English","crotch",1,18,0.0555555555555556
+"614",87,"The cat liked to curl up in Jill's","English","hoodie",1,18,0.0555555555555556
+"615",87,"The cat liked to curl up in Jill's","English","lap",11,18,0.611111111111111
+"616",87,"The cat liked to curl up in Jill's","English","legs",1,18,0.0555555555555556
+"617",87,"The cat liked to curl up in Jill's","English","sweater",1,18,0.0555555555555556
+"618",88,"Our long-awaited guests should be arriving","English","motherent",1,17,0.0588235294117647
+"619",88,"Our long-awaited guests should be arriving","English","soon",16,17,0.941176470588235
+"620",88,"Unsere lang erwarteten Gäste should be arriving","code_switching","anyminute",1,18,0.0555555555555556
+"621",88,"Unsere lang erwarteten Gäste should be arriving","code_switching","short",1,18,0.0555555555555556
+"622",88,"Unsere lang erwarteten Gäste should be arriving","code_switching","soon",15,18,0.833333333333333
+"623",88,"Unsere lang erwarteten Gäste should be arriving","code_switching","tomorrow",1,18,0.0555555555555556
+"624",89,"Each night at midnight the boy scouts built a huge","English","camp",1,18,0.0555555555555556
+"625",89,"Each night at midnight the boy scouts built a huge","English","fire",8,18,0.444444444444444
+"626",89,"Each night at midnight the boy scouts built a huge","English","fort",2,18,0.111111111111111
+"627",89,"Each night at midnight the boy scouts built a huge","English","fortress",2,18,0.111111111111111
+"628",89,"Each night at midnight the boy scouts built a huge","English","sandcastle",1,18,0.0555555555555556
+"629",89,"Each night at midnight the boy scouts built a huge","English","shrine",1,18,0.0555555555555556
+"630",89,"Each night at midnight the boy scouts built a huge","English","tent",3,18,0.166666666666667
+"631",89,"Jede Nacht um Mitternacht machten the boy scouts a huge","code_switching","discovery",1,17,0.0588235294117647
+"632",89,"Jede Nacht um Mitternacht machten the boy scouts a huge","code_switching","fire",5,17,0.294117647058824
+"633",89,"Jede Nacht um Mitternacht machten the boy scouts a huge","code_switching","hike",1,17,0.0588235294117647
+"634",89,"Jede Nacht um Mitternacht machten the boy scouts a huge","code_switching","noise",1,17,0.0588235294117647
+"635",89,"Jede Nacht um Mitternacht machten the boy scouts a huge","code_switching","party",7,17,0.411764705882353
+"636",89,"Jede Nacht um Mitternacht machten the boy scouts a huge","code_switching","track",1,17,0.0588235294117647
+"637",89,"Jede Nacht um Mitternacht machten the boy scouts a huge","code_switching","walk",1,17,0.0588235294117647
+"638",90,"Es regnet und ich habe alles vergessen: my coat, hat, and","code_switching","gloves",1,18,0.0555555555555556
+"639",90,"Es regnet und ich habe alles vergessen: my coat, hat, and","code_switching","scarf",3,18,0.166666666666667
+"640",90,"Es regnet und ich habe alles vergessen: my coat, hat, and","code_switching","shoe",2,18,0.111111111111111
+"641",90,"Es regnet und ich habe alles vergessen: my coat, hat, and","code_switching","umbrella",11,18,0.611111111111111
+"642",90,"Es regnet und ich habe alles vergessen: my coat, hat, and","code_switching","underpants",1,18,0.0555555555555556
+"643",90,"It's raining, and I forgot everything: my coat, hat, and","English","boots",1,17,0.0588235294117647
+"644",90,"It's raining, and I forgot everything: my coat, hat, and","English","dignity",1,17,0.0588235294117647
+"645",90,"It's raining, and I forgot everything: my coat, hat, and","English","phone",1,17,0.0588235294117647
+"646",90,"It's raining, and I forgot everything: my coat, hat, and","English","shoe",1,17,0.0588235294117647
+"647",90,"It's raining, and I forgot everything: my coat, hat, and","English","umbrella",13,17,0.764705882352941
+"648",91,"I just had a new sound system installed in my brand new","English","apartment",3,18,0.166666666666667
+"649",91,"I just had a new sound system installed in my brand new","English","car",12,18,0.666666666666667
+"650",91,"I just had a new sound system installed in my brand new","English","flat",1,18,0.0555555555555556
+"651",91,"I just had a new sound system installed in my brand new","English","house",1,18,0.0555555555555556
+"652",91,"I just had a new sound system installed in my brand new","English","studio",1,18,0.0555555555555556
+"653",91,"Ich ließ mir vor kurzem eine neue Musikanlage einbauen in my brand new","code_switching","apartment",5,17,0.294117647058824
+"654",91,"Ich ließ mir vor kurzem eine neue Musikanlage einbauen in my brand new","code_switching","audi",1,17,0.0588235294117647
+"655",91,"Ich ließ mir vor kurzem eine neue Musikanlage einbauen in my brand new","code_switching","car",10,17,0.588235294117647
+"656",91,"Ich ließ mir vor kurzem eine neue Musikanlage einbauen in my brand new","code_switching","room",1,17,0.0588235294117647
+"657",92,"Die Umzugsleute schienen es sehr zu genießen, to toss the boxes marked","code_switching","around",1,18,0.0555555555555556
+"658",92,"Die Umzugsleute schienen es sehr zu genießen, to toss the boxes marked","code_switching","black",1,18,0.0555555555555556
+"659",92,"Die Umzugsleute schienen es sehr zu genießen, to toss the boxes marked","code_switching","fragile",12,18,0.666666666666667
+"660",92,"Die Umzugsleute schienen es sehr zu genießen, to toss the boxes marked","code_switching","packages",1,18,0.0555555555555556
+"661",92,"Die Umzugsleute schienen es sehr zu genießen, to toss the boxes marked","code_switching","red",1,18,0.0555555555555556
+"662",92,"Die Umzugsleute schienen es sehr zu genießen, to toss the boxes marked","code_switching","trash",2,18,0.111111111111111
+"663",92,"The movers seemed to take great delight in tossing the boxes marked","English","fragile",11,17,0.647058823529412
+"664",92,"The movers seemed to take great delight in tossing the boxes marked","English","glass",2,17,0.117647058823529
+"665",92,"The movers seemed to take great delight in tossing the boxes marked","English","red",2,17,0.117647058823529
+"666",92,"The movers seemed to take great delight in tossing the boxes marked","English","something",1,17,0.0588235294117647
+"667",92,"The movers seemed to take great delight in tossing the boxes marked","English","trash",1,17,0.0588235294117647
+"668",93,"An heißen Tagen sonnen sich viele Leute on the nearest","code_switching","beach",13,17,0.764705882352941
+"669",93,"An heißen Tagen sonnen sich viele Leute on the nearest","code_switching","bench",1,17,0.0588235294117647
+"670",93,"An heißen Tagen sonnen sich viele Leute on the nearest","code_switching","lake",3,17,0.176470588235294
+"671",93,"On hot days, many people sun themselves on the nearest","English","beach",16,18,0.888888888888889
+"672",93,"On hot days, many people sun themselves on the nearest","English","place",1,18,0.0555555555555556
+"673",93,"On hot days, many people sun themselves on the nearest","English","riverbank",1,18,0.0555555555555556
+"674",94,"Er mochte Zitrone und Zucker in his hot","code_switching","beer",1,18,0.0555555555555556
+"675",94,"Er mochte Zitrone und Zucker in his hot","code_switching","coffee",2,18,0.111111111111111
+"676",94,"Er mochte Zitrone und Zucker in his hot","code_switching","tea",14,18,0.777777777777778
+"677",94,"Er mochte Zitrone und Zucker in his hot","code_switching","water",1,18,0.0555555555555556
+"678",94,"He liked lemon and sugar in his hot","English","milk",1,17,0.0588235294117647
+"679",94,"He liked lemon and sugar in his hot","English","tea",16,17,0.941176470588235
+"680",95,"Es ist schwer zuzugeben when one is","code_switching","guilty",1,17,0.0588235294117647
+"681",95,"Es ist schwer zuzugeben when one is","code_switching","insecure",1,17,0.0588235294117647
+"682",95,"Es ist schwer zuzugeben when one is","code_switching","lonely",1,17,0.0588235294117647
+"683",95,"Es ist schwer zuzugeben when one is","code_switching","lying",5,17,0.294117647058824
+"684",95,"Es ist schwer zuzugeben when one is","code_switching","sad",1,17,0.0588235294117647
+"685",95,"Es ist schwer zuzugeben when one is","code_switching","stressed",1,17,0.0588235294117647
+"686",95,"Es ist schwer zuzugeben when one is","code_switching","wrong",7,17,0.411764705882353
+"687",95,"It's hard to admit when one is","English","angry",1,18,0.0555555555555556
+"688",95,"It's hard to admit when one is","English","evil",1,18,0.0555555555555556
+"689",95,"It's hard to admit when one is","English","guilty",1,18,0.0555555555555556
+"690",95,"It's hard to admit when one is","English","poor",1,18,0.0555555555555556
+"691",95,"It's hard to admit when one is","English","sad",1,18,0.0555555555555556
+"692",95,"It's hard to admit when one is","English","wrong",13,18,0.722222222222222
+"693",96,"After dinner, they spent a long time over coffee just","English","chat",1,17,0.0588235294117647
+"694",96,"After dinner, they spent a long time over coffee just","English","chatting",3,17,0.176470588235294
+"695",96,"After dinner, they spent a long time over coffee just","English","chill",1,17,0.0588235294117647
+"696",96,"After dinner, they spent a long time over coffee just","English","talking",12,17,0.705882352941177
+"697",96,"Nach dem Abendessen verbrachten sie viel Zeit over coffee just","code_switching","chat",1,18,0.0555555555555556
+"698",96,"Nach dem Abendessen verbrachten sie viel Zeit over coffee just","code_switching","chatting",4,18,0.222222222222222
+"699",96,"Nach dem Abendessen verbrachten sie viel Zeit over coffee just","code_switching","drink",3,18,0.166666666666667
+"700",96,"Nach dem Abendessen verbrachten sie viel Zeit over coffee just","code_switching","gossip",1,18,0.0555555555555556
+"701",96,"Nach dem Abendessen verbrachten sie viel Zeit over coffee just","code_switching","random",1,18,0.0555555555555556
+"702",96,"Nach dem Abendessen verbrachten sie viel Zeit over coffee just","code_switching","talking",7,18,0.388888888888889
+"703",96,"Nach dem Abendessen verbrachten sie viel Zeit over coffee just","code_switching","together",1,18,0.0555555555555556
+"704",97,"Der biologische Dünger helped enrich the","code_switching","crops",2,26,0.0769230769230769
+"705",97,"Der biologische Dünger helped enrich the","code_switching","earth",2,26,0.0769230769230769
+"706",97,"Der biologische Dünger helped enrich the","code_switching","flavor",1,26,0.0384615384615385
+"707",97,"Der biologische Dünger helped enrich the","code_switching","flowers",1,26,0.0384615384615385
+"708",97,"Der biologische Dünger helped enrich the","code_switching","ground",4,26,0.153846153846154
+"709",97,"Der biologische Dünger helped enrich the","code_switching","harvest",2,26,0.0769230769230769
+"710",97,"Der biologische Dünger helped enrich the","code_switching","plants",2,26,0.0769230769230769
+"711",97,"Der biologische Dünger helped enrich the","code_switching","potency",1,26,0.0384615384615385
+"712",97,"Der biologische Dünger helped enrich the","code_switching","soil",11,26,0.423076923076923
+"713",97,"The organic fertilizer helped enrich the","English","crops",2,22,0.0909090909090909
+"714",97,"The organic fertilizer helped enrich the","English","earth",1,22,0.0454545454545455
+"715",97,"The organic fertilizer helped enrich the","English","field",1,22,0.0454545454545455
+"716",97,"The organic fertilizer helped enrich the","English","fields",1,22,0.0454545454545455
+"717",97,"The organic fertilizer helped enrich the","English","flowers",2,22,0.0909090909090909
+"718",97,"The organic fertilizer helped enrich the","English","ground",1,22,0.0454545454545455
+"719",97,"The organic fertilizer helped enrich the","English","plants",4,22,0.181818181818182
+"720",97,"The organic fertilizer helped enrich the","English","process",1,22,0.0454545454545455
+"721",97,"The organic fertilizer helped enrich the","English","soil",9,22,0.409090909090909
+"722",98,"Das Problem mit meinem Freund Paul ist that he can't take a","code_switching","break",2,22,0.0909090909090909
+"723",98,"Das Problem mit meinem Freund Paul ist that he can't take a","code_switching","compliment",1,22,0.0454545454545455
+"724",98,"Das Problem mit meinem Freund Paul ist that he can't take a","code_switching","hint",4,22,0.181818181818182
+"725",98,"Das Problem mit meinem Freund Paul ist that he can't take a","code_switching","hit",1,22,0.0454545454545455
+"726",98,"Das Problem mit meinem Freund Paul ist that he can't take a","code_switching","joke",12,22,0.545454545454545
+"727",98,"Das Problem mit meinem Freund Paul ist that he can't take a","code_switching","shower",1,22,0.0454545454545455
+"728",98,"Das Problem mit meinem Freund Paul ist that he can't take a","code_switching","trip",1,22,0.0454545454545455
+"729",98,"The problem with my friend Paul is that he can't take a","English","break",4,26,0.153846153846154
+"730",98,"The problem with my friend Paul is that he can't take a","English","breather",1,26,0.0384615384615385
+"731",98,"The problem with my friend Paul is that he can't take a","English","hint",6,26,0.230769230769231
+"732",98,"The problem with my friend Paul is that he can't take a","English","joke",14,26,0.538461538461538
+"733",98,"The problem with my friend Paul is that he can't take a","English","shower",1,26,0.0384615384615385
+"734",99,"Die zwei Räuber trugen Waffen but they didn't","code_switching","attack",1,26,0.0384615384615385
+"735",99,"Die zwei Räuber trugen Waffen but they didn't","code_switching","bother",1,26,0.0384615384615385
+"736",99,"Die zwei Räuber trugen Waffen but they didn't","code_switching","load",1,26,0.0384615384615385
+"737",99,"Die zwei Räuber trugen Waffen but they didn't","code_switching","move",1,26,0.0384615384615385
+"738",99,"Die zwei Räuber trugen Waffen but they didn't","code_switching","shoot",18,26,0.692307692307692
+"739",99,"Die zwei Räuber trugen Waffen but they didn't","code_switching","shot",1,26,0.0384615384615385
+"740",99,"Die zwei Räuber trugen Waffen but they didn't","code_switching","steal",1,26,0.0384615384615385
+"741",99,"Die zwei Räuber trugen Waffen but they didn't","code_switching","use",1,26,0.0384615384615385
+"742",99,"Die zwei Räuber trugen Waffen but they didn't","code_switching","wearmasks",1,26,0.0384615384615385
+"743",99,"The two robbers carried guns but didn't","English","ammunition",1,22,0.0454545454545455
+"744",99,"The two robbers carried guns but didn't","English","fire",1,22,0.0454545454545455
+"745",99,"The two robbers carried guns but didn't","English","shoot",16,22,0.727272727272727
+"746",99,"The two robbers carried guns but didn't","English","shot",1,22,0.0454545454545455
+"747",99,"The two robbers carried guns but didn't","English","success",1,22,0.0454545454545455
+"748",99,"The two robbers carried guns but didn't","English","use",2,22,0.0909090909090909
+"749",100,"After two hours of hard work they decided to take a short","English","break",22,26,0.846153846153846
+"750",100,"After two hours of hard work they decided to take a short","English","rest",1,26,0.0384615384615385
+"751",100,"After two hours of hard work they decided to take a short","English","route",1,26,0.0384615384615385
+"752",100,"After two hours of hard work they decided to take a short","English","walk",2,26,0.0769230769230769
+"753",100,"Nach zwei Stunden harter Arbeit entschieden sie, to take a short","code_switching","break",18,22,0.818181818181818
+"754",100,"Nach zwei Stunden harter Arbeit entschieden sie, to take a short","code_switching","nap",1,22,0.0454545454545455
+"755",100,"Nach zwei Stunden harter Arbeit entschieden sie, to take a short","code_switching","recess",1,22,0.0454545454545455
+"756",100,"Nach zwei Stunden harter Arbeit entschieden sie, to take a short","code_switching","stop",1,22,0.0454545454545455
+"757",100,"Nach zwei Stunden harter Arbeit entschieden sie, to take a short","code_switching","walk",1,22,0.0454545454545455
+"758",101,"He carefully positioned the violin under his","English","arm",1,22,0.0454545454545455
+"759",101,"He carefully positioned the violin under his","English","bed",1,22,0.0454545454545455
+"760",101,"He carefully positioned the violin under his","English","chair",2,22,0.0909090909090909
+"761",101,"He carefully positioned the violin under his","English","chin",15,22,0.681818181818182
+"762",101,"He carefully positioned the violin under his","English","desk",1,22,0.0454545454545455
+"763",101,"He carefully positioned the violin under his","English","pillow",1,22,0.0454545454545455
+"764",101,"He carefully positioned the violin under his","English","seat",1,22,0.0454545454545455
+"765",101,"Vorsichtig platzierte er the violin under his","code_switching","arm",1,26,0.0384615384615385
+"766",101,"Vorsichtig platzierte er the violin under his","code_switching","bed",6,26,0.230769230769231
+"767",101,"Vorsichtig platzierte er the violin under his","code_switching","chair",4,26,0.153846153846154
+"768",101,"Vorsichtig platzierte er the violin under his","code_switching","chin",11,26,0.423076923076923
+"769",101,"Vorsichtig platzierte er the violin under his","code_switching","desk",1,26,0.0384615384615385
+"770",101,"Vorsichtig platzierte er the violin under his","code_switching","legs",1,26,0.0384615384615385
+"771",101,"Vorsichtig platzierte er the violin under his","code_switching","table",2,26,0.0769230769230769
+"772",102,"Er legte eine saubere Decke on the clean","code_switching","bed",5,22,0.227272727272727
+"773",102,"Er legte eine saubere Decke on the clean","code_switching","bench",1,22,0.0454545454545455
+"774",102,"Er legte eine saubere Decke on the clean","code_switching","couch",1,22,0.0454545454545455
+"775",102,"Er legte eine saubere Decke on the clean","code_switching","floors",8,22,0.363636363636364
+"776",102,"Er legte eine saubere Decke on the clean","code_switching","sheets",1,22,0.0454545454545455
+"777",102,"Er legte eine saubere Decke on the clean","code_switching","sofa",2,22,0.0909090909090909
+"778",102,"Er legte eine saubere Decke on the clean","code_switching","surface",1,22,0.0454545454545455
+"779",102,"Er legte eine saubere Decke on the clean","code_switching","table",3,22,0.136363636363636
+"780",102,"He put a new sheet on the clean","English","bed",13,26,0.5
+"781",102,"He put a new sheet on the clean","English","mattress",6,26,0.230769230769231
+"782",102,"He put a new sheet on the clean","English","pillow",2,26,0.0769230769230769
+"783",102,"He put a new sheet on the clean","English","table",5,26,0.192307692307692
+"784",103,"Sie entschieden, ein kleines Haus zu kaufen und bauten an addition with two more","code_switching","floors",1,26,0.0384615384615385
+"785",103,"Sie entschieden, ein kleines Haus zu kaufen und bauten an addition with two more","code_switching","garages",3,26,0.115384615384615
+"786",103,"Sie entschieden, ein kleines Haus zu kaufen und bauten an addition with two more","code_switching","house",1,26,0.0384615384615385
+"787",103,"Sie entschieden, ein kleines Haus zu kaufen und bauten an addition with two more","code_switching","neighbors",1,26,0.0384615384615385
+"788",103,"Sie entschieden, ein kleines Haus zu kaufen und bauten an addition with two more","code_switching","room",18,26,0.692307692307692
+"789",103,"Sie entschieden, ein kleines Haus zu kaufen und bauten an addition with two more","code_switching","window",2,26,0.0769230769230769
+"790",103,"They decided to buy a small home and built an addition with two more","English","buildings",1,22,0.0454545454545455
+"791",103,"They decided to buy a small home and built an addition with two more","English","friends",1,22,0.0454545454545455
+"792",103,"They decided to buy a small home and built an addition with two more","English","garages",2,22,0.0909090909090909
+"793",103,"They decided to buy a small home and built an addition with two more","English","room",17,22,0.772727272727273
+"794",103,"They decided to buy a small home and built an addition with two more","English","stories",1,22,0.0454545454545455
+"795",104,"Cindy brachte ihrer zweijährigen Tochter bei, dass Bilder quadratisch sind and that the plates are","code_switching","black",1,22,0.0454545454545455
+"796",104,"Cindy brachte ihrer zweijährigen Tochter bei, dass Bilder quadratisch sind and that the plates are","code_switching","circle",1,22,0.0454545454545455
+"797",104,"Cindy brachte ihrer zweijährigen Tochter bei, dass Bilder quadratisch sind and that the plates are","code_switching","circular",3,22,0.136363636363636
+"798",104,"Cindy brachte ihrer zweijährigen Tochter bei, dass Bilder quadratisch sind and that the plates are","code_switching","round",17,22,0.772727272727273
+"799",104,"Cindy taught her two-year old that the pictures are square and that the plates are","English","circle",4,26,0.153846153846154
+"800",104,"Cindy taught her two-year old that the pictures are square and that the plates are","English","empty",1,26,0.0384615384615385
+"801",104,"Cindy taught her two-year old that the pictures are square and that the plates are","English","round",21,26,0.807692307692308
+"802",105,"While the national anthem is played, one needs to show respect and everyone is expected to","English","kneel",1,22,0.0454545454545455
+"803",105,"While the national anthem is played, one needs to show respect and everyone is expected to","English","listen",1,22,0.0454545454545455
+"804",105,"While the national anthem is played, one needs to show respect and everyone is expected to","English","participate",1,22,0.0454545454545455
+"805",105,"While the national anthem is played, one needs to show respect and everyone is expected to","English","salute",2,22,0.0909090909090909
+"806",105,"While the national anthem is played, one needs to show respect and everyone is expected to","English","sing",7,22,0.318181818181818
+"807",105,"While the national anthem is played, one needs to show respect and everyone is expected to","English","stand",10,22,0.454545454545455
+"808",105,"Während die Nationalhymne läuft, soll man Respekt zeigen and everyone is expected to","code_switching","follow",1,26,0.0384615384615385
+"809",105,"Während die Nationalhymne läuft, soll man Respekt zeigen and everyone is expected to","code_switching","quiet",1,26,0.0384615384615385
+"810",105,"Während die Nationalhymne läuft, soll man Respekt zeigen and everyone is expected to","code_switching","salute",2,26,0.0769230769230769
+"811",105,"Während die Nationalhymne läuft, soll man Respekt zeigen and everyone is expected to","code_switching","sing",11,26,0.423076923076923
+"812",105,"Während die Nationalhymne läuft, soll man Respekt zeigen and everyone is expected to","code_switching","stand",11,26,0.423076923076923
+"813",106,"After dinner they got up and washed the","English","car",1,26,0.0384615384615385
+"814",106,"After dinner they got up and washed the","English","dish",23,26,0.884615384615385
+"815",106,"After dinner they got up and washed the","English","plates",2,26,0.0769230769230769
+"816",106,"Nach dem Abendessen standen sie auf and washed the","code_switching","dish",20,22,0.909090909090909
+"817",106,"Nach dem Abendessen standen sie auf and washed the","code_switching","plates",2,22,0.0909090909090909
+"818",107,"After lunch he scraped the cold food from his","English","box",1,22,0.0454545454545455
+"819",107,"After lunch he scraped the cold food from his","English","chin",1,22,0.0454545454545455
+"820",107,"After lunch he scraped the cold food from his","English","fork",1,22,0.0454545454545455
+"821",107,"After lunch he scraped the cold food from his","English","fridge",1,22,0.0454545454545455
+"822",107,"After lunch he scraped the cold food from his","English","lunchbox",1,22,0.0454545454545455
+"823",107,"After lunch he scraped the cold food from his","English","plate",15,22,0.681818181818182
+"824",107,"After lunch he scraped the cold food from his","English","spoon",1,22,0.0454545454545455
+"825",107,"After lunch he scraped the cold food from his","English","tupperware",1,22,0.0454545454545455
+"826",107,"Er kratzte nach dem Mittagessen the cold food from his","code_switching","bowl",1,26,0.0384615384615385
+"827",107,"Er kratzte nach dem Mittagessen the cold food from his","code_switching","dish",1,26,0.0384615384615385
+"828",107,"Er kratzte nach dem Mittagessen the cold food from his","code_switching","plate",22,26,0.846153846153846
+"829",107,"Er kratzte nach dem Mittagessen the cold food from his","code_switching","shoe",1,26,0.0384615384615385
+"830",107,"Er kratzte nach dem Mittagessen the cold food from his","code_switching","table",1,26,0.0384615384615385
+"831",108,"Es gab Durchzug, weil die kalte Luft reinkam durch die Tür and all the side","code_switching","channel",1,22,0.0454545454545455
+"832",108,"Es gab Durchzug, weil die kalte Luft reinkam durch die Tür and all the side","code_switching","door",2,22,0.0909090909090909
+"833",108,"Es gab Durchzug, weil die kalte Luft reinkam durch die Tür and all the side","code_switching","freeze",1,22,0.0454545454545455
+"834",108,"Es gab Durchzug, weil die kalte Luft reinkam durch die Tür and all the side","code_switching","open",2,22,0.0909090909090909
+"835",108,"Es gab Durchzug, weil die kalte Luft reinkam durch die Tür and all the side","code_switching","window",16,22,0.727272727272727
+"836",108,"It was drafty because of the cold air leaking in through the door and all the side","English","cracks",1,26,0.0384615384615385
+"837",108,"It was drafty because of the cold air leaking in through the door and all the side","English","door",1,26,0.0384615384615385
+"838",108,"It was drafty because of the cold air leaking in through the door and all the side","English","drafts",1,26,0.0384615384615385
+"839",108,"It was drafty because of the cold air leaking in through the door and all the side","English","leaked",1,26,0.0384615384615385
+"840",108,"It was drafty because of the cold air leaking in through the door and all the side","English","slits",1,26,0.0384615384615385
+"841",108,"It was drafty because of the cold air leaking in through the door and all the side","English","wall",2,26,0.0769230769230769
+"842",108,"It was drafty because of the cold air leaking in through the door and all the side","English","wind",2,26,0.0769230769230769
+"843",108,"It was drafty because of the cold air leaking in through the door and all the side","English","window",16,26,0.615384615384615
+"844",108,"It was drafty because of the cold air leaking in through the door and all the side","English","winds",1,26,0.0384615384615385
+"845",109,"Tracy and her husband weren't Catholic, but she was glad when the priest warmly welcomed their three","English","children",19,22,0.863636363636364
+"846",109,"Tracy and her husband weren't Catholic, but she was glad when the priest warmly welcomed their three","English","kids",1,22,0.0454545454545455
+"847",109,"Tracy and her husband weren't Catholic, but she was glad when the priest warmly welcomed their three","English","signs",1,22,0.0454545454545455
+"848",109,"Tracy and her husband weren't Catholic, but she was glad when the priest warmly welcomed their three","English","yearold",1,22,0.0454545454545455
+"849",109,"Tracy und ihr Mann waren nicht katholisch, aber sie war froh, als der Priester welcomed their three","code_switching","children",18,26,0.692307692307692
+"850",109,"Tracy und ihr Mann waren nicht katholisch, aber sie war froh, als der Priester welcomed their three","code_switching","familymembers",1,26,0.0384615384615385
+"851",109,"Tracy und ihr Mann waren nicht katholisch, aber sie war froh, als der Priester welcomed their three","code_switching","kids",3,26,0.115384615384615
+"852",109,"Tracy und ihr Mann waren nicht katholisch, aber sie war froh, als der Priester welcomed their three","code_switching","nieces",1,26,0.0384615384615385
+"853",109,"Tracy und ihr Mann waren nicht katholisch, aber sie war froh, als der Priester welcomed their three","code_switching","relatives",1,26,0.0384615384615385
+"854",109,"Tracy und ihr Mann waren nicht katholisch, aber sie war froh, als der Priester welcomed their three","code_switching","sons",1,26,0.0384615384615385
+"855",109,"Tracy und ihr Mann waren nicht katholisch, aber sie war froh, als der Priester welcomed their three","code_switching","triplets",1,26,0.0384615384615385
+"856",110,"As soon as they reached the sand he stopped to take off his","English","hat",1,26,0.0384615384615385
+"857",110,"As soon as they reached the sand he stopped to take off his","English","sandals",2,26,0.0769230769230769
+"858",110,"As soon as they reached the sand he stopped to take off his","English","shirt",2,26,0.0769230769230769
+"859",110,"As soon as they reached the sand he stopped to take off his","English","shoe",20,26,0.769230769230769
+"860",110,"As soon as they reached the sand he stopped to take off his","English","socks",1,26,0.0384615384615385
+"861",110,"Sobald sie am Sand angekommen waren, hielt er an to take off his","code_switching","clothes",2,22,0.0909090909090909
+"862",110,"Sobald sie am Sand angekommen waren, hielt er an to take off his","code_switching","glasses",1,22,0.0454545454545455
+"863",110,"Sobald sie am Sand angekommen waren, hielt er an to take off his","code_switching","jacket",1,22,0.0454545454545455
+"864",110,"Sobald sie am Sand angekommen waren, hielt er an to take off his","code_switching","sandals",1,22,0.0454545454545455
+"865",110,"Sobald sie am Sand angekommen waren, hielt er an to take off his","code_switching","shirt",8,22,0.363636363636364
+"866",110,"Sobald sie am Sand angekommen waren, hielt er an to take off his","code_switching","shoe",9,22,0.409090909090909
+"867",111,"Peter malte die Wände der Vogelausstellung blau an to resemble the","code_switching","birds",3,26,0.115384615384615
+"868",111,"Peter malte die Wände der Vogelausstellung blau an to resemble the","code_switching","exhibit",1,26,0.0384615384615385
+"869",111,"Peter malte die Wände der Vogelausstellung blau an to resemble the","code_switching","nature",1,26,0.0384615384615385
+"870",111,"Peter malte die Wände der Vogelausstellung blau an to resemble the","code_switching","parrots",1,26,0.0384615384615385
+"871",111,"Peter malte die Wände der Vogelausstellung blau an to resemble the","code_switching","sky",20,26,0.769230769230769
+"872",111,"Peter painted the walls of the bird exhibit light blue to resemble the","English","color",1,22,0.0454545454545455
+"873",111,"Peter painted the walls of the bird exhibit light blue to resemble the","English","feathers",1,22,0.0454545454545455
+"874",111,"Peter painted the walls of the bird exhibit light blue to resemble the","English","sky",20,22,0.909090909090909
+"875",112,"After a warning, the bad boy was sent to his","English","cell",1,26,0.0384615384615385
+"876",112,"After a warning, the bad boy was sent to his","English","corner",1,26,0.0384615384615385
+"877",112,"After a warning, the bad boy was sent to his","English","demise",1,26,0.0384615384615385
+"878",112,"After a warning, the bad boy was sent to his","English","father",1,26,0.0384615384615385
+"879",112,"After a warning, the bad boy was sent to his","English","home",3,26,0.115384615384615
+"880",112,"After a warning, the bad boy was sent to his","English","knees",1,26,0.0384615384615385
+"881",112,"After a warning, the bad boy was sent to his","English","parents",2,26,0.0769230769230769
+"882",112,"After a warning, the bad boy was sent to his","English","room",16,26,0.615384615384615
+"883",112,"Nach einer Ermahnung wurde der böse Junge sent to his","code_switching","home",2,22,0.0909090909090909
+"884",112,"Nach einer Ermahnung wurde der böse Junge sent to his","code_switching","mother",2,22,0.0909090909090909
+"885",112,"Nach einer Ermahnung wurde der böse Junge sent to his","code_switching","parent",1,22,0.0454545454545455
+"886",112,"Nach einer Ermahnung wurde der böse Junge sent to his","code_switching","parents",3,22,0.136363636363636
+"887",112,"Nach einer Ermahnung wurde der böse Junge sent to his","code_switching","principal",1,22,0.0454545454545455
+"888",112,"Nach einer Ermahnung wurde der böse Junge sent to his","code_switching","room",13,22,0.590909090909091
+"889",113,"Niemand konnte Dan beim Klassentreffen wiedererkennen, because he had grown a ","code_switching","afro",1,26,0.0384615384615385
+"890",113,"Niemand konnte Dan beim Klassentreffen wiedererkennen, because he had grown a ","code_switching","beard",17,26,0.653846153846154
+"891",113,"Niemand konnte Dan beim Klassentreffen wiedererkennen, because he had grown a ","code_switching","belly",1,26,0.0384615384615385
+"892",113,"Niemand konnte Dan beim Klassentreffen wiedererkennen, because he had grown a ","code_switching","lot",3,26,0.115384615384615
+"893",113,"Niemand konnte Dan beim Klassentreffen wiedererkennen, because he had grown a ","code_switching","moustache",1,26,0.0384615384615385
+"894",113,"Niemand konnte Dan beim Klassentreffen wiedererkennen, because he had grown a ","code_switching","mustache",2,26,0.0769230769230769
+"895",113,"Niemand konnte Dan beim Klassentreffen wiedererkennen, because he had grown a ","code_switching","tail",1,26,0.0384615384615385
+"896",113,"No one at the reunion recognized Dan because he had grown a","English","beard",16,22,0.727272727272727
+"897",113,"No one at the reunion recognized Dan because he had grown a","English","lot",2,22,0.0909090909090909
+"898",113,"No one at the reunion recognized Dan because he had grown a","English","mustache",3,22,0.136363636363636
+"899",113,"No one at the reunion recognized Dan because he had grown a","English","pimple",1,22,0.0454545454545455
+"900",114,"After the skiing accident, Randy broke his","English","ankle",4,26,0.153846153846154
+"901",114,"After the skiing accident, Randy broke his","English","arm",4,26,0.153846153846154
+"902",114,"After the skiing accident, Randy broke his","English","hand",1,26,0.0384615384615385
+"903",114,"After the skiing accident, Randy broke his","English","legs",15,26,0.576923076923077
+"904",114,"After the skiing accident, Randy broke his","English","neck",1,26,0.0384615384615385
+"905",114,"After the skiing accident, Randy broke his","English","ribs",1,26,0.0384615384615385
+"906",114,"Nach dem Unfall beim Skifahren Randy broke his","code_switching","arm",5,22,0.227272727272727
+"907",114,"Nach dem Unfall beim Skifahren Randy broke his","code_switching","collarbone",1,22,0.0454545454545455
+"908",114,"Nach dem Unfall beim Skifahren Randy broke his","code_switching","foot",3,22,0.136363636363636
+"909",114,"Nach dem Unfall beim Skifahren Randy broke his","code_switching","legs",8,22,0.363636363636364
+"910",114,"Nach dem Unfall beim Skifahren Randy broke his","code_switching","shin",1,22,0.0454545454545455
+"911",114,"Nach dem Unfall beim Skifahren Randy broke his","code_switching","shoulder",1,22,0.0454545454545455
+"912",114,"Nach dem Unfall beim Skifahren Randy broke his","code_switching","toe",1,22,0.0454545454545455
+"913",114,"Nach dem Unfall beim Skifahren Randy broke his","code_switching","wrist",2,22,0.0909090909090909
+"914",115,"Das alte Klavier aus Italien was out of","code_switching","battery",1,26,0.0384615384615385
+"915",115,"Das alte Klavier aus Italien was out of","code_switching","mahogany",1,26,0.0384615384615385
+"916",115,"Das alte Klavier aus Italien was out of","code_switching","order",6,26,0.230769230769231
+"917",115,"Das alte Klavier aus Italien was out of","code_switching","service",1,26,0.0384615384615385
+"918",115,"Das alte Klavier aus Italien was out of","code_switching","shape",1,26,0.0384615384615385
+"919",115,"Das alte Klavier aus Italien was out of","code_switching","stock",4,26,0.153846153846154
+"920",115,"Das alte Klavier aus Italien was out of","code_switching","style",1,26,0.0384615384615385
+"921",115,"Das alte Klavier aus Italien was out of","code_switching","tune",9,26,0.346153846153846
+"922",115,"Das alte Klavier aus Italien was out of","code_switching","wood",2,26,0.0769230769230769
+"923",115,"The old piano from Italy was out of","English","key",3,22,0.136363636363636
+"924",115,"The old piano from Italy was out of","English","order",4,22,0.181818181818182
+"925",115,"The old piano from Italy was out of","English","paint",1,22,0.0454545454545455
+"926",115,"The old piano from Italy was out of","English","practice",1,22,0.0454545454545455
+"927",115,"The old piano from Italy was out of","English","rome",1,22,0.0454545454545455
+"928",115,"The old piano from Italy was out of","English","stock",2,22,0.0909090909090909
+"929",115,"The old piano from Italy was out of","English","town",1,22,0.0454545454545455
+"930",115,"The old piano from Italy was out of","English","tune",7,22,0.318181818181818
+"931",115,"The old piano from Italy was out of","English","use",1,22,0.0454545454545455
+"932",115,"The old piano from Italy was out of","English","wood",1,22,0.0454545454545455
+"933",116,"Das Kind kam auf die Welt with a rare","code_switching","condition",5,22,0.227272727272727
+"934",116,"Das Kind kam auf die Welt with a rare","code_switching","defect",1,22,0.0454545454545455
+"935",116,"Das Kind kam auf die Welt with a rare","code_switching","disease",13,22,0.590909090909091
+"936",116,"Das Kind kam auf die Welt with a rare","code_switching","disorder",1,22,0.0454545454545455
+"937",116,"Das Kind kam auf die Welt with a rare","code_switching","illness",2,22,0.0909090909090909
+"938",116,"The child was born with a rare","English","condition",11,26,0.423076923076923
+"939",116,"The child was born with a rare","English","disease",12,26,0.461538461538462
+"940",116,"The child was born with a rare","English","disorder",1,26,0.0384615384615385
+"941",116,"The child was born with a rare","English","eyecolor",1,26,0.0384615384615385
+"942",116,"The child was born with a rare","English","illness",1,26,0.0384615384615385
+"943",117,"She pulled her head out from under the faucet and reached for a","English","air",1,22,0.0454545454545455
+"944",117,"She pulled her head out from under the faucet and reached for a","English","brush",1,22,0.0454545454545455
+"945",117,"She pulled her head out from under the faucet and reached for a","English","cream",1,22,0.0454545454545455
+"946",117,"She pulled her head out from under the faucet and reached for a","English","drink",1,22,0.0454545454545455
+"947",117,"She pulled her head out from under the faucet and reached for a","English","glass",1,22,0.0454545454545455
+"948",117,"She pulled her head out from under the faucet and reached for a","English","hairbrush",1,22,0.0454545454545455
+"949",117,"She pulled her head out from under the faucet and reached for a","English","screwdriver",1,22,0.0454545454545455
+"950",117,"She pulled her head out from under the faucet and reached for a","English","spanner",1,22,0.0454545454545455
+"951",117,"She pulled her head out from under the faucet and reached for a","English","sponge",1,22,0.0454545454545455
+"952",117,"She pulled her head out from under the faucet and reached for a","English","towel",12,22,0.545454545454545
+"953",117,"She pulled her head out from under the faucet and reached for a","English","wrench",1,22,0.0454545454545455
+"954",117,"Sie zog ihren Kopf unter dem Wasserhahn hervor and reached for a","code_switching","blanket",1,26,0.0384615384615385
+"955",117,"Sie zog ihren Kopf unter dem Wasserhahn hervor and reached for a","code_switching","bottle",1,26,0.0384615384615385
+"956",117,"Sie zog ihren Kopf unter dem Wasserhahn hervor and reached for a","code_switching","glass",1,26,0.0384615384615385
+"957",117,"Sie zog ihren Kopf unter dem Wasserhahn hervor and reached for a","code_switching","hairdryer",1,26,0.0384615384615385
+"958",117,"Sie zog ihren Kopf unter dem Wasserhahn hervor and reached for a","code_switching","screwdriver",1,26,0.0384615384615385
+"959",117,"Sie zog ihren Kopf unter dem Wasserhahn hervor and reached for a","code_switching","shampoo",1,26,0.0384615384615385
+"960",117,"Sie zog ihren Kopf unter dem Wasserhahn hervor and reached for a","code_switching","sponge",2,26,0.0769230769230769
+"961",117,"Sie zog ihren Kopf unter dem Wasserhahn hervor and reached for a","code_switching","towel",18,26,0.692307692307692
+"962",118,"Er schlich sich in den room without a","code_switching","badge",1,22,0.0454545454545455
+"963",118,"Er schlich sich in den room without a","code_switching","care",1,22,0.0454545454545455
+"964",118,"Er schlich sich in den room without a","code_switching","gun",1,22,0.0454545454545455
+"965",118,"Er schlich sich in den room without a","code_switching","key",2,22,0.0909090909090909
+"966",118,"Er schlich sich in den room without a","code_switching","noise",9,22,0.409090909090909
+"967",118,"Er schlich sich in den room without a","code_switching","sound",7,22,0.318181818181818
+"968",118,"Er schlich sich in den room without a","code_switching","window",1,22,0.0454545454545455
+"969",118,"He crept into the room without a","English","key",2,26,0.0769230769230769
+"970",118,"He crept into the room without a","English","knocking",1,26,0.0384615384615385
+"971",118,"He crept into the room without a","English","lights",3,26,0.115384615384615
+"972",118,"He crept into the room without a","English","noise",8,26,0.307692307692308
+"973",118,"He crept into the room without a","English","shirt",2,26,0.0769230769230769
+"974",118,"He crept into the room without a","English","sound",8,26,0.307692307692308
+"975",118,"He crept into the room without a","English","warning",1,26,0.0384615384615385
+"976",118,"He crept into the room without a","English","word",1,26,0.0384615384615385
+"977",119,"Der Ausgang war gekennzeichnet by a large","code_switching","arrow",1,26,0.0384615384615385
+"978",119,"Der Ausgang war gekennzeichnet by a large","code_switching","shield",1,26,0.0384615384615385
+"979",119,"Der Ausgang war gekennzeichnet by a large","code_switching","sigh",1,26,0.0384615384615385
+"980",119,"Der Ausgang war gekennzeichnet by a large","code_switching","sign",23,26,0.884615384615385
+"981",119,"The exit was marked by a large","English","arrow",1,22,0.0454545454545455
+"982",119,"The exit was marked by a large","English","door",1,22,0.0454545454545455
+"983",119,"The exit was marked by a large","English","line",1,22,0.0454545454545455
+"984",119,"The exit was marked by a large","English","sign",19,22,0.863636363636364
+"985",120,"Joe ging zum Baumarkt und kaufte Ersatzfenster at twice the original","code_switching","price",18,22,0.818181818181818
+"986",120,"Joe ging zum Baumarkt und kaufte Ersatzfenster at twice the original","code_switching","size",4,22,0.181818181818182
+"987",120,"Joe went to the hardware store and bought a replacement window at twice the original","English","price",17,26,0.653846153846154
+"988",120,"Joe went to the hardware store and bought a replacement window at twice the original","English","size",9,26,0.346153846153846
+"989",121,"Sam could not believe her story was","English","false",1,22,0.0454545454545455
+"990",121,"Sam could not believe her story was","English","real",3,22,0.136363636363636
+"991",121,"Sam could not believe her story was","English","true",18,22,0.818181818181818
+"992",121,"Sam konnte nicht glauben dass her story was","code_switching","boring",1,26,0.0384615384615385
+"993",121,"Sam konnte nicht glauben dass her story was","code_switching","exciting",1,26,0.0384615384615385
+"994",121,"Sam konnte nicht glauben dass her story was","code_switching","fabricated",1,26,0.0384615384615385
+"995",121,"Sam konnte nicht glauben dass her story was","code_switching","fake",3,26,0.115384615384615
+"996",121,"Sam konnte nicht glauben dass her story was","code_switching","false",1,26,0.0384615384615385
+"997",121,"Sam konnte nicht glauben dass her story was","code_switching","lie",1,26,0.0384615384615385
+"998",121,"Sam konnte nicht glauben dass her story was","code_switching","over",1,26,0.0384615384615385
+"999",121,"Sam konnte nicht glauben dass her story was","code_switching","real",6,26,0.230769230769231
+"1000",121,"Sam konnte nicht glauben dass her story was","code_switching","true",8,26,0.307692307692308
+"1001",121,"Sam konnte nicht glauben dass her story was","code_switching","unbelievable",2,26,0.0769230769230769
+"1002",121,"Sam konnte nicht glauben dass her story was","code_switching","untrue",1,26,0.0384615384615385
+"1003",122,"The Hausordnung erlaubte es Besuchern nicht to feed the","code_switching","animals",8,22,0.363636363636364
+"1004",122,"The Hausordnung erlaubte es Besuchern nicht to feed the","code_switching","apes",1,22,0.0454545454545455
+"1005",122,"The Hausordnung erlaubte es Besuchern nicht to feed the","code_switching","birds",2,22,0.0909090909090909
+"1006",122,"The Hausordnung erlaubte es Besuchern nicht to feed the","code_switching","cows",1,22,0.0454545454545455
+"1007",122,"The Hausordnung erlaubte es Besuchern nicht to feed the","code_switching","dogs",1,22,0.0454545454545455
+"1008",122,"The Hausordnung erlaubte es Besuchern nicht to feed the","code_switching","doves",1,22,0.0454545454545455
+"1009",122,"The Hausordnung erlaubte es Besuchern nicht to feed the","code_switching","ducks",2,22,0.0909090909090909
+"1010",122,"The Hausordnung erlaubte es Besuchern nicht to feed the","code_switching","geese",1,22,0.0454545454545455
+"1011",122,"The Hausordnung erlaubte es Besuchern nicht to feed the","code_switching","pigeons",4,22,0.181818181818182
+"1012",122,"The Hausordnung erlaubte es Besuchern nicht to feed the","code_switching","spider",1,22,0.0454545454545455
+"1013",122,"The house rules did not allow visitors to feed the","English","animals",4,26,0.153846153846154
+"1014",122,"The house rules did not allow visitors to feed the","English","birds",4,26,0.153846153846154
+"1015",122,"The house rules did not allow visitors to feed the","English","cats",5,26,0.192307692307692
+"1016",122,"The house rules did not allow visitors to feed the","English","dogs",5,26,0.192307692307692
+"1017",122,"The house rules did not allow visitors to feed the","English","ducks",3,26,0.115384615384615
+"1018",122,"The house rules did not allow visitors to feed the","English","fish",1,26,0.0384615384615385
+"1019",122,"The house rules did not allow visitors to feed the","English","giraffe",1,26,0.0384615384615385
+"1020",122,"The house rules did not allow visitors to feed the","English","pets",2,26,0.0769230769230769
+"1021",122,"The house rules did not allow visitors to feed the","English","pigeons",1,26,0.0384615384615385
+"1022",123,"Als Daniela ungeplannt im Restaurant auftachte gab Laurie ihm einen Stuhl from the adjacent","code_switching","barkeeper",1,26,0.0384615384615385
+"1023",123,"Als Daniela ungeplannt im Restaurant auftachte gab Laurie ihm einen Stuhl from the adjacent","code_switching","room",3,26,0.115384615384615
+"1024",123,"Als Daniela ungeplannt im Restaurant auftachte gab Laurie ihm einen Stuhl from the adjacent","code_switching","table",21,26,0.807692307692308
+"1025",123,"Als Daniela ungeplannt im Restaurant auftachte gab Laurie ihm einen Stuhl from the adjacent","code_switching","wood",1,26,0.0384615384615385
+"1026",123,"When Daniela arrived unexpectedly at the restaurant, Laurie got him a chair from the adjacent ","English","basement",1,22,0.0454545454545455
+"1027",123,"When Daniela arrived unexpectedly at the restaurant, Laurie got him a chair from the adjacent ","English","desk",1,22,0.0454545454545455
+"1028",123,"When Daniela arrived unexpectedly at the restaurant, Laurie got him a chair from the adjacent ","English","room",5,22,0.227272727272727
+"1029",123,"When Daniela arrived unexpectedly at the restaurant, Laurie got him a chair from the adjacent ","English","table",15,22,0.681818181818182
+"1030",124,"She honestly seriously thought she had seen a","English","bear",1,26,0.0384615384615385
+"1031",124,"She honestly seriously thought she had seen a","English","fox",1,26,0.0384615384615385
+"1032",124,"She honestly seriously thought she had seen a","English","ghost",15,26,0.576923076923077
+"1033",124,"She honestly seriously thought she had seen a","English","lion",1,26,0.0384615384615385
+"1034",124,"She honestly seriously thought she had seen a","English","pimple",1,26,0.0384615384615385
+"1035",124,"She honestly seriously thought she had seen a","English","rat",1,26,0.0384615384615385
+"1036",124,"She honestly seriously thought she had seen a","English","spider",1,26,0.0384615384615385
+"1037",124,"She honestly seriously thought she had seen a","English","stork",1,26,0.0384615384615385
+"1038",124,"She honestly seriously thought she had seen a","English","tiger",1,26,0.0384615384615385
+"1039",124,"She honestly seriously thought she had seen a","English","unicorn",1,26,0.0384615384615385
+"1040",124,"She honestly seriously thought she had seen a","English","witch",1,26,0.0384615384615385
+"1041",124,"She honestly seriously thought she had seen a","English","yeti",1,26,0.0384615384615385
+"1042",124,"Sie dachte tatsächlich ernsthaft, dass she had seen a","code_switching","bear",1,22,0.0454545454545455
+"1043",124,"Sie dachte tatsächlich ernsthaft, dass she had seen a","code_switching","deer",2,22,0.0909090909090909
+"1044",124,"Sie dachte tatsächlich ernsthaft, dass she had seen a","code_switching","fish",1,22,0.0454545454545455
+"1045",124,"Sie dachte tatsächlich ernsthaft, dass she had seen a","code_switching","ghost",11,22,0.5
+"1046",124,"Sie dachte tatsächlich ernsthaft, dass she had seen a","code_switching","lion",1,22,0.0454545454545455
+"1047",124,"Sie dachte tatsächlich ernsthaft, dass she had seen a","code_switching","monster",1,22,0.0454545454545455
+"1048",124,"Sie dachte tatsächlich ernsthaft, dass she had seen a","code_switching","mouse",1,22,0.0454545454545455
+"1049",124,"Sie dachte tatsächlich ernsthaft, dass she had seen a","code_switching","ufo",1,22,0.0454545454545455
+"1050",124,"Sie dachte tatsächlich ernsthaft, dass she had seen a","code_switching","unicorn",1,22,0.0454545454545455
+"1051",124,"Sie dachte tatsächlich ernsthaft, dass she had seen a","code_switching","werewolf",1,22,0.0454545454545455
+"1052",124,"Sie dachte tatsächlich ernsthaft, dass she had seen a","code_switching","wolf",1,22,0.0454545454545455
+"1053",125,"After the jeweler was asked, he would examine the ring's huge","English","diameter",1,22,0.0454545454545455
+"1054",125,"After the jeweler was asked, he would examine the ring's huge","English","diamond",15,22,0.681818181818182
+"1055",125,"After the jeweler was asked, he would examine the ring's huge","English","gem",1,22,0.0454545454545455
+"1056",125,"After the jeweler was asked, he would examine the ring's huge","English","jewel",1,22,0.0454545454545455
+"1057",125,"After the jeweler was asked, he would examine the ring's huge","English","size",1,22,0.0454545454545455
+"1058",125,"After the jeweler was asked, he would examine the ring's huge","English","stain",1,22,0.0454545454545455
+"1059",125,"After the jeweler was asked, he would examine the ring's huge","English","value",2,22,0.0909090909090909
+"1060",125,"Nachdem der Juwelier gefragt wurde, überprüfte er the ring's huge","code_switching","chip",1,26,0.0384615384615385
+"1061",125,"Nachdem der Juwelier gefragt wurde, überprüfte er the ring's huge","code_switching","crack",1,26,0.0384615384615385
+"1062",125,"Nachdem der Juwelier gefragt wurde, überprüfte er the ring's huge","code_switching","diameter",2,26,0.0769230769230769
+"1063",125,"Nachdem der Juwelier gefragt wurde, überprüfte er the ring's huge","code_switching","diamond",15,26,0.576923076923077
+"1064",125,"Nachdem der Juwelier gefragt wurde, überprüfte er the ring's huge","code_switching","emerald",1,26,0.0384615384615385
+"1065",125,"Nachdem der Juwelier gefragt wurde, überprüfte er the ring's huge","code_switching","engravings",1,26,0.0384615384615385
+"1066",125,"Nachdem der Juwelier gefragt wurde, überprüfte er the ring's huge","code_switching","fad",1,26,0.0384615384615385
+"1067",125,"Nachdem der Juwelier gefragt wurde, überprüfte er the ring's huge","code_switching","gem",1,26,0.0384615384615385
+"1068",125,"Nachdem der Juwelier gefragt wurde, überprüfte er the ring's huge","code_switching","jewel",2,26,0.0769230769230769
+"1069",125,"Nachdem der Juwelier gefragt wurde, überprüfte er the ring's huge","code_switching","size",1,26,0.0384615384615385
+"1070",126,"He always drinks tea in the morning and uses a special filter to catch the loose","English","bits",1,26,0.0384615384615385
+"1071",126,"He always drinks tea in the morning and uses a special filter to catch the loose","English","coffee",1,26,0.0384615384615385
+"1072",126,"He always drinks tea in the morning and uses a special filter to catch the loose","English","crumbs",1,26,0.0384615384615385
+"1073",126,"He always drinks tea in the morning and uses a special filter to catch the loose","English","ends",1,26,0.0384615384615385
+"1074",126,"He always drinks tea in the morning and uses a special filter to catch the loose","English","floaties",1,26,0.0384615384615385
+"1075",126,"He always drinks tea in the morning and uses a special filter to catch the loose","English","fragments",1,26,0.0384615384615385
+"1076",126,"He always drinks tea in the morning and uses a special filter to catch the loose","English","herbs",2,26,0.0769230769230769
+"1077",126,"He always drinks tea in the morning and uses a special filter to catch the loose","English","leaves",14,26,0.538461538461538
+"1078",126,"He always drinks tea in the morning and uses a special filter to catch the loose","English","particles",1,26,0.0384615384615385
+"1079",126,"He always drinks tea in the morning and uses a special filter to catch the loose","English","particular",1,26,0.0384615384615385
+"1080",126,"He always drinks tea in the morning and uses a special filter to catch the loose","English","stuff",1,26,0.0384615384615385
+"1081",126,"He always drinks tea in the morning and uses a special filter to catch the loose","English","tea",1,26,0.0384615384615385
+"1082",126,"Morgens trinkt er immer Tee und benutzt ein besonderes Sieb to catch the loose","code_switching","crumbs",1,22,0.0454545454545455
+"1083",126,"Morgens trinkt er immer Tee und benutzt ein besonderes Sieb to catch the loose","code_switching","ingredients",1,22,0.0454545454545455
+"1084",126,"Morgens trinkt er immer Tee und benutzt ein besonderes Sieb to catch the loose","code_switching","junk",1,22,0.0454545454545455
+"1085",126,"Morgens trinkt er immer Tee und benutzt ein besonderes Sieb to catch the loose","code_switching","leaves",19,22,0.863636363636364
+"1086",127,"She installed a new anti-virus program and is now convinced that her laptop is","English","broken",1,22,0.0454545454545455
+"1087",127,"She installed a new anti-virus program and is now convinced that her laptop is","English","clean",3,22,0.136363636363636
+"1088",127,"She installed a new anti-virus program and is now convinced that her laptop is","English","cleared",1,22,0.0454545454545455
+"1089",127,"She installed a new anti-virus program and is now convinced that her laptop is","English","infected",1,22,0.0454545454545455
+"1090",127,"She installed a new anti-virus program and is now convinced that her laptop is","English","protected",3,22,0.136363636363636
+"1091",127,"She installed a new anti-virus program and is now convinced that her laptop is","English","safe",10,22,0.454545454545455
+"1092",127,"She installed a new anti-virus program and is now convinced that her laptop is","English","secure",1,22,0.0454545454545455
+"1093",127,"She installed a new anti-virus program and is now convinced that her laptop is","English","secured",1,22,0.0454545454545455
+"1094",127,"She installed a new anti-virus program and is now convinced that her laptop is","English","slower",1,22,0.0454545454545455
+"1095",127,"Sie hat ein neues Anti-Virus-Programm installiert und ist nun überzeugt davon, that her laptop is","code_switching","broken",1,26,0.0384615384615385
+"1096",127,"Sie hat ein neues Anti-Virus-Programm installiert und ist nun überzeugt davon, that her laptop is","code_switching","clean",3,26,0.115384615384615
+"1097",127,"Sie hat ein neues Anti-Virus-Programm installiert und ist nun überzeugt davon, that her laptop is","code_switching","corrupted",1,26,0.0384615384615385
+"1098",127,"Sie hat ein neues Anti-Virus-Programm installiert und ist nun überzeugt davon, that her laptop is","code_switching","fried",1,26,0.0384615384615385
+"1099",127,"Sie hat ein neues Anti-Virus-Programm installiert und ist nun überzeugt davon, that her laptop is","code_switching","infected",4,26,0.153846153846154
+"1100",127,"Sie hat ein neues Anti-Virus-Programm installiert und ist nun überzeugt davon, that her laptop is","code_switching","safe",9,26,0.346153846153846
+"1101",127,"Sie hat ein neues Anti-Virus-Programm installiert und ist nun überzeugt davon, that her laptop is","code_switching","secure",5,26,0.192307692307692
+"1102",127,"Sie hat ein neues Anti-Virus-Programm installiert und ist nun überzeugt davon, that her laptop is","code_switching","virusfree",1,26,0.0384615384615385
+"1103",127,"Sie hat ein neues Anti-Virus-Programm installiert und ist nun überzeugt davon, that her laptop is","code_switching","working",1,26,0.0384615384615385
+"1104",128,"She needed a special charging cable, but could not find it inside her","English","backpack",1,26,0.0384615384615385
+"1105",128,"She needed a special charging cable, but could not find it inside her","English","bag",10,26,0.384615384615385
+"1106",128,"She needed a special charging cable, but could not find it inside her","English","draw",3,26,0.115384615384615
+"1107",128,"She needed a special charging cable, but could not find it inside her","English","house",1,26,0.0384615384615385
+"1108",128,"She needed a special charging cable, but could not find it inside her","English","luggage",1,26,0.0384615384615385
+"1109",128,"She needed a special charging cable, but could not find it inside her","English","pocket",2,26,0.0769230769230769
+"1110",128,"She needed a special charging cable, but could not find it inside her","English","purse",7,26,0.269230769230769
+"1111",128,"She needed a special charging cable, but could not find it inside her","English","room",1,26,0.0384615384615385
+"1112",128,"Sie brauchte ein bestimmtes Ladekabel, aber could not find it inside her","code_switching","backpack",1,22,0.0454545454545455
+"1113",128,"Sie brauchte ein bestimmtes Ladekabel, aber could not find it inside her","code_switching","bag",8,22,0.363636363636364
+"1114",128,"Sie brauchte ein bestimmtes Ladekabel, aber could not find it inside her","code_switching","cabinet",1,22,0.0454545454545455
+"1115",128,"Sie brauchte ein bestimmtes Ladekabel, aber could not find it inside her","code_switching","draw",2,22,0.0909090909090909
+"1116",128,"Sie brauchte ein bestimmtes Ladekabel, aber could not find it inside her","code_switching","phone",1,22,0.0454545454545455
+"1117",128,"Sie brauchte ein bestimmtes Ladekabel, aber could not find it inside her","code_switching","pocket",1,22,0.0454545454545455
+"1118",128,"Sie brauchte ein bestimmtes Ladekabel, aber could not find it inside her","code_switching","pouch",1,22,0.0454545454545455
+"1119",128,"Sie brauchte ein bestimmtes Ladekabel, aber could not find it inside her","code_switching","purse",7,22,0.318181818181818
+"1120",129,"Er nahm sich einen kleinen Taschenrechner und typed in some","code_switching","addition",1,26,0.0384615384615385
+"1121",129,"Er nahm sich einen kleinen Taschenrechner und typed in some","code_switching","calculations",2,26,0.0769230769230769
+"1122",129,"Er nahm sich einen kleinen Taschenrechner und typed in some","code_switching","digits",1,26,0.0384615384615385
+"1123",129,"Er nahm sich einen kleinen Taschenrechner und typed in some","code_switching","numbers",21,26,0.807692307692308
+"1124",129,"Er nahm sich einen kleinen Taschenrechner und typed in some","code_switching","things",1,26,0.0384615384615385
+"1125",129,"He took a small pocket calculator and typed in some","English","calculations",1,22,0.0454545454545455
+"1126",129,"He took a small pocket calculator and typed in some","English","gibberish",1,22,0.0454545454545455
+"1127",129,"He took a small pocket calculator and typed in some","English","numbers",19,22,0.863636363636364
+"1128",129,"He took a small pocket calculator and typed in some","English","word",1,22,0.0454545454545455
+"1129",130,"Er holt einen neuen Korkenzieher and opened the","code_switching","bottle",20,22,0.909090909090909
+"1130",130,"Er holt einen neuen Korkenzieher and opened the","code_switching","can",1,22,0.0454545454545455
+"1131",130,"Er holt einen neuen Korkenzieher and opened the","code_switching","wine",1,22,0.0454545454545455
+"1132",130,"He took a new cork screw and opened the","English","bottle",23,26,0.884615384615385
+"1133",130,"He took a new cork screw and opened the","English","can",1,26,0.0384615384615385
+"1134",130,"He took a new cork screw and opened the","English","draw",1,26,0.0384615384615385
+"1135",130,"He took a new cork screw and opened the","English","wine",1,26,0.0384615384615385
+"1136",131,"He folded out a big drying rack to dry the","English","blanket",1,22,0.0454545454545455
+"1137",131,"He folded out a big drying rack to dry the","English","canvas",1,22,0.0454545454545455
+"1138",131,"He folded out a big drying rack to dry the","English","clothes",9,22,0.409090909090909
+"1139",131,"He folded out a big drying rack to dry the","English","dish",2,22,0.0909090909090909
+"1140",131,"He folded out a big drying rack to dry the","English","hair",1,22,0.0454545454545455
+"1141",131,"He folded out a big drying rack to dry the","English","laundry",2,22,0.0909090909090909
+"1142",131,"He folded out a big drying rack to dry the","English","sheets",1,22,0.0454545454545455
+"1143",131,"He folded out a big drying rack to dry the","English","towel",4,22,0.181818181818182
+"1144",131,"He folded out a big drying rack to dry the","English","wood",1,22,0.0454545454545455
+"1145",131,"Sie klappt einen großen Wäscheständer auf, to dry the ","code_switching","clothes",13,26,0.5
+"1146",131,"Sie klappt einen großen Wäscheständer auf, to dry the ","code_switching","laundry",12,26,0.461538461538462
+"1147",131,"Sie klappt einen großen Wäscheständer auf, to dry the ","code_switching","linen",1,26,0.0384615384615385
+"1148",132,"She grabbed a big pitcher near the sink and filled it with","English","beer",1,26,0.0384615384615385
+"1149",132,"She grabbed a big pitcher near the sink and filled it with","English","juice",1,26,0.0384615384615385
+"1150",132,"She grabbed a big pitcher near the sink and filled it with","English","sand",1,26,0.0384615384615385
+"1151",132,"She grabbed a big pitcher near the sink and filled it with","English","things",1,26,0.0384615384615385
+"1152",132,"She grabbed a big pitcher near the sink and filled it with","English","water",22,26,0.846153846153846
+"1153",132,"Sie schnappte sich am Waschbecken eine große Kanne and filled it with","code_switching","tea",1,22,0.0454545454545455
+"1154",132,"Sie schnappte sich am Waschbecken eine große Kanne and filled it with","code_switching","water",21,22,0.954545454545455
+"1155",133,"Er leiht sich von Petra eine gute Fahrradpumpe to inflate the","code_switching","tire",12,26,0.461538461538462
+"1156",133,"Er leiht sich von Petra eine gute Fahrradpumpe to inflate the","code_switching","tires",8,26,0.307692307692308
+"1157",133,"Er leiht sich von Petra eine gute Fahrradpumpe to inflate the","code_switching","vehicle",1,26,0.0384615384615385
+"1158",133,"Er leiht sich von Petra eine gute Fahrradpumpe to inflate the","code_switching","wheel",5,26,0.192307692307692
+"1159",133,"He borrowed a good bicycle pump from Petra to inflate the","English","tire",10,22,0.454545454545455
+"1160",133,"He borrowed a good bicycle pump from Petra to inflate the","English","tires",6,22,0.272727272727273
+"1161",133,"He borrowed a good bicycle pump from Petra to inflate the","English","wheel",6,22,0.272727272727273
+"1162",134,"Er kaufte sich einen neuen Rasierer to trim his","code_switching","balls",1,22,0.0454545454545455
+"1163",134,"Er kaufte sich einen neuen Rasierer to trim his","code_switching","beard",17,22,0.772727272727273
+"1164",134,"Er kaufte sich einen neuen Rasierer to trim his","code_switching","hair",3,22,0.136363636363636
+"1165",134,"Er kaufte sich einen neuen Rasierer to trim his","code_switching","moustache",1,22,0.0454545454545455
+"1166",134,"He bought a new razor to trim his","English","beard",25,26,0.961538461538462
+"1167",134,"He bought a new razor to trim his","English","hair",1,26,0.0384615384615385
+"1168",135,"Er nahm sich ein neues Taschentuch to wipe his","code_switching","ass",3,26,0.115384615384615
+"1169",135,"Er nahm sich ein neues Taschentuch to wipe his","code_switching","face",1,26,0.0384615384615385
+"1170",135,"Er nahm sich ein neues Taschentuch to wipe his","code_switching","forehead",1,26,0.0384615384615385
+"1171",135,"Er nahm sich ein neues Taschentuch to wipe his","code_switching","glasses",1,26,0.0384615384615385
+"1172",135,"Er nahm sich ein neues Taschentuch to wipe his","code_switching","mouth",5,26,0.192307692307692
+"1173",135,"Er nahm sich ein neues Taschentuch to wipe his","code_switching","nose",5,26,0.192307692307692
+"1174",135,"Er nahm sich ein neues Taschentuch to wipe his","code_switching","tears",10,26,0.384615384615385
+"1175",135,"He got out a clean tissue to wipe his","English","ass",2,22,0.0909090909090909
+"1176",135,"He got out a clean tissue to wipe his","English","bottom",1,22,0.0454545454545455
+"1177",135,"He got out a clean tissue to wipe his","English","eyes",1,22,0.0454545454545455
+"1178",135,"He got out a clean tissue to wipe his","English","face",1,22,0.0454545454545455
+"1179",135,"He got out a clean tissue to wipe his","English","glasses",1,22,0.0454545454545455
+"1180",135,"He got out a clean tissue to wipe his","English","hands",1,22,0.0454545454545455
+"1181",135,"He got out a clean tissue to wipe his","English","mouth",3,22,0.136363636363636
+"1182",135,"He got out a clean tissue to wipe his","English","nose",11,22,0.5
+"1183",135,"He got out a clean tissue to wipe his","English","tears",1,22,0.0454545454545455
+"1184",136,"Er besorgt sich im Alter eine neue Lesebrille, to read the ","code_switching","bible",1,22,0.0454545454545455
+"1185",136,"Er besorgt sich im Alter eine neue Lesebrille, to read the ","code_switching","books",1,22,0.0454545454545455
+"1186",136,"Er besorgt sich im Alter eine neue Lesebrille, to read the ","code_switching","news",3,22,0.136363636363636
+"1187",136,"Er besorgt sich im Alter eine neue Lesebrille, to read the ","code_switching","newspaper",16,22,0.727272727272727
+"1188",136,"Er besorgt sich im Alter eine neue Lesebrille, to read the ","code_switching","paper",1,22,0.0454545454545455
+"1189",136,"When he got older, he got himself a pair of new reading glasses to read the","English","bible",2,26,0.0769230769230769
+"1190",136,"When he got older, he got himself a pair of new reading glasses to read the","English","books",7,26,0.269230769230769
+"1191",136,"When he got older, he got himself a pair of new reading glasses to read the","English","magazine",1,26,0.0384615384615385
+"1192",136,"When he got older, he got himself a pair of new reading glasses to read the","English","news",2,26,0.0769230769230769
+"1193",136,"When he got older, he got himself a pair of new reading glasses to read the","English","newsletter",1,26,0.0384615384615385
+"1194",136,"When he got older, he got himself a pair of new reading glasses to read the","English","newspaper",11,26,0.423076923076923
+"1195",136,"When he got older, he got himself a pair of new reading glasses to read the","English","novel",1,26,0.0384615384615385
+"1196",136,"When he got older, he got himself a pair of new reading glasses to read the","English","text",1,26,0.0384615384615385
+"1197",137,"Im Supermarkt nahm er sich einen großen Einkaufswagen und started filling it with","code_switching","apples",1,26,0.0384615384615385
+"1198",137,"Im Supermarkt nahm er sich einen großen Einkaufswagen und started filling it with","code_switching","bottles",1,26,0.0384615384615385
+"1199",137,"Im Supermarkt nahm er sich einen großen Einkaufswagen und started filling it with","code_switching","drink",1,26,0.0384615384615385
+"1200",137,"Im Supermarkt nahm er sich einen großen Einkaufswagen und started filling it with","code_switching","food",3,26,0.115384615384615
+"1201",137,"Im Supermarkt nahm er sich einen großen Einkaufswagen und started filling it with","code_switching","groceries",17,26,0.653846153846154
+"1202",137,"Im Supermarkt nahm er sich einen großen Einkaufswagen und started filling it with","code_switching","tomato",1,26,0.0384615384615385
+"1203",137,"Im Supermarkt nahm er sich einen großen Einkaufswagen und started filling it with","code_switching","vegetables",1,26,0.0384615384615385
+"1204",137,"Im Supermarkt nahm er sich einen großen Einkaufswagen und started filling it with","code_switching","water",1,26,0.0384615384615385
+"1205",137,"In the supermarket he took a big shopping cart and started filling it with","English","apples",1,22,0.0454545454545455
+"1206",137,"In the supermarket he took a big shopping cart and started filling it with","English","cereal",1,22,0.0454545454545455
+"1207",137,"In the supermarket he took a big shopping cart and started filling it with","English","food",2,22,0.0909090909090909
+"1208",137,"In the supermarket he took a big shopping cart and started filling it with","English","fruit",1,22,0.0454545454545455
+"1209",137,"In the supermarket he took a big shopping cart and started filling it with","English","groceries",14,22,0.636363636363636
+"1210",137,"In the supermarket he took a big shopping cart and started filling it with","English","junk",1,22,0.0454545454545455
+"1211",137,"In the supermarket he took a big shopping cart and started filling it with","English","noodles",1,22,0.0454545454545455
+"1212",137,"In the supermarket he took a big shopping cart and started filling it with","English","products",1,22,0.0454545454545455
+"1213",138,"She needs a custom-made wheel chair with an electric","English","battery",1,26,0.0384615384615385
+"1214",138,"She needs a custom-made wheel chair with an electric","English","bugaloo",1,26,0.0384615384615385
+"1215",138,"She needs a custom-made wheel chair with an electric","English","controller",1,26,0.0384615384615385
+"1216",138,"She needs a custom-made wheel chair with an electric","English","drive",1,26,0.0384615384615385
+"1217",138,"She needs a custom-made wheel chair with an electric","English","engine",2,26,0.0769230769230769
+"1218",138,"She needs a custom-made wheel chair with an electric","English","function",1,26,0.0384615384615385
+"1219",138,"She needs a custom-made wheel chair with an electric","English","gear",1,26,0.0384615384615385
+"1220",138,"She needs a custom-made wheel chair with an electric","English","handle",1,26,0.0384615384615385
+"1221",138,"She needs a custom-made wheel chair with an electric","English","knob",1,26,0.0384615384615385
+"1222",138,"She needs a custom-made wheel chair with an electric","English","motor",10,26,0.384615384615385
+"1223",138,"She needs a custom-made wheel chair with an electric","English","pedal",1,26,0.0384615384615385
+"1224",138,"She needs a custom-made wheel chair with an electric","English","seat",1,26,0.0384615384615385
+"1225",138,"She needs a custom-made wheel chair with an electric","English","wheel",4,26,0.153846153846154
+"1226",138,"Sie braucht einen maßgefertigten Rollstuhl with an electric","code_switching","battery",1,22,0.0454545454545455
+"1227",138,"Sie braucht einen maßgefertigten Rollstuhl with an electric","code_switching","drive",1,22,0.0454545454545455
+"1228",138,"Sie braucht einen maßgefertigten Rollstuhl with an electric","code_switching","engine",4,22,0.181818181818182
+"1229",138,"Sie braucht einen maßgefertigten Rollstuhl with an electric","code_switching","lift",1,22,0.0454545454545455
+"1230",138,"Sie braucht einen maßgefertigten Rollstuhl with an electric","code_switching","motion",1,22,0.0454545454545455
+"1231",138,"Sie braucht einen maßgefertigten Rollstuhl with an electric","code_switching","motor",9,22,0.409090909090909
+"1232",138,"Sie braucht einen maßgefertigten Rollstuhl with an electric","code_switching","remote",2,22,0.0909090909090909
+"1233",138,"Sie braucht einen maßgefertigten Rollstuhl with an electric","code_switching","sensor",1,22,0.0454545454545455
+"1234",138,"Sie braucht einen maßgefertigten Rollstuhl with an electric","code_switching","tire",2,22,0.0909090909090909
+"1235",139,"Sie nahm beim Backen ein Sieb und verteilte den powdered sugar over the","code_switching","biscuits",1,26,0.0384615384615385
+"1236",139,"Sie nahm beim Backen ein Sieb und verteilte den powdered sugar over the","code_switching","brownies",1,26,0.0384615384615385
+"1237",139,"Sie nahm beim Backen ein Sieb und verteilte den powdered sugar over the","code_switching","cake",15,26,0.576923076923077
+"1238",139,"Sie nahm beim Backen ein Sieb und verteilte den powdered sugar over the","code_switching","cookies",1,26,0.0384615384615385
+"1239",139,"Sie nahm beim Backen ein Sieb und verteilte den powdered sugar over the","code_switching","counter",1,26,0.0384615384615385
+"1240",139,"Sie nahm beim Backen ein Sieb und verteilte den powdered sugar over the","code_switching","donuts",1,26,0.0384615384615385
+"1241",139,"Sie nahm beim Backen ein Sieb und verteilte den powdered sugar over the","code_switching","dough",3,26,0.115384615384615
+"1242",139,"Sie nahm beim Backen ein Sieb und verteilte den powdered sugar over the","code_switching","pie",1,26,0.0384615384615385
+"1243",139,"Sie nahm beim Backen ein Sieb und verteilte den powdered sugar over the","code_switching","table",2,26,0.0769230769230769
+"1244",139,"While baking, she took a sifter and sprinkled the powdered sugar over the","English","cake",16,22,0.727272727272727
+"1245",139,"While baking, she took a sifter and sprinkled the powdered sugar over the","English","cookies",3,22,0.136363636363636
+"1246",139,"While baking, she took a sifter and sprinkled the powdered sugar over the","English","counter",1,22,0.0454545454545455
+"1247",139,"While baking, she took a sifter and sprinkled the powdered sugar over the","English","muffins",2,22,0.0909090909090909
+"1248",140,"She took her new pen to take some","English","autographs",1,26,0.0384615384615385
+"1249",140,"She took her new pen to take some","English","drawings",1,26,0.0384615384615385
+"1250",140,"She took her new pen to take some","English","homework",1,26,0.0384615384615385
+"1251",140,"She took her new pen to take some","English","inspirations",1,26,0.0384615384615385
+"1252",140,"She took her new pen to take some","English","notes",22,26,0.846153846153846
+"1253",140,"Sie nahm sich einen neuen Stift to take some","code_switching","notes",21,22,0.954545454545455
+"1254",140,"Sie nahm sich einen neuen Stift to take some","code_switching","pictures",1,22,0.0454545454545455
+"1255",141,"Das Mädchen holte sich einen luxuriösen Fön and dried her","code_switching","hair",26,26,1
+"1256",141,"The girl got herself a fancy blowdryer and dried her","English","hair",22,22,1
+"1257",142,"In order to examine the unusual bacterium carefully, the biologist bought a more powerful","English","equipment",1,26,0.0384615384615385
+"1258",142,"In order to examine the unusual bacterium carefully, the biologist bought a more powerful","English","lamp",1,26,0.0384615384615385
+"1259",142,"In order to examine the unusual bacterium carefully, the biologist bought a more powerful","English","lens",2,26,0.0769230769230769
+"1260",142,"In order to examine the unusual bacterium carefully, the biologist bought a more powerful","English","machine",1,26,0.0384615384615385
+"1261",142,"In order to examine the unusual bacterium carefully, the biologist bought a more powerful","English","microscope",18,26,0.692307692307692
+"1262",142,"In order to examine the unusual bacterium carefully, the biologist bought a more powerful","English","object",1,26,0.0384615384615385
+"1263",142,"In order to examine the unusual bacterium carefully, the biologist bought a more powerful","English","tool",2,26,0.0769230769230769
+"1264",142,"Um die ungewöhnliche Bakterie sorgfältig untersuchen zu können, kaufte sich die Biologin a more powerful ","code_switching","binoculars",1,22,0.0454545454545455
+"1265",142,"Um die ungewöhnliche Bakterie sorgfältig untersuchen zu können, kaufte sich die Biologin a more powerful ","code_switching","device",1,22,0.0454545454545455
+"1266",142,"Um die ungewöhnliche Bakterie sorgfältig untersuchen zu können, kaufte sich die Biologin a more powerful ","code_switching","lens",1,22,0.0454545454545455
+"1267",142,"Um die ungewöhnliche Bakterie sorgfältig untersuchen zu können, kaufte sich die Biologin a more powerful ","code_switching","microscope",15,22,0.681818181818182
+"1268",142,"Um die ungewöhnliche Bakterie sorgfältig untersuchen zu können, kaufte sich die Biologin a more powerful ","code_switching","object",1,22,0.0454545454545455
+"1269",142,"Um die ungewöhnliche Bakterie sorgfältig untersuchen zu können, kaufte sich die Biologin a more powerful ","code_switching","tool",3,22,0.136363636363636
+"1270",143,"Da der hölzerne Gartenstuhl eine harte Sitzfläche hatte, holte Karen a soft, fluffy ","code_switching","couch",1,26,0.0384615384615385
+"1271",143,"Da der hölzerne Gartenstuhl eine harte Sitzfläche hatte, holte Karen a soft, fluffy ","code_switching","cushion",7,26,0.269230769230769
+"1272",143,"Da der hölzerne Gartenstuhl eine harte Sitzfläche hatte, holte Karen a soft, fluffy ","code_switching","pillow",18,26,0.692307692307692
+"1273",143,"Since the wooden garden chair had a hard seat, Karen fetched a soft, fluffy","English","chair",1,22,0.0454545454545455
+"1274",143,"Since the wooden garden chair had a hard seat, Karen fetched a soft, fluffy","English","cover",1,22,0.0454545454545455
+"1275",143,"Since the wooden garden chair had a hard seat, Karen fetched a soft, fluffy","English","cushion",1,22,0.0454545454545455
+"1276",143,"Since the wooden garden chair had a hard seat, Karen fetched a soft, fluffy","English","pillow",18,22,0.818181818181818
+"1277",143,"Since the wooden garden chair had a hard seat, Karen fetched a soft, fluffy","English","toy",1,22,0.0454545454545455
+"1278",144,"Because Tom wants to go to India and work there for a year, he applies for a ","English","citizenship",1,26,0.0384615384615385
+"1279",144,"Because Tom wants to go to India and work there for a year, he applies for a ","English","internship",2,26,0.0769230769230769
+"1280",144,"Because Tom wants to go to India and work there for a year, he applies for a ","English","job",8,26,0.307692307692308
+"1281",144,"Because Tom wants to go to India and work there for a year, he applies for a ","English","program",1,26,0.0384615384615385
+"1282",144,"Because Tom wants to go to India and work there for a year, he applies for a ","English","visa",14,26,0.538461538461538
+"1283",144,"Weil Tom nach Indien gehen und dort ein Jahr arbeiten möchte, he applies for a ","code_switching","job",6,22,0.272727272727273
+"1284",144,"Weil Tom nach Indien gehen und dort ein Jahr arbeiten möchte, he applies for a ","code_switching","scholarship",1,22,0.0454545454545455
+"1285",144,"Weil Tom nach Indien gehen und dort ein Jahr arbeiten möchte, he applies for a ","code_switching","stipend",2,22,0.0909090909090909
+"1286",144,"Weil Tom nach Indien gehen und dort ein Jahr arbeiten möchte, he applies for a ","code_switching","visa",13,22,0.590909090909091

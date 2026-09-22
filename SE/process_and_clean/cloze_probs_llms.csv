@@ -1,0 +1,927 @@
+InnerNumber,Item,Itemtype,cloze_clean,n,total,cloze_probability,participant
+1,Nora couldn't take the message because she didn't have a pencil or a piece of,E,paper,19,19,1,claude
+1,Nora no pudo tomar el mensaje porque no tenía un lapiz ni un piece of,CS,paper,18,18,1,claude
+2,"Al atender a pacientes hospitalizados, un médico a veces necesita the help of a",CS,nurse,29,29,1,claude
+2,"In caring for hospitalized patients, a doctor often needs the help of a",E,nurse,19,19,1,claude
+3,"After realizing he forgot utensils for his salad, the customer went back to get himself a",E,fork,19,19,1,claude
+3,"Al darse cuenta que se le había olvidado de los cubiertos, el cliente regresó to get himself a",CS,fork,18,18,1,claude
+4,La niñita se negó a dormirse hasta que he told her a,CS,story,20,20,1,claude
+4,The little girl refused to go to sleep until he told her a,E,story,17,17,1,claude
+5,Los nietos de Ruby contrataron a una enfermera interna porque pensaron que era too old to live,CS,alone,20,20,1,claude
+5,Ruby's grandchildren hired a live-in nurse because they thought she was too old to live,E,alone,17,17,1,claude
+6,Patricia had never seen a spider get tangled up in its own,E,web,29,29,1,claude
+6,Patricia nunca había visto a una araña enredarse in its own,CS,web,19,19,1,claude
+7,El se escribió una nota so he wouldn't,CS,forget,20,20,1,claude
+7,He wrote himself a note so that he wouldn't,E,forget,17,17,1,claude
+8,Los prisioneros estaban planning their,CS,escape,19,19,1,claude
+8,The prisoners were planning their,E,escape,29,29,1,claude
+9,Cada invierno se ve la casa de los Hernández y su enorme chimenea con puffs of billowing,CS,smoke,19,19,1,claude
+9,Every winter you see the Hernandez house and its huge chimney with puffs of billowing,E,smoke,18,18,1,claude
+10,Giraffes are known for their long necks and zebras for their,E,stripes,29,29,1,claude
+10,Las jirafas son conocidas por sus cuellos largos y las zebras for their,CS,stripes,19,19,1,claude
+11,Marsha no se preocupaba por la cena porque sabía que los invitados podrían seguir comiendo aperitivos for at least another,CS,hour,17,17,1,claude
+11,Marsha wasn't worried about dinner because she knew the guests could remain eating appetizers for at least another,E,hour,20,20,1,claude
+12,Every morning Susan braids her little girl's hair then helps her dress for,E,school,19,19,1,claude
+12,"Todas las mañanas, Susan trenza el cabello de su hijita y luego helps her dress for",CS,school,18,18,1,claude
+13,El novio tomó la mano de la novia y le colocó the ring on her,CS,finger,18,18,1,claude
+13,The groom took the bride's hand and placed the ring on her,E,finger,19,19,1,claude
+14,El pequeño cachorro creció to be a huge,CS,dog,20,20,1,claude
+14,The little puppy grew up to be a huge,E,dog,17,17,1,claude
+15,Father carved the turkey with a,E,knife,17,17,1,claude
+15,Papá trinchó el turkey with a,CS,knife,20,20,1,claude
+16,After the meeting I added my name to the,E,list,17,17,1,claude
+16,"Después de la reunión, agregué mi name to the",CS,list,20,20,1,claude
+17,"Mike felt sorry, but it was not his",E,fault,17,17,1,claude
+17,"Mike sintió pena, pero it was not his",CS,fault,20,20,1,claude
+18,He tried to put the pieces of the broken plate back together with,E,glue,18,18,1,claude
+18,Intentó volver a juntar los pedazos del broken plate back together with,CS,glue,19,19,1,claude
+19,El profesor vio que algunos estudiantes estaban haciendo trampa and wrote down their,CS,names,17,17,1,claude
+19,The teacher saw that some students were cheating and wrote down their,E,names,20,20,1,claude
+20,Maria remembered to shut the front window and lock the back,E,door,17,17,1,claude
+20,María se acordó de cerrar la ventana delantera y lock the back,CS,door,20,20,1,claude
+21,No puedes abrir la puerta with the wrong,CS,key,17,17,1,claude
+21,You can't open the door with the wrong,E,key,20,20,1,claude
+23,"Cuando se fue la luz, the house became",CS,dark,29,29,1,claude
+23,When the power went out the house became,E,dark,19,19,1,claude
+24,Alfonso ha empezado a ir en bicicleta al trabajo instead of driving his,CS,car,17,17,1,claude
+24,Alfonso has started biking to work instead of driving his,E,car,20,20,1,claude
+25,A dog has a good sense of,E,smell,19,19,1,claude
+25,Un perro tiene un good sense of,CS,smell,29,29,1,claude
+26,La mayoría de la gente pasa el 25 de December with their,CS,families,18,18,1,claude
+26,Most people spend December 25th with their,E,family,19,19,1,claude
+27,At night the old woman made sure to lock the,E,door,20,20,1,claude
+27,En la noche la mujer mayor made sure to lock the,CS,door,17,17,1,claude
+28,Ellos vieron el relámpago and heard the,CS,thunder,19,19,1,claude
+28,They saw the lightning and heard the,E,thunder,29,29,1,claude
+29,Ella tuvo que salir del cine cuando the baby started to,CS,cry,17,17,1,claude
+29,She had to leave the movie when the baby started to,E,cry,20,20,1,claude
+30,"I greeted him, but could not remember his last",E,name,20,20,1,claude
+30,"Lo saludé, pero no podía remember his last",CS,name,17,17,1,claude
+32,"Although she heard it ringing, Nancy was too busy cleaning the chimney to get the",E,phone,20,20,1,claude
+32,"Aunque lo eschuchó sonar, Nancy estaba demasiado ocupada limpiando the chimney to get the",CS,phone,17,17,1,claude
+33,"After the hurricane, the area around the window was filled with broken",E,glass,19,19,1,claude
+33,"Después del huracán, el área alrededor de la ventana was filled with broken",CS,glass,29,29,1,claude
+35,La disputa fue resuelta by a third,CS,party,19,19,1,claude
+35,The dispute was settled by a third,E,party,18,18,1,claude
+36,Se notaba que había crecido en the South by his,CS,accent,18,18,1,claude
+36,You could tell he had grown up in the South by his,E,accent,19,19,1,claude
+37,Be careful because the top of the stove is very,E,hot,19,19,1,claude
+37,Ten cuidado porque la parte de arriba del stove is very,CS,hot,29,29,1,claude
+38,"Cuando te vayas a dormir, turn off the",CS,lights,17,17,1,claude
+38,When you go to bed turn off the,E,light,20,20,1,claude
+39,"Cuando los dos se encontraron, uno de ellos held out his",CS,hand,19,19,1,claude
+39,"When the two met, one of them held out his",E,hand,18,18,1,claude
+40,Pablo pintó el traje del payaso de azul y le dio a big red,CS,nose,17,17,1,claude
+40,Paul painted the clown's suit blue and gave him a big red,E,nose,20,20,1,claude
+41,Tom jumped in the lake and made a big,E,splash,19,19,1,claude
+41,Tom saltó en el lago and made a big,CS,splash,29,29,1,claude
+42,Josie found she could not bend the elbow of her broken,E,arm,18,18,1,claude
+42,Josie se dio cuenta de que no podía doblar the elbow of her broken,CS,arm,19,19,1,claude
+43,His boss refused to give him a,E,raise,20,20,1,claude
+43,Su jefe se negó to give him a,CS,raise,17,17,1,claude
+44,He knew that he could call Chris even if it was the middle of the,E,night,19,19,1,claude
+44,Él sabía que podía llamar a Chris incluso in the middle of the,CS,night,29,29,1,claude
+45,Los niños de la escuela went outside to,CS,play,18,18,1,claude
+45,The school children went outside to,E,play,19,19,1,claude
+46,Joan fed her baby some warm,E,milk,18,18,1,claude
+46,Joan le dio de comer a su baby some warm,CS,milk,19,19,1,claude
+47,Las escuelas se cerraron porque the teachers decided to go on,CS,strike,19,19,1,claude
+47,The schools closed down because the teachers decided to go on,E,strike,18,18,1,claude
+48,"Dentro de minutos de llegar al trabajo, el ejecutivo spilled his thermos full of",CS,coffee,19,19,1,claude
+48,"Within minutes of arriving at the office, the executive spilled his thermos full of",E,coffee,29,29,1,claude
+49,Mi compañero de cuarto de Miami dejó the dirty dishes in the,CS,sink,20,20,1,claude
+49,My roommate from Miami left the dirty dishes in the,E,sink,17,17,1,claude
+50,Le descontaron una hora de pago for coming to work,CS,late,19,19,1,claude
+50,She was docked one hour's pay for coming to work,E,late,18,18,1,claude
+51,Ricardo estaba asustado de caminar cerca a la orilla del precipicio porque he was afraid he would,CS,fall,19,19,1,claude
+51,Richard was afraid to walk near the edge of the cliff because he was afraid he would,E,fall,29,29,1,claude
+52,Nicole could not read very well without her thick,E,glasses,18,18,1,claude
+52,Nicole no leía muy bien without her thick,CS,glasses,19,19,1,claude
+53,La mayoría de los ataques de tiburones suceden very close to,CS,shore,17,17,1,claude
+53,Most shark attacks occur very close to,E,shore,20,20,1,claude
+55,Ninguno de sus books made any,CS,sense,19,19,1,claude
+55,None of his books made any,E,sense,29,29,1,claude
+56,He mailed the letter without a,E,stamp,29,29,1,claude
+56,Él envió un letter without a,CS,stamp,19,19,1,claude
+57,Las vacas se movieron del sun into the,CS,shade,17,17,1,claude
+57,The cows moved from the sun into the,E,shade,20,20,1,claude
+58,William played his stereo much too,E,loud,29,29,1,claude
+58,William tocó su stereo much too,CS,loud,8,19,0.42105263157894735,claude
+58,William tocó su stereo much too,CS,loudly,11,19,0.5789473684210527,claude
+60,El surfista fue empujado de su tabla de surfear by the first,CS,wave,19,19,1,claude
+60,The surfer was knocked off his surfboard by the first,E,wave,18,18,1,claude
+61,Tim threw a rock and broke the,E,window,17,17,1,claude
+61,Tim tiró una piedra and broke the,CS,window,20,20,1,claude
+62,Ricardo spilled coffee all over his clean white,E,shirt,20,20,1,claude
+62,Ricardo tiró el café all over his clean white,CS,shirt,17,17,1,claude
+63,He decided to travel in Iran even though he knew it could be,E,dangerous,29,29,1,claude
+63,Él decidió ir a Irán a pesar de que he knew it could be,CS,dangerous,19,19,1,claude
+64,Cold damp weather makes her joints ache so she's been taking a lot of aspirin for the,E,pain,19,19,1,claude
+64,"El clima frío y húmedo le hace doler las articulaciones, así que ha estado tomando a lot of aspirin for the",CS,pain,18,18,1,claude
+65,Antes que ella llegara él abrió una botella de vino y put on some soft,CS,music,29,29,1,claude
+65,Before she arrived he opened a bottle of wine and put on some soft,E,music,19,19,1,claude
+66,El barco desapareció into the thick,CS,fog,19,19,1,claude
+66,The ship disappeared into the thick,E,fog,29,29,1,claude
+67,Ron bought a board for the window that was too long and then he bought one that was too,E,short,29,29,1,claude
+67,Ron compró una tabla para la ventana que era demasiada larga y luego compró otra that was too,CS,short,19,19,1,claude
+68,"A medida que el clima se volvió más cálido, Mark comenzó a usar su chaqueta más liviana en lugar de his heavy winter",CS,coat,19,19,1,claude
+68,"As the weather got warmer, Mark started wearing his lighter jacket instead of his heavy winter",E,coat,29,29,1,claude
+70,Jorge debe mantener su pet on a,CS,leash,17,17,1,claude
+70,Jorge must keep his pet on a,E,leash,20,20,1,claude
+71,A Raquel le encanta el olor del tabaco pero she can't stand all the,CS,smoke,29,29,1,claude
+71,Rachel loves the smell of tobacco but she can't stand all the,E,smoke,19,19,1,claude
+72,He had just enough time to buy a cake from the store and change his clothes before the guests,E,arrived,18,18,1,claude
+72,Él tuvo tiempo justo para comprar un pastel en la tienda y cambiarse de ropa before the guests,CS,arrived,19,19,1,claude
+73,La ardilla guardó some nuts in the,CS,tree,18,18,1,claude
+73,The squirrel stored some nuts in the,E,tree,19,19,1,claude
+74,Every morning before school his mother laid out his clothes and packed his,E,lunch,19,19,1,claude
+74,"Todas las mañanas, antes de ir a la escuela, su madre preparaba su ropa and packed his",CS,lunch,29,29,1,claude
+75,He quit his job and left his family so that he could sail around the,E,world,29,29,1,claude
+75,Él dejó su trabajo y abandonó a su familia para poder sail around the,CS,world,19,19,1,claude
+76,Don't touch the sticky wet,E,paint,19,19,1,claude
+76,No toque the sticky wet,CS,paint,29,29,1,claude
+77,Cats loved to be scratched gently behind the,E,ears,17,17,1,claude
+77,Los gatos aman que los rasquen gently behind the,CS,ears,20,20,1,claude
+78,La gaviota blanca se sumergió and caught a,CS,fish,19,19,1,claude
+78,The white seagull dove down and caught a,E,fish,29,29,1,claude
+79,Juan barrió el piso with a big,CS,broom,20,20,1,claude
+79,Juan swept the floor with a big,E,broom,17,17,1,claude
+80,He was cold most of the night and finally got up to get another,E,blanket,17,17,1,claude
+80,Él pasó frío casi toda la noche y finalmente se levantó to get another,CS,blanket,20,20,1,claude
+81,"Al principio el chico se negó, pero eventualmente he changed his",CS,mind,18,18,1,claude
+81,"At first the boy refused, but eventually he changed his",E,mind,19,19,1,claude
+82,Rafael quiere preservar el bosque nacional by guarding every,CS,tree,18,18,1,claude
+82,Rafael wants to preserve the national forest by guarding every,E,tree,19,19,1,claude
+84,Pamela did not have any clothes to,E,wear,18,18,1,claude
+84,Pamela no tenía any clothes to,CS,wear,19,19,1,claude
+85,Ellos criaban cerdos on their,CS,farm,17,17,1,claude
+85,They raised pigs on their,E,farm,20,20,1,claude
+86,He settled for American wine because the imported stuff was too,E,expensive,18,18,1,claude
+86,Él se conformó con el vino americano porque the imported stuff was too,CS,expensive,19,19,1,claude
+87,A Simón le parece bien escuchar música alta incluso si la puerta to his bedroom is,CS,open,19,19,1,claude
+87,Simon thinks it's ok to listen to loud music even if the door to his bedroom is,E,open,18,18,1,claude
+88,His skin was red from spending the day at the,E,beach,19,19,1,claude
+88,Su piel estaba roja por haber pasado the day at the,CS,beach,29,29,1,claude
+89,Felipe puso unas drops in his,CS,coffee,19,19,1,claude
+89,Felipe put some drops in his,E,eyes,18,18,1,claude
+90,The colonel wished the sergeant would treat his command not as a polite request but as a direct,E,order,17,17,1,claude
+90,"Él coronel deseaba que el sargento tratara su orden no como una solicitud educada, but as a direct",CS,command,20,20,1,claude
+91,Sharon dried the dishes with a,E,towel,19,19,1,claude
+91,Sharon secó los dishes with a,CS,towel,18,18,1,claude
+93,Esther didn't think the sword was that dangerous because it wasn't very,E,sharp,19,19,1,claude
+93,Esther no pensaba que la espada era tan peligrosa porque it wasn't very,CS,sharp,18,18,1,claude
+94,El bebé lloró and upset his,CS,mother,18,18,1,claude
+94,The baby cried and upset his,E,mother,19,19,1,claude
+95,Los inquilinos decidieron llevar a su landlord to,CS,court,19,19,1,claude
+95,The tenants decided to take their landlord to,E,court,18,18,1,claude
+96,"Cuando Jorge no pudo entrar a su auto, se arrodilló y buscó debajo del paragolpes for the spare",CS,key,17,17,1,claude
+96,"When Jorge couldn't get into his car, he got down on one knee and reached under the bumper for the spare",E,key,20,20,1,claude
+97,El trabajador de construcción habia desarrollado brazos muy fuertes de bajar las bolsas de cement from the,CS,truck,19,19,1,claude
+97,The construction worker had developed very powerful arms from unloading bags of cement from the,E,truck,18,18,1,claude
+98,Es importante to be on,CS,time,19,19,1,claude
+98,It is important to be on,E,time,29,29,1,claude
+99,El gato estaba acurrucado in Aunt Anna's,CS,lap,29,29,1,claude
+99,The cat was curled up in Aunt Anna's,E,lap,19,19,1,claude
+100,Nuestros invitados expeciales should be arriving,CS,soon,19,19,1,claude
+100,Our special guests should be arriving,E,soon,29,29,1,claude
+101,Each night the campers built a huge,E,bonfire,18,18,1,claude
+101,Todas las noches los campistas built a huge,CS,bonfire,19,19,1,claude
+102,"Está lloviendo, y me olvidé de mi coat, hat, and",CS,umbrella,29,29,1,claude
+102,"It's raining, and I forgot my coat, hat, and",E,umbrella,19,19,1,claude
+103,I just had a new sound system installed in my,E,car,29,29,1,claude
+103,Recientemente tuve un sistema de sonido nuevo installed in my,CS,car,19,19,1,claude
+104,El hombre que manejaba el equipaje parecía tomar mucho placer en arrojar the boxes marked,CS,fragile,18,18,1,claude
+104,The luggage handler seemed to take great delight in tossing the boxes marked,E,fragile,19,19,1,claude
+105,"Los días calurosos, muchas personas sun themselves on the",CS,beach,20,20,1,claude
+105,"On hot days, many people sun themselves on the",E,beach,17,17,1,claude
+106,He liked putting lemon and sugar in his hot,E,tea,19,19,1,claude
+106,Le gusta agregar limón y azúcar in his hot,CS,tea,29,29,1,claude
+107,Es difícil admitir when one is,CS,wrong,18,18,1,claude
+107,It's hard to admit when one is,E,wrong,19,19,1,claude
+108,"After dinner, they spent a long time over coffee just",E,talking,29,29,1,claude
+108,"Después de la cena, ellos pasaron mucho tiempo over coffee just",CS,talking,19,19,1,claude
+109,El fertilizante orgánico helped enrich the,CS,soil,18,18,1,claude
+109,The organic fertilizer helped enrich the,E,soil,19,19,1,claude
+110,El problema con Cristina es que she can't take a,CS,joke,20,20,1,claude
+110,The problem with Christina is that she can't take a,E,joke,17,17,1,claude
+111,Los dos ladrones llevaban pistolas but they didn't,CS,shoot,18,18,1,claude
+111,The two robbers carried guns but they didn't,E,shoot,19,19,1,claude
+112,After two hours of hard work they decided to take a short,E,break,20,20,1,claude
+112,Después de dos horas de trabajo duro ellos decidieron to take a short,CS,break,17,17,1,claude
+113,He carefully positioned the violin under his,E,chin,19,19,1,claude
+113,Él puso cuidadosamente the violin under his,CS,chin,18,18,1,claude
+114,He put a new sheet on the clean,E,bed,19,19,1,claude
+114,Él puso una sábana nueva on the clean,CS,bed,18,18,1,claude
+115,Ellos decidieron comprar una casa pequeña y construir una adición with two more,CS,bedrooms,19,19,1,claude
+115,They decided to buy a small home and build an addition with two more,E,bedrooms,29,29,1,claude
+116,La universidad no lo dejaba registrarse hasta que pagara las multas de demora on the borrowed,CS,books,29,29,1,claude
+116,The university wouldn't let him register until he paid the overdue fines on the borrowed,E,books,19,19,1,claude
+117,Carolina le enseñó a su hija de dos años que las fotos son cuadradas y the plates are,CS,round,19,19,1,claude
+117,Carolina taught her two-year-old that the pictures are square and that the plates are,E,round,29,29,1,claude
+118,"Cuando suena el himno nacional, todos are expected to",CS,stand,18,18,1,claude
+118,"While the national anthem is played, everyone is expected to",E,stand,19,19,1,claude
+119,After dinner they washed the dirty,E,dishes,17,17,1,claude
+119,Después de la cena ellos washed the dirty,CS,dishes,20,20,1,claude
+120,After lunch he scraped the cold food from his,E,plate,29,29,1,claude
+120,Después del almuerzo él raspó the cold food from his,CS,plate,19,19,1,claude
+121,Había viento por el aire frío que entraba por la puerta de entrada y all the side,CS,windows,20,20,1,claude
+121,It was drafty because of the cold air leaking in through the front door and all the side,E,windows,17,17,1,claude
+122,"Tracy and her husband weren't Catholic, but she was glad when the priest warmly welcomed their three",E,children,19,19,1,claude
+122,"Tracy y su esposo no eran católicos, pero ella estaba contenta cuando un sacerdote cálidamente recibió a their three",CS,children,29,29,1,claude
+124,As soon as they reached the sand he stopped to take off his,E,shoes,18,18,1,claude
+124,En cuanto llegaron a la arena él se paró to take off his,CS,shoes,19,19,1,claude
+125,Pedro painted the walls of the bird exhibit light blue to resemble the,E,sky,17,17,1,claude
+125,Pedro pintó de color azul claro las paredes de la exibición de pájaros to resemble the,CS,sky,20,20,1,claude
+126,El niño malo was sent to his,CS,room,29,29,1,claude
+126,The bad boy was sent to his,E,room,19,19,1,claude
+128,Nadie en la reunión de la escuela reconoció a Daniel porque he had grown a,CS,beard,20,20,1,claude
+128,No one at the reunion recognized Daniel because he had grown a,E,beard,17,17,1,claude
+130,El piano viejo was out of,CS,tune,17,17,1,claude
+130,The old piano was out of,E,tune,20,20,1,claude
+131,El niño nació with a rare,CS,disease,20,20,1,claude
+131,The child was born with a rare,E,disease,17,17,1,claude
+134,El entró furtivamente al room without a,CS,sound,29,29,1,claude
+134,He crept into the room without a,E,sound,19,19,1,claude
+135,La salida estaba indicada by a large,CS,sign,17,17,1,claude
+135,The exit was marked by a large,E,sign,20,20,1,claude
+136,Juan fue a la ferretería y compró una ventana de repuesto at twice the original,CS,price,17,17,1,claude
+136,Juan went to the hardware store and bought a replacement window at twice the original,E,price,20,20,1,claude
+137,Samuel could not believe the story was,E,true,19,19,1,claude
+137,Samuel no podía creer que the story was,CS,true,18,18,1,claude
+138,Las reglas no permiten que los visitors feed the,CS,animals,18,18,1,claude
+138,The rules did not allow visitors to feed the,E,animals,19,19,1,claude
+139,"Cuando Andres llegó al restaurante inseperadamente, Lorenzo le trajo una silla from the adjacent",CS,room,29,29,1,claude
+139,"When Andres arrived unexpectedly at the restaurant, Lorenzo got him a chair from the adjacent",E,room,19,19,1,claude
+140,Ella pensó que she had seen a,CS,ghost,29,29,1,claude
+140,She thought she had seen a,E,ghost,19,19,1,claude
+141,Le preguntaron al joyero si podía examinar the ring's huge,CS,diamond,29,29,1,claude
+141,The jeweler was asked if he would examine the ring's huge,E,diamond,19,19,1,claude
+142,"Necesitaba un cable cargador especial, pero she couldn't find it inside her",CS,purse,17,17,1,claude
+142,"She needed a special charging cable, but could not find it inside her",E,purse,20,20,1,claude
+143,He took a new cork screw and opened the,E,bottle,18,18,1,claude
+143,Él agarró un sacacorchos nuevo and opened the,CS,bottle,19,19,1,claude
+144,He folded out a big drying rack to dry the,E,laundry,17,17,1,claude
+144,Él desdobló un gran drying rack to dry the,CS,clothes,20,20,1,claude
+145,Ella agarró una jarra grande cerca de la canilla and filled it with,CS,water,20,20,1,claude
+145,She grabbed a big pitcher near the sink and filled it with,E,water,17,17,1,claude
+146,He got out a clean tissue to wipe his,E,nose,18,18,1,claude
+146,Él sacó un pañuelo limpio to wipe his,CS,nose,19,19,1,claude
+1,Nora couldn't take the message because she didn't have a pencil or a piece of,E,paper,19,19,1,mistral
+1,Nora no pudo tomar el mensaje porque no tenía un lapiz ni un piece of,CS,paper,18,18,1,mistral
+2,"Al atender a pacientes hospitalizados, un médico a veces necesita the help of a",CS,nurse,29,29,1,mistral
+2,"In caring for hospitalized patients, a doctor often needs the help of a",E,nurse,19,19,1,mistral
+3,"After realizing he forgot utensils for his salad, the customer went back to get himself a",E,fork,19,19,1,mistral
+3,"Al darse cuenta que se le había olvidado de los cubiertos, el cliente regresó to get himself a",CS,fork,16,18,0.8888888888888888,mistral
+3,"Al darse cuenta que se le había olvidado de los cubiertos, el cliente regresó to get himself a",CS,forks,2,18,0.1111111111111111,mistral
+4,La niñita se negó a dormirse hasta que he told her a,CS,story,20,20,1,mistral
+4,The little girl refused to go to sleep until he told her a,E,story,17,17,1,mistral
+5,Los nietos de Ruby contrataron a una enfermera interna porque pensaron que era too old to live,CS,alone,12,20,0.6,mistral
+5,Los nietos de Ruby contrataron a una enfermera interna porque pensaron que era too old to live,CS,senior,8,20,0.4,mistral
+5,Ruby's grandchildren hired a live-in nurse because they thought she was too old to live,E,alone,17,17,1,mistral
+6,Patricia had never seen a spider get tangled up in its own,E,web,29,29,1,mistral
+6,Patricia nunca había visto a una araña enredarse in its own,CS,web,19,19,1,mistral
+7,El se escribió una nota so he wouldn't,CS,forget,20,20,1,mistral
+7,He wrote himself a note so that he wouldn't,E,forget,17,17,1,mistral
+8,Los prisioneros estaban planning their,CS,escape,19,19,1,mistral
+8,The prisoners were planning their,E,escape,29,29,1,mistral
+9,Cada invierno se ve la casa de los Hernández y su enorme chimenea con puffs of billowing,CS,smoke,19,19,1,mistral
+9,Every winter you see the Hernandez house and its huge chimney with puffs of billowing,E,smoke,18,18,1,mistral
+10,Giraffes are known for their long necks and zebras for their,E,stripes,29,29,1,mistral
+10,Las jirafas son conocidas por sus cuellos largos y las zebras for their,CS,stripes,19,19,1,mistral
+11,Marsha no se preocupaba por la cena porque sabía que los invitados podrían seguir comiendo aperitivos for at least another,CS,hour,17,17,1,mistral
+11,Marsha wasn't worried about dinner because she knew the guests could remain eating appetizers for at least another,E,hour,20,20,1,mistral
+12,Every morning Susan braids her little girl's hair then helps her dress for,E,school,19,19,1,mistral
+12,"Todas las mañanas, Susan trenza el cabello de su hijita y luego helps her dress for",CS,school,18,18,1,mistral
+13,El novio tomó la mano de la novia y le colocó the ring on her,CS,finger,18,18,1,mistral
+13,The groom took the bride's hand and placed the ring on her,E,finger,19,19,1,mistral
+14,El pequeño cachorro creció to be a huge,CS,dog,20,20,1,mistral
+14,The little puppy grew up to be a huge,E,dog,17,17,1,mistral
+15,Father carved the turkey with a,E,knife,17,17,1,mistral
+15,Papá trinchó el turkey with a,CS,knife,20,20,1,mistral
+16,After the meeting I added my name to the,E,list,17,17,1,mistral
+16,"Después de la reunión, agregué mi name to the",CS,attendancelist,8,20,0.4,mistral
+16,"Después de la reunión, agregué mi name to the",CS,list,12,20,0.6,mistral
+17,"Mike felt sorry, but it was not his",E,fault,17,17,1,mistral
+17,"Mike sintió pena, pero it was not his",CS,fault,20,20,1,mistral
+18,He tried to put the pieces of the broken plate back together with,E,glue,18,18,1,mistral
+18,Intentó volver a juntar los pedazos del broken plate back together with,CS,glue,19,19,1,mistral
+19,El profesor vio que algunos estudiantes estaban haciendo trampa and wrote down their,CS,names,17,17,1,mistral
+19,The teacher saw that some students were cheating and wrote down their,E,names,20,20,1,mistral
+20,Maria remembered to shut the front window and lock the back,E,door,17,17,1,mistral
+20,María se acordó de cerrar la ventana delantera y lock the back,CS,door,20,20,1,mistral
+21,No puedes abrir la puerta with the wrong,CS,key,17,17,1,mistral
+21,You can't open the door with the wrong,E,key,20,20,1,mistral
+23,"Cuando se fue la luz, the house became",CS,dark,29,29,1,mistral
+23,When the power went out the house became,E,dark,19,19,1,mistral
+24,Alfonso ha empezado a ir en bicicleta al trabajo instead of driving his,CS,carro,17,17,1,mistral
+24,Alfonso has started biking to work instead of driving his,E,car,20,20,1,mistral
+25,A dog has a good sense of,E,smell,19,19,1,mistral
+25,Un perro tiene un good sense of,CS,smell,29,29,1,mistral
+26,La mayoría de la gente pasa el 25 de December with their,CS,family,18,18,1,mistral
+26,Most people spend December 25th with their,E,family,19,19,1,mistral
+27,At night the old woman made sure to lock the,E,door,20,20,1,mistral
+27,En la noche la mujer mayor made sure to lock the,CS,door,17,17,1,mistral
+28,Ellos vieron el relámpago and heard the,CS,thunder,19,19,1,mistral
+28,They saw the lightning and heard the,E,thunder,29,29,1,mistral
+29,Ella tuvo que salir del cine cuando the baby started to,CS,cry,17,17,1,mistral
+29,She had to leave the movie when the baby started to,E,cry,20,20,1,mistral
+30,"I greeted him, but could not remember his last",E,name,20,20,1,mistral
+30,"Lo saludé, pero no podía remember his last",CS,name,17,17,1,mistral
+32,"Although she heard it ringing, Nancy was too busy cleaning the chimney to get the",E,phone,20,20,1,mistral
+32,"Aunque lo eschuchó sonar, Nancy estaba demasiado ocupada limpiando the chimney to get the",CS,fireplace,1,17,0.058823529411764705,mistral
+32,"Aunque lo eschuchó sonar, Nancy estaba demasiado ocupada limpiando the chimney to get the",CS,message,16,17,0.9411764705882353,mistral
+33,"After the hurricane, the area around the window was filled with broken",E,debris,19,19,1,mistral
+33,"Después del huracán, el área alrededor de la ventana was filled with broken",CS,debris,29,29,1,mistral
+35,La disputa fue resuelta by a third,CS,mediator,8,19,0.42105263157894735,mistral
+35,La disputa fue resuelta by a third,CS,party,11,19,0.5789473684210527,mistral
+35,The dispute was settled by a third,E,mediator,18,18,1,mistral
+36,Se notaba que había crecido en the South by his,CS,clothes,18,18,1,mistral
+36,You could tell he had grown up in the South by his,E,accent,19,19,1,mistral
+37,Be careful because the top of the stove is very,E,hot,19,19,1,mistral
+37,Ten cuidado porque la parte de arriba del stove is very,CS,hot,29,29,1,mistral
+38,"Cuando te vayas a dormir, turn off the",CS,light,17,17,1,mistral
+38,When you go to bed turn off the,E,light,20,20,1,mistral
+39,"Cuando los dos se encontraron, uno de ellos held out his",CS,hand,19,19,1,mistral
+39,"When the two met, one of them held out his",E,hand,18,18,1,mistral
+40,Pablo pintó el traje del payaso de azul y le dio a big red,CS,nose,16,17,0.9411764705882353,mistral
+40,Pablo pintó el traje del payaso de azul y le dio a big red,CS,smile,1,17,0.058823529411764705,mistral
+40,Paul painted the clown's suit blue and gave him a big red,E,nose,20,20,1,mistral
+41,Tom jumped in the lake and made a big,E,splash,19,19,1,mistral
+41,Tom saltó en el lago and made a big,CS,splash,29,29,1,mistral
+42,Josie found she could not bend the elbow of her broken,E,arm,18,18,1,mistral
+42,Josie se dio cuenta de que no podía doblar the elbow of her broken,CS,arm,19,19,1,mistral
+43,His boss refused to give him a,E,raise,20,20,1,mistral
+43,Su jefe se negó to give him a,CS,raise,17,17,1,mistral
+44,He knew that he could call Chris even if it was the middle of the,E,night,19,19,1,mistral
+44,Él sabía que podía llamar a Chris incluso in the middle of the,CS,night,29,29,1,mistral
+45,Los niños de la escuela went outside to,CS,play,18,18,1,mistral
+45,The school children went outside to,E,play,19,19,1,mistral
+46,Joan fed her baby some warm,E,milk,18,18,1,mistral
+46,Joan le dio de comer a su baby some warm,CS,milk,19,19,1,mistral
+47,Las escuelas se cerraron porque the teachers decided to go on,CS,strike,19,19,1,mistral
+47,The schools closed down because the teachers decided to go on,E,strike,18,18,1,mistral
+48,"Dentro de minutos de llegar al trabajo, el ejecutivo spilled his thermos full of",CS,coffee,19,19,1,mistral
+48,"Within minutes of arriving at the office, the executive spilled his thermos full of",E,coffee,29,29,1,mistral
+49,Mi compañero de cuarto de Miami dejó the dirty dishes in the,CS,sink,20,20,1,mistral
+49,My roommate from Miami left the dirty dishes in the,E,sink,17,17,1,mistral
+50,Le descontaron una hora de pago for coming to work,CS,late,19,19,1,mistral
+50,She was docked one hour's pay for coming to work,E,late,18,18,1,mistral
+51,Ricardo estaba asustado de caminar cerca a la orilla del precipicio porque he was afraid he would,CS,fall,18,19,0.9473684210526315,mistral
+51,Ricardo estaba asustado de caminar cerca a la orilla del precipicio porque he was afraid he would,CS,fallar,1,19,0.05263157894736842,mistral
+51,Richard was afraid to walk near the edge of the cliff because he was afraid he would,E,fall,29,29,1,mistral
+52,Nicole could not read very well without her thick,E,glasses,18,18,1,mistral
+52,Nicole no leía muy bien without her thick,CS,glasses,19,19,1,mistral
+53,La mayoría de los ataques de tiburones suceden very close to,CS,coast,17,17,1,mistral
+53,Most shark attacks occur very close to,E,beaches,14,20,0.7,mistral
+53,Most shark attacks occur very close to,E,shore,6,20,0.3,mistral
+55,Ninguno de sus books made any,CS,sense,19,19,1,mistral
+55,None of his books made any,E,money,29,29,1,mistral
+56,He mailed the letter without a,E,stamp,29,29,1,mistral
+56,Él envió un letter without a,CS,address,19,19,1,mistral
+57,Las vacas se movieron del sun into the,CS,moon,15,17,0.8823529411764706,mistral
+57,Las vacas se movieron del sun into the,CS,shadow,2,17,0.11764705882352941,mistral
+57,The cows moved from the sun into the,E,shadow,7,20,0.35,mistral
+57,The cows moved from the sun into the,E,shadows,13,20,0.65,mistral
+58,William played his stereo much too,E,loud,29,29,1,mistral
+58,William tocó su stereo much too,CS,loud,19,19,1,mistral
+60,El surfista fue empujado de su tabla de surfear by the first,CS,wave,19,19,1,mistral
+60,The surfer was knocked off his surfboard by the first,E,wave,18,18,1,mistral
+61,Tim threw a rock and broke the,E,window,17,17,1,mistral
+61,Tim tiró una piedra and broke the,CS,window,20,20,1,mistral
+62,Ricardo spilled coffee all over his clean white,E,shirt,20,20,1,mistral
+62,Ricardo tiró el café all over his clean white,CS,shirt,17,17,1,mistral
+63,He decided to travel in Iran even though he knew it could be,E,dangerous,29,29,1,mistral
+63,Él decidió ir a Irán a pesar de que he knew it could be,CS,dangerous,19,19,1,mistral
+64,Cold damp weather makes her joints ache so she's been taking a lot of aspirin for the,E,pain,19,19,1,mistral
+64,"El clima frío y húmedo le hace doler las articulaciones, así que ha estado tomando a lot of aspirin for the",CS,pain,18,18,1,mistral
+65,Antes que ella llegara él abrió una botella de vino y put on some soft,CS,music,29,29,1,mistral
+65,Before she arrived he opened a bottle of wine and put on some soft,E,music,19,19,1,mistral
+66,El barco desapareció into the thick,CS,mist,19,19,1,mistral
+66,The ship disappeared into the thick,E,mist,29,29,1,mistral
+67,Ron bought a board for the window that was too long and then he bought one that was too,E,short,29,29,1,mistral
+67,Ron compró una tabla para la ventana que era demasiada larga y luego compró otra that was too,CS,short,19,19,1,mistral
+68,"A medida que el clima se volvió más cálido, Mark comenzó a usar su chaqueta más liviana en lugar de his heavy winter",CS,jacket,7,19,0.3684210526315789,mistral
+68,"A medida que el clima se volvió más cálido, Mark comenzó a usar su chaqueta más liviana en lugar de his heavy winter",CS,light,12,19,0.631578947368421,mistral
+68,"As the weather got warmer, Mark started wearing his lighter jacket instead of his heavy winter",E,coat,29,29,1,mistral
+70,Jorge debe mantener su pet on a,CS,leash,17,17,1,mistral
+70,Jorge must keep his pet on a,E,leash,20,20,1,mistral
+71,A Raquel le encanta el olor del tabaco pero she can't stand all the,CS,smoke,29,29,1,mistral
+71,Rachel loves the smell of tobacco but she can't stand all the,E,smoke,19,19,1,mistral
+72,He had just enough time to buy a cake from the store and change his clothes before the guests,E,arrived,18,18,1,mistral
+72,Él tuvo tiempo justo para comprar un pastel en la tienda y cambiarse de ropa before the guests,CS,arrive,6,19,0.3157894736842105,mistral
+72,Él tuvo tiempo justo para comprar un pastel en la tienda y cambiarse de ropa before the guests,CS,party,13,19,0.6842105263157895,mistral
+73,La ardilla guardó some nuts in the,CS,tree,18,18,1,mistral
+73,The squirrel stored some nuts in the,E,tree,19,19,1,mistral
+74,Every morning before school his mother laid out his clothes and packed his,E,lunch,9,19,0.47368421052631576,mistral
+74,Every morning before school his mother laid out his clothes and packed his,E,lunchbox,10,19,0.5263157894736842,mistral
+74,"Todas las mañanas, antes de ir a la escuela, su madre preparaba su ropa and packed his",CS,lunch,29,29,1,mistral
+75,He quit his job and left his family so that he could sail around the,E,world,29,29,1,mistral
+75,Él dejó su trabajo y abandonó a su familia para poder sail around the,CS,world,19,19,1,mistral
+76,Don't touch the sticky wet,E,floor,19,19,1,mistral
+76,No toque the sticky wet,CS,floor,29,29,1,mistral
+77,Cats loved to be scratched gently behind the,E,ears,17,17,1,mistral
+77,Los gatos aman que los rasquen gently behind the,CS,ears,20,20,1,mistral
+78,La gaviota blanca se sumergió and caught a,CS,fish,19,19,1,mistral
+78,The white seagull dove down and caught a,E,fish,29,29,1,mistral
+79,Juan barrió el piso with a big,CS,broom,5,20,0.25,mistral
+79,Juan barrió el piso with a big,CS,sweep,15,20,0.75,mistral
+79,Juan swept the floor with a big,E,brocha,6,17,0.35294117647058826,mistral
+79,Juan swept the floor with a big,E,broom,11,17,0.6470588235294118,mistral
+80,He was cold most of the night and finally got up to get another,E,blanket,17,17,1,mistral
+80,Él pasó frío casi toda la noche y finalmente se levantó to get another,CS,blanket,20,20,1,mistral
+81,"Al principio el chico se negó, pero eventualmente he changed his",CS,mind,18,18,1,mistral
+81,"At first the boy refused, but eventually he changed his",E,mind,19,19,1,mistral
+82,Rafael quiere preservar el bosque nacional by guarding every,CS,tree,18,18,1,mistral
+82,Rafael wants to preserve the national forest by guarding every,E,tree,19,19,1,mistral
+84,Pamela did not have any clothes to,E,wear,18,18,1,mistral
+84,Pamela no tenía any clothes to,CS,wear,19,19,1,mistral
+85,Ellos criaban cerdos on their,CS,farm,17,17,1,mistral
+85,They raised pigs on their,E,farm,20,20,1,mistral
+86,He settled for American wine because the imported stuff was too,E,expensive,18,18,1,mistral
+86,Él se conformó con el vino americano porque the imported stuff was too,CS,expensive,19,19,1,mistral
+87,A Simón le parece bien escuchar música alta incluso si la puerta to his bedroom is,CS,closed,19,19,1,mistral
+87,Simon thinks it's ok to listen to loud music even if the door to his bedroom is,E,closed,8,18,0.4444444444444444,mistral
+87,Simon thinks it's ok to listen to loud music even if the door to his bedroom is,E,open,10,18,0.5555555555555556,mistral
+88,His skin was red from spending the day at the,E,beach,19,19,1,mistral
+88,Su piel estaba roja por haber pasado the day at the,CS,beach,28,29,0.9655172413793104,mistral
+88,Su piel estaba roja por haber pasado the day at the,CS,sun,1,29,0.034482758620689655,mistral
+89,Felipe puso unas drops in his,CS,eye,19,19,1,mistral
+89,Felipe put some drops in his,E,eyes,18,18,1,mistral
+90,The colonel wished the sergeant would treat his command not as a polite request but as a direct,E,order,17,17,1,mistral
+90,"Él coronel deseaba que el sargento tratara su orden no como una solicitud educada, but as a direct",CS,command,19,20,0.95,mistral
+90,"Él coronel deseaba que el sargento tratara su orden no como una solicitud educada, but as a direct",CS,order,1,20,0.05,mistral
+91,Sharon dried the dishes with a,E,towel,19,19,1,mistral
+91,Sharon secó los dishes with a,CS,towel,18,18,1,mistral
+93,Esther didn't think the sword was that dangerous because it wasn't very,E,sharp,19,19,1,mistral
+93,Esther no pensaba que la espada era tan peligrosa porque it wasn't very,CS,sharp,18,18,1,mistral
+94,El bebé lloró and upset his,CS,mother,18,18,1,mistral
+94,The baby cried and upset his,E,mother,19,19,1,mistral
+95,Los inquilinos decidieron llevar a su landlord to,CS,court,19,19,1,mistral
+95,The tenants decided to take their landlord to,E,court,18,18,1,mistral
+96,"Cuando Jorge no pudo entrar a su auto, se arrodilló y buscó debajo del paragolpes for the spare",CS,key,5,17,0.29411764705882354,mistral
+96,"Cuando Jorge no pudo entrar a su auto, se arrodilló y buscó debajo del paragolpes for the spare",CS,tire,12,17,0.7058823529411765,mistral
+96,"When Jorge couldn't get into his car, he got down on one knee and reached under the bumper for the spare",E,key,20,20,1,mistral
+97,El trabajador de construcción habia desarrollado brazos muy fuertes de bajar las bolsas de cement from the,CS,truck,19,19,1,mistral
+97,The construction worker had developed very powerful arms from unloading bags of cement from the,E,truck,18,18,1,mistral
+98,Es importante to be on,CS,time,19,19,1,mistral
+98,It is important to be on,E,time,29,29,1,mistral
+99,El gato estaba acurrucado in Aunt Anna's,CS,armario,18,29,0.6206896551724138,mistral
+99,El gato estaba acurrucado in Aunt Anna's,CS,armchair,11,29,0.3793103448275862,mistral
+99,The cat was curled up in Aunt Anna's,E,armchair,19,19,1,mistral
+100,Nuestros invitados expeciales should be arriving,CS,soon,19,19,1,mistral
+100,Our special guests should be arriving,E,plane,18,29,0.6206896551724138,mistral
+100,Our special guests should be arriving,E,soon,11,29,0.3793103448275862,mistral
+101,Each night the campers built a huge,E,fire,18,18,1,mistral
+101,Todas las noches los campistas built a huge,CS,fire,19,19,1,mistral
+102,"Está lloviendo, y me olvidé de mi coat, hat, and",CS,paraguas,5,29,0.1724137931034483,mistral
+102,"Está lloviendo, y me olvidé de mi coat, hat, and",CS,umbrella,24,29,0.8275862068965517,mistral
+102,"It's raining, and I forgot my coat, hat, and",E,umbrella,19,19,1,mistral
+103,I just had a new sound system installed in my,E,house,29,29,1,mistral
+103,Recientemente tuve un sistema de sonido nuevo installed in my,CS,home,18,19,0.9473684210526315,mistral
+103,Recientemente tuve un sistema de sonido nuevo installed in my,CS,house,1,19,0.05263157894736842,mistral
+104,El hombre que manejaba el equipaje parecía tomar mucho placer en arrojar the boxes marked,CS,lugares,18,18,1,mistral
+104,The luggage handler seemed to take great delight in tossing the boxes marked,E,around,9,19,0.47368421052631576,mistral
+104,The luggage handler seemed to take great delight in tossing the boxes marked,E,heavily,10,19,0.5263157894736842,mistral
+105,"Los días calurosos, muchas personas sun themselves on the",CS,beach,20,20,1,mistral
+105,"On hot days, many people sun themselves on the",E,beach,17,17,1,mistral
+106,He liked putting lemon and sugar in his hot,E,coffee,13,19,0.6842105263157895,mistral
+106,He liked putting lemon and sugar in his hot,E,tea,6,19,0.3157894736842105,mistral
+106,Le gusta agregar limón y azúcar in his hot,CS,tea,29,29,1,mistral
+107,Es difícil admitir when one is,CS,wrong,18,18,1,mistral
+107,It's hard to admit when one is,E,wrong,19,19,1,mistral
+108,"After dinner, they spent a long time over coffee just",E,talking,29,29,1,mistral
+108,"Después de la cena, ellos pasaron mucho tiempo over coffee just",CS,talking,19,19,1,mistral
+109,El fertilizante orgánico helped enrich the,CS,soil,18,18,1,mistral
+109,The organic fertilizer helped enrich the,E,soil,19,19,1,mistral
+110,El problema con Cristina es que she can't take a,CS,joke,20,20,1,mistral
+110,The problem with Christina is that she can't take a,E,joke,17,17,1,mistral
+111,Los dos ladrones llevaban pistolas but they didn't,CS,havebullets,13,18,0.7222222222222222,mistral
+111,Los dos ladrones llevaban pistolas but they didn't,CS,use,5,18,0.2777777777777778,mistral
+111,The two robbers carried guns but they didn't,E,fire,4,19,0.21052631578947367,mistral
+111,The two robbers carried guns but they didn't,E,shoot,15,19,0.7894736842105263,mistral
+112,After two hours of hard work they decided to take a short,E,break,20,20,1,mistral
+112,Después de dos horas de trabajo duro ellos decidieron to take a short,CS,break,17,17,1,mistral
+113,He carefully positioned the violin under his,E,chin,19,19,1,mistral
+113,Él puso cuidadosamente the violin under his,CS,arm,12,18,0.6666666666666666,mistral
+113,Él puso cuidadosamente the violin under his,CS,piano,6,18,0.3333333333333333,mistral
+114,He put a new sheet on the clean,E,bed,19,19,1,mistral
+114,Él puso una sábana nueva on the clean,CS,bed,18,18,1,mistral
+115,Ellos decidieron comprar una casa pequeña y construir una adición with two more,CS,rooms,19,19,1,mistral
+115,They decided to buy a small home and build an addition with two more,E,rooms,29,29,1,mistral
+116,La universidad no lo dejaba registrarse hasta que pagara las multas de demora on the borrowed,CS,books,29,29,1,mistral
+116,The university wouldn't let him register until he paid the overdue fines on the borrowed,E,books,19,19,1,mistral
+117,Carolina le enseñó a su hija de dos años que las fotos son cuadradas y the plates are,CS,flat,19,19,1,mistral
+117,Carolina taught her two-year-old that the pictures are square and that the plates are,E,flat,3,29,0.10344827586206896,mistral
+117,Carolina taught her two-year-old that the pictures are square and that the plates are,E,plates,15,29,0.5172413793103449,mistral
+117,Carolina taught her two-year-old that the pictures are square and that the plates are,E,round,11,29,0.3793103448275862,mistral
+118,"Cuando suena el himno nacional, todos are expected to",CS,stand,18,18,1,mistral
+118,"While the national anthem is played, everyone is expected to",E,stand,19,19,1,mistral
+119,After dinner they washed the dirty,E,plates,17,17,1,mistral
+119,Después de la cena ellos washed the dirty,CS,platos,20,20,1,mistral
+120,After lunch he scraped the cold food from his,E,plate,29,29,1,mistral
+120,Después del almuerzo él raspó the cold food from his,CS,plate,19,19,1,mistral
+121,Había viento por el aire frío que entraba por la puerta de entrada y all the side,CS,ventana,20,20,1,mistral
+121,It was drafty because of the cold air leaking in through the front door and all the side,E,window,15,17,0.8823529411764706,mistral
+121,It was drafty because of the cold air leaking in through the front door and all the side,E,windows,2,17,0.11764705882352941,mistral
+122,"Tracy and her husband weren't Catholic, but she was glad when the priest warmly welcomed their three",E,children,19,19,1,mistral
+122,"Tracy y su esposo no eran católicos, pero ella estaba contenta cuando un sacerdote cálidamente recibió a their three",CS,children,29,29,1,mistral
+124,As soon as they reached the sand he stopped to take off his,E,shoes,18,18,1,mistral
+124,En cuanto llegaron a la arena él se paró to take off his,CS,sandals,19,19,1,mistral
+125,Pedro painted the walls of the bird exhibit light blue to resemble the,E,sky,17,17,1,mistral
+125,Pedro pintó de color azul claro las paredes de la exibición de pájaros to resemble the,CS,sky,20,20,1,mistral
+126,El niño malo was sent to his,CS,room,29,29,1,mistral
+126,The bad boy was sent to his,E,room,19,19,1,mistral
+128,Nadie en la reunión de la escuela reconoció a Daniel porque he had grown a,CS,beard,20,20,1,mistral
+128,No one at the reunion recognized Daniel because he had grown a,E,beard,17,17,1,mistral
+130,El piano viejo was out of,CS,tune,17,17,1,mistral
+130,The old piano was out of,E,tune,20,20,1,mistral
+131,El niño nació with a rare,CS,disease,20,20,1,mistral
+131,The child was born with a rare,E,disease,17,17,1,mistral
+134,El entró furtivamente al room without a,CS,sound,29,29,1,mistral
+134,He crept into the room without a,E,sound,19,19,1,mistral
+135,La salida estaba indicada by a large,CS,signo,17,17,1,mistral
+135,The exit was marked by a large,E,sign,20,20,1,mistral
+136,Juan fue a la ferretería y compró una ventana de repuesto at twice the original,CS,price,17,17,1,mistral
+136,Juan went to the hardware store and bought a replacement window at twice the original,E,price,20,20,1,mistral
+137,Samuel could not believe the story was,E,true,19,19,1,mistral
+137,Samuel no podía creer que the story was,CS,ending,11,18,0.6111111111111112,mistral
+137,Samuel no podía creer que the story was,CS,over,1,18,0.05555555555555555,mistral
+137,Samuel no podía creer que the story was,CS,so,6,18,0.3333333333333333,mistral
+138,Las reglas no permiten que los visitors feed the,CS,animales,18,18,1,mistral
+138,The rules did not allow visitors to feed the,E,animals,19,19,1,mistral
+139,"Cuando Andres llegó al restaurante inseperadamente, Lorenzo le trajo una silla from the adjacent",CS,table,29,29,1,mistral
+139,"When Andres arrived unexpectedly at the restaurant, Lorenzo got him a chair from the adjacent",E,table,19,19,1,mistral
+140,Ella pensó que she had seen a,CS,ghost,29,29,1,mistral
+140,She thought she had seen a,E,ghost,19,19,1,mistral
+141,Le preguntaron al joyero si podía examinar the ring's huge,CS,diamond,29,29,1,mistral
+141,The jeweler was asked if he would examine the ring's huge,E,diamond,19,19,1,mistral
+142,"Necesitaba un cable cargador especial, pero she couldn't find it inside her",CS,bag,17,17,1,mistral
+142,"She needed a special charging cable, but could not find it inside her",E,bag,20,20,1,mistral
+143,He took a new cork screw and opened the,E,bottle,18,18,1,mistral
+143,Él agarró un sacacorchos nuevo and opened the,CS,bottle,19,19,1,mistral
+144,He folded out a big drying rack to dry the,E,clothes,17,17,1,mistral
+144,Él desdobló un gran drying rack to dry the,CS,clothes,20,20,1,mistral
+145,Ella agarró una jarra grande cerca de la canilla and filled it with,CS,water,20,20,1,mistral
+145,She grabbed a big pitcher near the sink and filled it with,E,water,17,17,1,mistral
+146,He got out a clean tissue to wipe his,E,nose,18,18,1,mistral
+146,Él sacó un pañuelo limpio to wipe his,CS,face,19,19,1,mistral
+1,Nora couldn't take the message because she didn't have a pencil or a piece of,E,paper,18,18,1,gpt
+1,Nora no pudo tomar el mensaje porque no tenía un lapiz ni un piece of,CS,paper,16,16,1,gpt
+2,"Al atender a pacientes hospitalizados, un médico a veces necesita the help of a",CS,nurse,26,26,1,gpt
+2,"In caring for hospitalized patients, a doctor often needs the help of a",E,nurse,19,19,1,gpt
+3,"After realizing he forgot utensils for his salad, the customer went back to get himself a",E,fork,18,18,1,gpt
+3,"Al darse cuenta que se le había olvidado de los cubiertos, el cliente regresó to get himself a",CS,fork,18,18,1,gpt
+4,La niñita se negó a dormirse hasta que he told her a,CS,story,20,20,1,gpt
+4,The little girl refused to go to sleep until he told her a,E,story,16,16,1,gpt
+5,Los nietos de Ruby contrataron a una enfermera interna porque pensaron que era too old to live,CS,alone,6,17,0.35294117647058826,gpt
+5,Los nietos de Ruby contrataron a una enfermera interna porque pensaron que era too old to live,CS,anymore,11,17,0.6470588235294118,gpt
+5,Ruby's grandchildren hired a live-in nurse because they thought she was too old to live,E,alone,16,16,1,gpt
+6,Patricia had never seen a spider get tangled up in its own,E,web,26,26,1,gpt
+6,Patricia nunca había visto a una araña enredarse in its own,CS,web,16,16,1,gpt
+7,El se escribió una nota so he wouldn't,CS,forget,19,19,1,gpt
+7,He wrote himself a note so that he wouldn't,E,forget,14,14,1,gpt
+8,Los prisioneros estaban planning their,CS,escape,18,18,1,gpt
+8,The prisoners were planning their,E,escape,26,26,1,gpt
+9,Cada invierno se ve la casa de los Hernández y su enorme chimenea con puffs of billowing,CS,smoke,17,17,1,gpt
+9,Every winter you see the Hernandez house and its huge chimney with puffs of billowing,E,smoke,16,16,1,gpt
+10,Giraffes are known for their long necks and zebras for their,E,stripes,28,28,1,gpt
+10,Las jirafas son conocidas por sus cuellos largos y las zebras for their,CS,stripes,17,17,1,gpt
+11,Marsha no se preocupaba por la cena porque sabía que los invitados podrían seguir comiendo aperitivos for at least another,CS,hour,16,16,1,gpt
+11,Marsha wasn't worried about dinner because she knew the guests could remain eating appetizers for at least another,E,hour,18,18,1,gpt
+12,Every morning Susan braids her little girl's hair then helps her dress for,E,school,19,19,1,gpt
+12,"Todas las mañanas, Susan trenza el cabello de su hijita y luego helps her dress for",CS,school,15,15,1,gpt
+13,El novio tomó la mano de la novia y le colocó the ring on her,CS,finger,16,16,1,gpt
+13,The groom took the bride's hand and placed the ring on her,E,finger,18,18,1,gpt
+14,El pequeño cachorro creció to be a huge,CS,dog,17,17,1,gpt
+14,The little puppy grew up to be a huge,E,dog,16,16,1,gpt
+15,Father carved the turkey with a,E,knife,15,15,1,gpt
+15,Papá trinchó el turkey with a,CS,fork,12,19,0.631578947368421,gpt
+15,Papá trinchó el turkey with a,CS,knife,7,19,0.3684210526315789,gpt
+16,After the meeting I added my name to the,E,list,16,16,1,gpt
+16,"Después de la reunión, agregué mi name to the",CS,list,19,20,0.95,gpt
+16,"Después de la reunión, agregué mi name to the",CS,team,1,20,0.05,gpt
+17,"Mike felt sorry, but it was not his",E,fault,15,15,1,gpt
+17,"Mike sintió pena, pero it was not his",CS,fault,17,17,1,gpt
+18,He tried to put the pieces of the broken plate back together with,E,glue,18,18,1,gpt
+18,Intentó volver a juntar los pedazos del broken plate back together with,CS,glue,17,17,1,gpt
+19,El profesor vio que algunos estudiantes estaban haciendo trampa and wrote down their,CS,names,13,13,1,gpt
+19,The teacher saw that some students were cheating and wrote down their,E,names,18,18,1,gpt
+20,Maria remembered to shut the front window and lock the back,E,door,16,16,1,gpt
+20,María se acordó de cerrar la ventana delantera y lock the back,CS,door,18,18,1,gpt
+21,No puedes abrir la puerta with the wrong,CS,key,17,17,1,gpt
+21,You can't open the door with the wrong,E,key,19,19,1,gpt
+23,"Cuando se fue la luz, the house became",CS,dark,23,23,1,gpt
+23,When the power went out the house became,E,dark,19,19,1,gpt
+24,Alfonso ha empezado a ir en bicicleta al trabajo instead of driving his,CS,car,15,15,1,gpt
+24,Alfonso has started biking to work instead of driving his,E,car,17,17,1,gpt
+25,A dog has a good sense of,E,smell,16,16,1,gpt
+25,Un perro tiene un good sense of,CS,direction,22,29,0.7586206896551724,gpt
+25,Un perro tiene un good sense of,CS,humor,2,29,0.06896551724137931,gpt
+25,Un perro tiene un good sense of,CS,smell,5,29,0.1724137931034483,gpt
+26,La mayoría de la gente pasa el 25 de December with their,CS,family,15,15,1,gpt
+26,Most people spend December 25th with their,E,family,17,17,1,gpt
+27,At night the old woman made sure to lock the,E,door,19,19,1,gpt
+27,En la noche la mujer mayor made sure to lock the,CS,door,15,15,1,gpt
+28,Ellos vieron el relámpago and heard the,CS,sound,2,16,0.125,gpt
+28,Ellos vieron el relámpago and heard the,CS,thunder,14,16,0.875,gpt
+28,They saw the lightning and heard the,E,thunder,25,25,1,gpt
+29,Ella tuvo que salir del cine cuando the baby started to,CS,cry,15,15,1,gpt
+29,She had to leave the movie when the baby started to,E,cry,18,18,1,gpt
+30,"I greeted him, but could not remember his last",E,name,17,17,1,gpt
+30,"Lo saludé, pero no podía remember his last",CS,name,16,16,1,gpt
+32,"Although she heard it ringing, Nancy was too busy cleaning the chimney to get the",E,attention,1,18,0.05555555555555555,gpt
+32,"Although she heard it ringing, Nancy was too busy cleaning the chimney to get the",E,door,1,18,0.05555555555555555,gpt
+32,"Although she heard it ringing, Nancy was too busy cleaning the chimney to get the",E,phone,16,18,0.8888888888888888,gpt
+32,"Aunque lo eschuchó sonar, Nancy estaba demasiado ocupada limpiando the chimney to get the",CS,fire,9,13,0.6923076923076923,gpt
+32,"Aunque lo eschuchó sonar, Nancy estaba demasiado ocupada limpiando the chimney to get the",CS,heat,2,13,0.15384615384615385,gpt
+32,"Aunque lo eschuchó sonar, Nancy estaba demasiado ocupada limpiando the chimney to get the",CS,smoke,2,13,0.15384615384615385,gpt
+33,"After the hurricane, the area around the window was filled with broken",E,glass,17,17,1,gpt
+33,"Después del huracán, el área alrededor de la ventana was filled with broken",CS,glass,28,28,1,gpt
+35,La disputa fue resuelta by a third,CS,party,15,15,1,gpt
+35,The dispute was settled by a third,E,party,18,18,1,gpt
+36,Se notaba que había crecido en the South by his,CS,accent,1,16,0.0625,gpt
+36,Se notaba que había crecido en the South by his,CS,family,8,16,0.5,gpt
+36,Se notaba que había crecido en the South by his,CS,father,2,16,0.125,gpt
+36,Se notaba que había crecido en the South by his,CS,heritage,1,16,0.0625,gpt
+36,Se notaba que había crecido en the South by his,CS,parents,1,16,0.0625,gpt
+36,Se notaba que había crecido en the South by his,CS,side,2,16,0.125,gpt
+36,Se notaba que había crecido en the South by his,CS,upbringing,1,16,0.0625,gpt
+36,You could tell he had grown up in the South by his,E,accent,19,19,1,gpt
+37,Be careful because the top of the stove is very,E,hot,18,18,1,gpt
+37,Ten cuidado porque la parte de arriba del stove is very,CS,hot,28,28,1,gpt
+38,"Cuando te vayas a dormir, turn off the",CS,light,1,17,0.058823529411764705,gpt
+38,"Cuando te vayas a dormir, turn off the",CS,lights,16,17,0.9411764705882353,gpt
+38,When you go to bed turn off the,E,light,9,17,0.5294117647058824,gpt
+38,When you go to bed turn off the,E,lights,8,17,0.47058823529411764,gpt
+39,"Cuando los dos se encontraron, uno de ellos held out his",CS,hand,16,16,1,gpt
+39,"When the two met, one of them held out his",E,hand,17,17,1,gpt
+40,Pablo pintó el traje del payaso de azul y le dio a big red,CS,balloon,1,14,0.07142857142857142,gpt
+40,Pablo pintó el traje del payaso de azul y le dio a big red,CS,guy,1,14,0.07142857142857142,gpt
+40,Pablo pintó el traje del payaso de azul y le dio a big red,CS,nose,12,14,0.8571428571428571,gpt
+40,Paul painted the clown's suit blue and gave him a big red,E,nose,20,20,1,gpt
+41,Tom jumped in the lake and made a big,E,splash,17,17,1,gpt
+41,Tom saltó en el lago and made a big,CS,splash,27,27,1,gpt
+42,Josie found she could not bend the elbow of her broken,E,arm,16,16,1,gpt
+42,Josie se dio cuenta de que no podía doblar the elbow of her broken,CS,arm,17,17,1,gpt
+43,His boss refused to give him a,E,raise,17,17,1,gpt
+43,Su jefe se negó to give him a,CS,raise,17,17,1,gpt
+44,He knew that he could call Chris even if it was the middle of the,E,night,16,16,1,gpt
+44,Él sabía que podía llamar a Chris incluso in the middle of the,CS,middle,1,27,0.037037037037037035,gpt
+44,Él sabía que podía llamar a Chris incluso in the middle of the,CS,night,26,27,0.9629629629629629,gpt
+45,Los niños de la escuela went outside to,CS,play,18,18,1,gpt
+45,The school children went outside to,E,play,17,17,1,gpt
+46,Joan fed her baby some warm,E,milk,17,17,1,gpt
+46,Joan le dio de comer a su baby some warm,CS,milk,18,19,0.9473684210526315,gpt
+46,Joan le dio de comer a su baby some warm,CS,soup,1,19,0.05263157894736842,gpt
+47,Las escuelas se cerraron porque the teachers decided to go on,CS,strike,18,18,1,gpt
+47,The schools closed down because the teachers decided to go on,E,strike,17,17,1,gpt
+48,"Dentro de minutos de llegar al trabajo, el ejecutivo spilled his thermos full of",CS,coffee,18,18,1,gpt
+48,"Within minutes of arriving at the office, the executive spilled his thermos full of",E,coffee,28,28,1,gpt
+49,Mi compañero de cuarto de Miami dejó the dirty dishes in the,CS,kitchen,10,18,0.5555555555555556,gpt
+49,Mi compañero de cuarto de Miami dejó the dirty dishes in the,CS,sink,8,18,0.4444444444444444,gpt
+49,My roommate from Miami left the dirty dishes in the,E,sink,17,17,1,gpt
+50,Le descontaron una hora de pago for coming to work,CS,late,19,19,1,gpt
+50,She was docked one hour's pay for coming to work,E,late,18,18,1,gpt
+51,Ricardo estaba asustado de caminar cerca a la orilla del precipicio porque he was afraid he would,CS,fall,18,18,1,gpt
+51,Richard was afraid to walk near the edge of the cliff because he was afraid he would,E,fall,26,26,1,gpt
+52,Nicole could not read very well without her thick,E,glasses,15,15,1,gpt
+52,Nicole no leía muy bien without her thick,CS,glasses,16,16,1,gpt
+53,La mayoría de los ataques de tiburones suceden very close to,CS,coast,5,15,0.3333333333333333,gpt
+53,La mayoría de los ataques de tiburones suceden very close to,CS,shore,10,15,0.6666666666666666,gpt
+53,Most shark attacks occur very close to,E,shore,19,19,1,gpt
+55,Ninguno de sus books made any,CS,sense,18,18,1,gpt
+55,None of his books made any,E,sense,28,28,1,gpt
+56,He mailed the letter without a,E,stamp,28,28,1,gpt
+56,Él envió un letter without a,CS,reply,2,16,0.125,gpt
+56,Él envió un letter without a,CS,response,4,16,0.25,gpt
+56,Él envió un letter without a,CS,signature,9,16,0.5625,gpt
+56,Él envió un letter without a,CS,stamp,1,16,0.0625,gpt
+57,Las vacas se movieron del sun into the,CS,barn,2,16,0.125,gpt
+57,Las vacas se movieron del sun into the,CS,field,11,16,0.6875,gpt
+57,Las vacas se movieron del sun into the,CS,sky,3,16,0.1875,gpt
+57,The cows moved from the sun into the,E,shade,20,20,1,gpt
+58,William played his stereo much too,E,loud,2,28,0.07142857142857142,gpt
+58,William played his stereo much too,E,loudly,26,28,0.9285714285714286,gpt
+58,William tocó su stereo much too,CS,loud,17,18,0.9444444444444444,gpt
+58,William tocó su stereo much too,CS,loudly,1,18,0.05555555555555555,gpt
+60,El surfista fue empujado de su tabla de surfear by the first,CS,wave,15,15,1,gpt
+60,The surfer was knocked off his surfboard by the first,E,wave,18,18,1,gpt
+61,Tim threw a rock and broke the,E,window,15,15,1,gpt
+61,Tim tiró una piedra and broke the,CS,window,20,20,1,gpt
+62,Ricardo spilled coffee all over his clean white,E,shirt,18,18,1,gpt
+62,Ricardo tiró el café all over his clean white,CS,shirt,16,16,1,gpt
+63,He decided to travel in Iran even though he knew it could be,E,dangerous,27,27,1,gpt
+63,Él decidió ir a Irán a pesar de que he knew it could be,CS,dangerous,17,17,1,gpt
+64,Cold damp weather makes her joints ache so she's been taking a lot of aspirin for the,E,pain,3,17,0.17647058823529413,gpt
+64,Cold damp weather makes her joints ache so she's been taking a lot of aspirin for the,E,relief,14,17,0.8235294117647058,gpt
+64,"El clima frío y húmedo le hace doler las articulaciones, así que ha estado tomando a lot of aspirin for the",CS,pain,16,16,1,gpt
+65,Antes que ella llegara él abrió una botella de vino y put on some soft,CS,music,27,27,1,gpt
+65,Before she arrived he opened a bottle of wine and put on some soft,E,music,16,16,1,gpt
+66,El barco desapareció into the thick,CS,fog,19,19,1,gpt
+66,The ship disappeared into the thick,E,fog,25,25,1,gpt
+67,Ron bought a board for the window that was too long and then he bought one that was too,E,short,23,23,1,gpt
+67,Ron compró una tabla para la ventana que era demasiada larga y luego compró otra that was too,CS,big,1,19,0.05263157894736842,gpt
+67,Ron compró una tabla para la ventana que era demasiada larga y luego compró otra that was too,CS,long,5,19,0.2631578947368421,gpt
+67,Ron compró una tabla para la ventana que era demasiada larga y luego compró otra that was too,CS,short,13,19,0.6842105263157895,gpt
+68,"A medida que el clima se volvió más cálido, Mark comenzó a usar su chaqueta más liviana en lugar de his heavy winter",CS,coat,18,18,1,gpt
+68,"As the weather got warmer, Mark started wearing his lighter jacket instead of his heavy winter",E,coat,26,26,1,gpt
+70,Jorge debe mantener su pet on a,CS,diet,1,17,0.058823529411764705,gpt
+70,Jorge debe mantener su pet on a,CS,leash,16,17,0.9411764705882353,gpt
+70,Jorge must keep his pet on a,E,leash,18,18,1,gpt
+71,A Raquel le encanta el olor del tabaco pero she can't stand all the,CS,smoke,28,28,1,gpt
+71,Rachel loves the smell of tobacco but she can't stand all the,E,smoke,18,18,1,gpt
+72,He had just enough time to buy a cake from the store and change his clothes before the guests,E,arrive,6,16,0.375,gpt
+72,He had just enough time to buy a cake from the store and change his clothes before the guests,E,arrived,10,16,0.625,gpt
+72,Él tuvo tiempo justo para comprar un pastel en la tienda y cambiarse de ropa before the guests,CS,arrive,1,17,0.058823529411764705,gpt
+72,Él tuvo tiempo justo para comprar un pastel en la tienda y cambiarse de ropa before the guests,CS,arrived,16,17,0.9411764705882353,gpt
+73,La ardilla guardó some nuts in the,CS,cave,2,16,0.125,gpt
+73,La ardilla guardó some nuts in the,CS,tree,14,16,0.875,gpt
+73,The squirrel stored some nuts in the,E,tree,16,16,1,gpt
+74,Every morning before school his mother laid out his clothes and packed his,E,bag,16,16,1,gpt
+74,"Todas las mañanas, antes de ir a la escuela, su madre preparaba su ropa and packed his",CS,bag,19,24,0.7916666666666666,gpt
+74,"Todas las mañanas, antes de ir a la escuela, su madre preparaba su ropa and packed his",CS,lunch,5,24,0.20833333333333334,gpt
+75,He quit his job and left his family so that he could sail around the,E,world,25,25,1,gpt
+75,Él dejó su trabajo y abandonó a su familia para poder sail around the,CS,world,18,18,1,gpt
+76,Don't touch the sticky wet,E,floor,12,18,0.6666666666666666,gpt
+76,Don't touch the sticky wet,E,surface,6,18,0.3333333333333333,gpt
+76,No toque the sticky wet,CS,floor,15,27,0.5555555555555556,gpt
+76,No toque the sticky wet,CS,thing,12,27,0.4444444444444444,gpt
+77,Cats loved to be scratched gently behind the,E,ears,16,16,1,gpt
+77,Los gatos aman que los rasquen gently behind the,CS,back,13,18,0.7222222222222222,gpt
+77,Los gatos aman que los rasquen gently behind the,CS,couch,2,18,0.1111111111111111,gpt
+77,Los gatos aman que los rasquen gently behind the,CS,ears,3,18,0.16666666666666666,gpt
+78,La gaviota blanca se sumergió and caught a,CS,fish,17,17,1,gpt
+78,The white seagull dove down and caught a,E,fish,28,28,1,gpt
+79,Juan barrió el piso with a big,CS,broom,20,20,1,gpt
+79,Juan swept the floor with a big,E,broom,15,15,1,gpt
+80,He was cold most of the night and finally got up to get another,E,blanket,16,16,1,gpt
+80,Él pasó frío casi toda la noche y finalmente se levantó to get another,CS,blanket,14,20,0.7,gpt
+80,Él pasó frío casi toda la noche y finalmente se levantó to get another,CS,coffee,1,20,0.05,gpt
+80,Él pasó frío casi toda la noche y finalmente se levantó to get another,CS,drink,5,20,0.25,gpt
+81,"Al principio el chico se negó, pero eventualmente he changed his",CS,mind,17,17,1,gpt
+81,"At first the boy refused, but eventually he changed his",E,mind,18,18,1,gpt
+82,Rafael quiere preservar el bosque nacional by guarding every,CS,tree,17,17,1,gpt
+82,Rafael wants to preserve the national forest by guarding every,E,it,1,17,0.058823529411764705,gpt
+82,Rafael wants to preserve the national forest by guarding every,E,tree,14,17,0.8235294117647058,gpt
+82,Rafael wants to preserve the national forest by guarding every,E,trees,2,17,0.11764705882352941,gpt
+84,Pamela did not have any clothes to,E,wear,18,18,1,gpt
+84,Pamela no tenía any clothes to,CS,wear,18,18,1,gpt
+85,Ellos criaban cerdos on their,CS,farm,15,15,1,gpt
+85,They raised pigs on their,E,farm,16,16,1,gpt
+86,He settled for American wine because the imported stuff was too,E,expensive,17,17,1,gpt
+86,Él se conformó con el vino americano porque the imported stuff was too,CS,expensive,18,18,1,gpt
+87,A Simón le parece bien escuchar música alta incluso si la puerta to his bedroom is,CS,closed,4,17,0.23529411764705882,gpt
+87,A Simón le parece bien escuchar música alta incluso si la puerta to his bedroom is,CS,open,13,17,0.7647058823529411,gpt
+87,Simon thinks it's ok to listen to loud music even if the door to his bedroom is,E,closed,16,16,1,gpt
+88,His skin was red from spending the day at the,E,beach,17,17,1,gpt
+88,Su piel estaba roja por haber pasado the day at the,CS,beach,27,27,1,gpt
+89,Felipe puso unas drops in his,CS,eye,3,18,0.16666666666666666,gpt
+89,Felipe puso unas drops in his,CS,eyes,15,18,0.8333333333333334,gpt
+89,Felipe put some drops in his,E,eye,3,17,0.17647058823529413,gpt
+89,Felipe put some drops in his,E,eyes,14,17,0.8235294117647058,gpt
+90,The colonel wished the sergeant would treat his command not as a polite request but as a direct,E,order,14,14,1,gpt
+90,"Él coronel deseaba que el sargento tratara su orden no como una solicitud educada, but as a direct",CS,command,7,19,0.3684210526315789,gpt
+90,"Él coronel deseaba que el sargento tratara su orden no como una solicitud educada, but as a direct",CS,order,12,19,0.631578947368421,gpt
+91,Sharon dried the dishes with a,E,towel,19,19,1,gpt
+91,Sharon secó los dishes with a,CS,towel,17,17,1,gpt
+93,Esther didn't think the sword was that dangerous because it wasn't very,E,sharp,18,18,1,gpt
+93,Esther no pensaba que la espada era tan peligrosa porque it wasn't very,CS,dangerous,11,18,0.6111111111111112,gpt
+93,Esther no pensaba que la espada era tan peligrosa porque it wasn't very,CS,sharp,7,18,0.3888888888888889,gpt
+94,El bebé lloró and upset his,CS,mother,17,17,1,gpt
+94,The baby cried and upset his,E,father,2,17,0.11764705882352941,gpt
+94,The baby cried and upset his,E,mom,5,17,0.29411764705882354,gpt
+94,The baby cried and upset his,E,mother,10,17,0.5882352941176471,gpt
+95,Los inquilinos decidieron llevar a su landlord to,CS,court,17,17,1,gpt
+95,The tenants decided to take their landlord to,E,court,15,15,1,gpt
+96,"Cuando Jorge no pudo entrar a su auto, se arrodilló y buscó debajo del paragolpes for the spare",CS,tire,16,16,1,gpt
+96,"When Jorge couldn't get into his car, he got down on one knee and reached under the bumper for the spare",E,tire,19,19,1,gpt
+97,El trabajador de construcción habia desarrollado brazos muy fuertes de bajar las bolsas de cement from the,CS,truck,16,16,1,gpt
+97,The construction worker had developed very powerful arms from unloading bags of cement from the,E,site,2,17,0.11764705882352941,gpt
+97,The construction worker had developed very powerful arms from unloading bags of cement from the,E,truck,15,17,0.8823529411764706,gpt
+98,Es importante to be on,CS,time,19,19,1,gpt
+98,It is important to be on,E,time,27,27,1,gpt
+99,El gato estaba acurrucado in Aunt Anna's,CS,house,28,28,1,gpt
+99,The cat was curled up in Aunt Anna's,E,lap,18,18,1,gpt
+100,Nuestros invitados expeciales should be arriving,CS,soon,17,17,1,gpt
+100,Our special guests should be arriving,E,soon,26,26,1,gpt
+101,Each night the campers built a huge,E,fire,17,17,1,gpt
+101,Todas las noches los campistas built a huge,CS,fire,10,18,0.5555555555555556,gpt
+101,Todas las noches los campistas built a huge,CS,tent,8,18,0.4444444444444444,gpt
+102,"Está lloviendo, y me olvidé de mi coat, hat, and",CS,gloves,2,25,0.08,gpt
+102,"Está lloviendo, y me olvidé de mi coat, hat, and",CS,scarf,4,25,0.16,gpt
+102,"Está lloviendo, y me olvidé de mi coat, hat, and",CS,umbrella,19,25,0.76,gpt
+102,"It's raining, and I forgot my coat, hat, and",E,scarf,6,18,0.3333333333333333,gpt
+102,"It's raining, and I forgot my coat, hat, and",E,umbrella,12,18,0.6666666666666666,gpt
+103,I just had a new sound system installed in my,E,home,28,28,1,gpt
+103,Recientemente tuve un sistema de sonido nuevo installed in my,CS,home,18,18,1,gpt
+104,El hombre que manejaba el equipaje parecía tomar mucho placer en arrojar the boxes marked,CS,fragile,15,15,1,gpt
+104,The luggage handler seemed to take great delight in tossing the boxes marked,E,fragile,18,18,1,gpt
+105,"Los días calurosos, muchas personas sun themselves on the",CS,beach,17,17,1,gpt
+105,"On hot days, many people sun themselves on the",E,beach,15,15,1,gpt
+106,He liked putting lemon and sugar in his hot,E,coffee,6,19,0.3157894736842105,gpt
+106,He liked putting lemon and sugar in his hot,E,tea,13,19,0.6842105263157895,gpt
+106,Le gusta agregar limón y azúcar in his hot,CS,coffee,2,27,0.07407407407407407,gpt
+106,Le gusta agregar limón y azúcar in his hot,CS,tea,25,27,0.9259259259259259,gpt
+107,Es difícil admitir when one is,CS,alone,12,17,0.7058823529411765,gpt
+107,Es difícil admitir when one is,CS,honest,1,17,0.058823529411764705,gpt
+107,Es difícil admitir when one is,CS,wrong,4,17,0.23529411764705882,gpt
+107,It's hard to admit when one is,E,wrong,17,17,1,gpt
+108,"After dinner, they spent a long time over coffee just",E,talking,27,27,1,gpt
+108,"Después de la cena, ellos pasaron mucho tiempo over coffee just",CS,later,1,17,0.058823529411764705,gpt
+108,"Después de la cena, ellos pasaron mucho tiempo over coffee just",CS,talked,2,17,0.11764705882352941,gpt
+108,"Después de la cena, ellos pasaron mucho tiempo over coffee just",CS,talking,9,17,0.5294117647058824,gpt
+108,"Después de la cena, ellos pasaron mucho tiempo over coffee just",CS,together,5,17,0.29411764705882354,gpt
+109,El fertilizante orgánico helped enrich the,CS,soil,16,16,1,gpt
+109,The organic fertilizer helped enrich the,E,soil,16,16,1,gpt
+110,El problema con Cristina es que she can't take a,CS,break,18,18,1,gpt
+110,The problem with Christina is that she can't take a,E,break,13,17,0.7647058823529411,gpt
+110,The problem with Christina is that she can't take a,E,hint,4,17,0.23529411764705882,gpt
+111,Los dos ladrones llevaban pistolas but they didn't,CS,shoot,17,17,1,gpt
+111,The two robbers carried guns but they didn't,E,shoot,16,16,1,gpt
+112,After two hours of hard work they decided to take a short,E,break,17,17,1,gpt
+112,Después de dos horas de trabajo duro ellos decidieron to take a short,CS,break,16,16,1,gpt
+113,He carefully positioned the violin under his,E,chin,18,18,1,gpt
+113,Él puso cuidadosamente the violin under his,CS,arm,12,17,0.7058823529411765,gpt
+113,Él puso cuidadosamente the violin under his,CS,bed,2,17,0.11764705882352941,gpt
+113,Él puso cuidadosamente the violin under his,CS,chair,3,17,0.17647058823529413,gpt
+114,He put a new sheet on the clean,E,bed,11,18,0.6111111111111112,gpt
+114,He put a new sheet on the clean,E,floor,7,18,0.3888888888888889,gpt
+114,Él puso una sábana nueva on the clean,CS,bed,15,15,1,gpt
+115,Ellos decidieron comprar una casa pequeña y construir una adición with two more,CS,rooms,18,18,1,gpt
+115,They decided to buy a small home and build an addition with two more,E,rooms,29,29,1,gpt
+116,La universidad no lo dejaba registrarse hasta que pagara las multas de demora on the borrowed,CS,books,26,27,0.9629629629629629,gpt
+116,La universidad no lo dejaba registrarse hasta que pagara las multas de demora on the borrowed,CS,items,1,27,0.037037037037037035,gpt
+116,The university wouldn't let him register until he paid the overdue fines on the borrowed,E,books,18,18,1,gpt
+117,Carolina le enseñó a su hija de dos años que las fotos son cuadradas y the plates are,CS,round,17,17,1,gpt
+117,Carolina taught her two-year-old that the pictures are square and that the plates are,E,round,26,26,1,gpt
+118,"Cuando suena el himno nacional, todos are expected to",CS,stand,18,18,1,gpt
+118,"While the national anthem is played, everyone is expected to",E,stand,16,16,1,gpt
+119,After dinner they washed the dirty,E,dishes,15,15,1,gpt
+119,Después de la cena ellos washed the dirty,CS,dishes,17,17,1,gpt
+120,After lunch he scraped the cold food from his,E,plate,28,28,1,gpt
+120,Después del almuerzo él raspó the cold food from his,CS,plate,16,16,1,gpt
+121,Había viento por el aire frío que entraba por la puerta de entrada y all the side,CS,walls,18,18,1,gpt
+121,It was drafty because of the cold air leaking in through the front door and all the side,E,walls,2,17,0.11764705882352941,gpt
+121,It was drafty because of the cold air leaking in through the front door and all the side,E,windows,15,17,0.8823529411764706,gpt
+122,"Tracy and her husband weren't Catholic, but she was glad when the priest warmly welcomed their three",E,children,16,16,1,gpt
+122,"Tracy y su esposo no eran católicos, pero ella estaba contenta cuando un sacerdote cálidamente recibió a their three",CS,children,28,28,1,gpt
+124,As soon as they reached the sand he stopped to take off his,E,shoes,18,18,1,gpt
+124,En cuanto llegaron a la arena él se paró to take off his,CS,shoes,17,17,1,gpt
+125,Pedro painted the walls of the bird exhibit light blue to resemble the,E,sky,15,15,1,gpt
+125,Pedro pintó de color azul claro las paredes de la exibición de pájaros to resemble the,CS,sky,19,19,1,gpt
+126,El niño malo was sent to his,CS,home,10,27,0.37037037037037035,gpt
+126,El niño malo was sent to his,CS,room,17,27,0.6296296296296297,gpt
+126,The bad boy was sent to his,E,cell,8,17,0.47058823529411764,gpt
+126,The bad boy was sent to his,E,home,8,17,0.47058823529411764,gpt
+126,The bad boy was sent to his,E,room,1,17,0.058823529411764705,gpt
+128,Nadie en la reunión de la escuela reconoció a Daniel porque he had grown a,CS,beard,18,18,1,gpt
+128,No one at the reunion recognized Daniel because he had grown a,E,beard,15,16,0.9375,gpt
+128,No one at the reunion recognized Daniel because he had grown a,E,mustache,1,16,0.0625,gpt
+130,El piano viejo was out of,CS,tune,17,17,1,gpt
+130,The old piano was out of,E,tune,18,18,1,gpt
+131,El niño nació with a rare,CS,disease,19,19,1,gpt
+131,The child was born with a rare,E,disease,14,14,1,gpt
+134,El entró furtivamente al room without a,CS,clue,1,28,0.03571428571428571,gpt
+134,El entró furtivamente al room without a,CS,key,25,28,0.8928571428571429,gpt
+134,El entró furtivamente al room without a,CS,sound,1,28,0.03571428571428571,gpt
+134,El entró furtivamente al room without a,CS,trace,1,28,0.03571428571428571,gpt
+134,He crept into the room without a,E,key,1,18,0.05555555555555555,gpt
+134,He crept into the room without a,E,sound,17,18,0.9444444444444444,gpt
+135,La salida estaba indicada by a large,CS,sign,13,13,1,gpt
+135,The exit was marked by a large,E,sign,19,19,1,gpt
+136,Juan fue a la ferretería y compró una ventana de repuesto at twice the original,CS,price,16,16,1,gpt
+136,Juan went to the hardware store and bought a replacement window at twice the original,E,price,19,19,1,gpt
+137,Samuel could not believe the story was,E,true,18,18,1,gpt
+137,Samuel no podía creer que the story was,CS,amazing,9,15,0.6,gpt
+137,Samuel no podía creer que the story was,CS,true,3,15,0.2,gpt
+137,Samuel no podía creer que the story was,CS,unbelievable,3,15,0.2,gpt
+138,Las reglas no permiten que los visitors feed the,CS,animals,16,16,1,gpt
+138,The rules did not allow visitors to feed the,E,animals,17,17,1,gpt
+139,"Cuando Andres llegó al restaurante inseperadamente, Lorenzo le trajo una silla from the adjacent",CS,bar,1,25,0.04,gpt
+139,"Cuando Andres llegó al restaurante inseperadamente, Lorenzo le trajo una silla from the adjacent",CS,kitchen,9,25,0.36,gpt
+139,"Cuando Andres llegó al restaurante inseperadamente, Lorenzo le trajo una silla from the adjacent",CS,restaurant,3,25,0.12,gpt
+139,"Cuando Andres llegó al restaurante inseperadamente, Lorenzo le trajo una silla from the adjacent",CS,room,11,25,0.44,gpt
+139,"Cuando Andres llegó al restaurante inseperadamente, Lorenzo le trajo una silla from the adjacent",CS,table,1,25,0.04,gpt
+139,"When Andres arrived unexpectedly at the restaurant, Lorenzo got him a chair from the adjacent",E,room,4,19,0.21052631578947367,gpt
+139,"When Andres arrived unexpectedly at the restaurant, Lorenzo got him a chair from the adjacent",E,table,15,19,0.7894736842105263,gpt
+140,Ella pensó que she had seen a,CS,bird,13,27,0.48148148148148145,gpt
+140,Ella pensó que she had seen a,CS,dog,13,27,0.48148148148148145,gpt
+140,Ella pensó que she had seen a,CS,ghost,1,27,0.037037037037037035,gpt
+140,She thought she had seen a,E,ghost,19,19,1,gpt
+141,Le preguntaron al joyero si podía examinar the ring's huge,CS,size,27,27,1,gpt
+141,The jeweler was asked if he would examine the ring's huge,E,gem,1,16,0.0625,gpt
+141,The jeweler was asked if he would examine the ring's huge,E,size,12,16,0.75,gpt
+141,The jeweler was asked if he would examine the ring's huge,E,stone,3,16,0.1875,gpt
+142,"Necesitaba un cable cargador especial, pero she couldn't find it inside her",CS,bag,14,17,0.8235294117647058,gpt
+142,"Necesitaba un cable cargador especial, pero she couldn't find it inside her",CS,house,1,17,0.058823529411764705,gpt
+142,"Necesitaba un cable cargador especial, pero she couldn't find it inside her",CS,purse,2,17,0.11764705882352941,gpt
+142,"She needed a special charging cable, but could not find it inside her",E,bag,8,19,0.42105263157894735,gpt
+142,"She needed a special charging cable, but could not find it inside her",E,drawer,11,19,0.5789473684210527,gpt
+143,He took a new cork screw and opened the,E,bottle,17,17,1,gpt
+143,Él agarró un sacacorchos nuevo and opened the,CS,bottle,16,16,1,gpt
+144,He folded out a big drying rack to dry the,E,clothes,16,16,1,gpt
+144,Él desdobló un gran drying rack to dry the,CS,clothes,18,18,1,gpt
+145,Ella agarró una jarra grande cerca de la canilla and filled it with,CS,water,18,18,1,gpt
+145,She grabbed a big pitcher near the sink and filled it with,E,water,16,16,1,gpt
+146,He got out a clean tissue to wipe his,E,nose,18,18,1,gpt
+146,Él sacó un pañuelo limpio to wipe his,CS,nose,17,17,1,gpt

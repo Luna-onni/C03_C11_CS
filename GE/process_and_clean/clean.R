@@ -1,5 +1,7 @@
 # library
 library(tidyverse)
+library(ggplot2)
+library(lme4)
 
 # import a key
 stimuli_df <- read.csv("../human_data/CodeSwitchingStimuli.csv") %>% 
@@ -124,14 +126,19 @@ highest_cloze_llms <- cloze_probs_llms %>%
   slice_max(cloze_probability, n = 1, with_ties = FALSE) %>%
   select(inner_number, Item, Itemtype, cloze_clean, cloze_probability)
 
-# lme
-modelNull <- lmer(cloze_probability ~ 1 + (1 | inner_number),
-                  data = highest_cloze)
+# import human cloze probs
+cloze_probs_human <- read_csv("../human_data/cloze_probability.csv") %>% 
+  select(-1) %>% 
+  mutate(participant = "human")
+# choose the highest cloze probs for each item
+highest_cloze_human <- cloze_probs_human %>%
+  group_by(inner_number, Item, Itemtype, participant) %>%
+  slice_max(cloze_probability, n = 1, with_ties = FALSE) %>%
+  select(inner_number, Item, Itemtype, cloze_clean, cloze_probability)
 
-model <- lmer(cloze_probability ~ Itemtype + (1 | inner_number),
-              data = highest_cloze)
+# merge llms and human
+highest_cloze_human$inner_number <- as.numeric(highest_cloze_human$inner_number)
+highest_cloze_llms$inner_number <- as.numeric(highest_cloze_llms$inner_number)
+highest_cloze_all <- bind_rows(highest_cloze_human, highest_cloze_llms)
 
-summary(model)
-anova(modelNull, model)
-
-# plot
+write_csv(highest_cloze_all, "highest_cloze_all.csv")
