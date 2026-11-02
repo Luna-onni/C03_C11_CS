@@ -8,20 +8,36 @@ stimuli_df <- read.csv("../human_data/CodeSwitchingStimuli.csv") %>%
   rename(Item = item)
 
 # import data
-claude_raw <- read_csv("../llm_data/llm_anthropic-claude-opus-4.6.csv")
-mistral_raw <- read_csv("../llm_data/llm_mistralai-ministral-8b-2512.csv")
-gpt_raw <- read_csv("../llm_data/llm_Openai GPT OSS 120B.csv")
+#claude_raw <- read_csv("../llm_data/llm_anthropic-claude-opus-4.6.csv")
+#mistral_raw <- read_csv("../llm_data/llm_mistralai-ministral-8b-2512.csv")
+gpt_low_raw <- read_csv("../llm_data/llm_openai-gpt-oss-120b_r_low.csv")
+gpt_medium_raw <- read_csv("../llm_data/llm_openai-gpt-oss-120b_r_medium.csv")
+gpt_high_raw <- read_csv("../llm_data/llm_openai-gpt-oss-120b_r_high.csv")
 
 # clean NAs
 #colSums(is.na(gpt_raw))
-claude_clean <- na.omit(claude_raw)
-mistral_clean <- na.omit(mistral_raw)
-gpt_clean <- na.omit(gpt_raw)
+#claude_clean <- na.omit(claude_raw)
+#mistral_clean <- na.omit(mistral_raw)
+clean <- function(df) {
+  df |>
+    dplyr::mutate(
+      Completion = ifelse(
+        is.na(Completion) | tolower(trimws(Completion)) == "none",
+        NA,
+        Completion
+      )
+    ) |>
+    na.omit()
+}
+
+gpt_low_clean <- clean(gpt_low_raw)
+gpt_medium_clean <- clean(gpt_medium_raw)
+gpt_high_clean <- clean(gpt_high_raw)
 
 # assign information and clean
 # claude
 claude_merged <- left_join(claude_clean, stimuli_unique, by = "Item") %>% 
-  #filter(inner_number != "filler21") %>% 
+  filter(inner_number != "filler21") %>% 
   select(ID, inner_number, Itemtype, Item, Completion, Best_completion, Unexpected_word, Sentence_length, Sentence_words) %>% 
   mutate(
   # G if first character is uppercase, else E
@@ -42,7 +58,7 @@ claude_merged <- left_join(claude_clean, stimuli_unique, by = "Item") %>%
 
 # mistral
 mistral_merged <- left_join(mistral_clean, stimuli_unique, by = "Item") %>% 
-  #filter(inner_number != "filler21") %>% 
+  filter(inner_number != "filler21") %>% 
   select(ID, inner_number, Itemtype, Item, Completion, Best_completion, Unexpected_word, Sentence_length, Sentence_words) %>% 
   mutate(
     # G if first character is uppercase, else E
@@ -62,7 +78,28 @@ mistral_merged <- left_join(mistral_clean, stimuli_unique, by = "Item") %>%
   )
 
 # gpt
-gpt_merged <- left_join(gpt_clean, stimuli_unique, by = "Item") %>% 
+gpt_low_merged <- left_join(gpt_low_clean, stimuli_unique, by = "Item") %>% 
+  filter(inner_number != "filler21") %>% 
+  select(ID, inner_number, Itemtype, Item, Completion, Best_completion, Unexpected_word, Sentence_length, Sentence_words) %>% 
+  mutate(
+    # G if first character is uppercase, else E
+    Language = if_else(!is.na(Completion) & str_detect(Completion, "^[[:upper:]]"), "G", "E"),
+    # empty column (name as written)
+    English_tranlsation = NA_character_,
+    # remove % and everything after, lowercase, drop punctuation and spaces
+    cloze_clean = Completion %>%
+      str_replace("%.*$", "") %>%
+      str_to_lower() %>%
+      str_replace_all("[[:punct:][:space:]]+", ""),
+    # empty columns
+    exclusion_explanation = NA_character_,
+    exclusion_liberal = NA_character_,
+    conservation_exclusion = NA_character_,
+    comments = NA_character_
+  )
+
+
+gpt_medium_merged <- left_join(gpt_medium_clean, stimuli_unique, by = "Item") %>% 
   #filter(inner_number != "filler21") %>% 
   select(ID, inner_number, Itemtype, Item, Completion, Best_completion, Unexpected_word, Sentence_length, Sentence_words) %>% 
   mutate(
@@ -82,11 +119,33 @@ gpt_merged <- left_join(gpt_clean, stimuli_unique, by = "Item") %>%
     comments = NA_character_
   )
 
+gpt_high_merged <- left_join(gpt_high_clean, stimuli_unique, by = "Item") %>% 
+  #filter(inner_number != "filler21") %>% 
+  select(ID, inner_number, Itemtype, Item, Completion, Best_completion, Unexpected_word, Sentence_length, Sentence_words) %>% 
+  mutate(
+    # G if first character is uppercase, else E
+    Language = if_else(!is.na(Completion) & str_detect(Completion, "^[[:upper:]]"), "G", "E"),
+    # empty column (name as written)
+    English_tranlsation = NA_character_,
+    # remove % and everything after, lowercase, drop punctuation and spaces
+    cloze_clean = Completion %>%
+      str_replace("%.*$", "") %>%
+      str_to_lower() %>%
+      str_replace_all("[[:punct:][:space:]]+", ""),
+    # empty columns
+    exclusion_explanation = NA_character_,
+    exclusion_liberal = NA_character_,
+    conservation_exclusion = NA_character_,
+    comments = NA_character_
+  )
+
+
 # save to csv
 #write_csv(claude_merged, "claude_clean.csv")
 #write_csv(mistral_merged, "mistral_clean.csv")
-#write_csv(gpt_merged, "gpt_clean.csv")
-
+write_csv(gpt_low_merged, "gpt_low_clean.csv")
+write_csv(gpt_medium_merged, "gpt_medium_clean.csv")
+write_csv(gpt_high_merged, "gpt_high_clean.csv")
 
 # compute cloze probs for each llm
 # claude
@@ -104,24 +163,49 @@ cloze_probs_mistral <- mistral_merged %>%
          cloze_probability = n / total) %>%
   ungroup()
 # gpt
-cloze_probs_gpt <- gpt_merged %>%
+cloze_probs_gpt_low <- gpt_low_merged %>%
   group_by(inner_number, Item, Itemtype, cloze_clean) %>%
   summarise(n = n_distinct(ID), .groups = "drop_last") %>%
   mutate(total = sum(n),
          cloze_probability = n / total) %>%
   ungroup()
 
+cloze_probs_gpt_medium <- gpt_medium_merged %>%
+  group_by(inner_number, Item, Itemtype, cloze_clean) %>%
+  summarise(n = n_distinct(ID), .groups = "drop_last") %>%
+  mutate(total = sum(n),
+         cloze_probability = n / total) %>%
+  ungroup()
+
+cloze_probs_gpt_high <- gpt_high_merged %>%
+  group_by(inner_number, Item, Itemtype, cloze_clean) %>%
+  summarise(n = n_distinct(ID), .groups = "drop_last") %>%
+  mutate(total = sum(n),
+         cloze_probability = n / total) %>%
+  ungroup()
+
+# merge gpt's cloze probs
+cloze_probs_gpt <- bind_rows(cloze_probs_gpt_low %>% mutate(participant = "gpt_low"),
+                             cloze_probs_gpt_medium %>% mutate(participant = "gpt_medium"),
+                             cloze_probs_gpt_high %>% mutate(participant = "gpt_high"))
+
+#write_csv(cloze_probs_gpt, "cloze_probs_gpt.csv")
+
 # merge llms' cloze probs
-cloze_probs_llms <- bind_rows(
-  cloze_probs_claude  %>% mutate(participant = "claude"),
-  cloze_probs_mistral %>% mutate(participant = "mistral"),
-  cloze_probs_gpt     %>% mutate(participant = "gpt")
-)
+#cloze_probs_llms <- bind_rows(
+  #cloze_probs_claude  %>% mutate(participant = "claude"),
+  #cloze_probs_mistral %>% mutate(participant = "mistral"),
+  #cloze_probs_gpt     %>% mutate(participant = "gpt"))
 
 #write_csv(cloze_probs_llms, "cloze_probs_llms.csv")
 
 # choose the highest cloze probs for each item
 highest_cloze_llms <- cloze_probs_llms %>%
+  group_by(inner_number, Item, Itemtype, participant) %>%
+  slice_max(cloze_probability, n = 1, with_ties = FALSE) %>%
+  select(inner_number, Item, Itemtype, cloze_clean, cloze_probability)
+
+highest_cloze_gpt <- cloze_probs_gpt %>%
   group_by(inner_number, Item, Itemtype, participant) %>%
   slice_max(cloze_probability, n = 1, with_ties = FALSE) %>%
   select(inner_number, Item, Itemtype, cloze_clean, cloze_probability)
@@ -141,4 +225,11 @@ highest_cloze_human$inner_number <- as.numeric(highest_cloze_human$inner_number)
 highest_cloze_llms$inner_number <- as.numeric(highest_cloze_llms$inner_number)
 highest_cloze_all <- bind_rows(highest_cloze_human, highest_cloze_llms)
 
-write_csv(highest_cloze_all, "highest_cloze_all.csv")
+#write_csv(highest_cloze_all, "highest_cloze_all.csv")
+
+# merge gpt and human
+highest_cloze_human$inner_number <- as.numeric(highest_cloze_human$inner_number)
+highest_cloze_gpt$inner_number <- as.numeric(highest_cloze_gpt$inner_number)
+highest_cloze_human_gpt <- bind_rows(highest_cloze_human, highest_cloze_gpt)
+
+write_csv(highest_cloze_human_gpt, "highest_cloze_human_gpt.csv")
