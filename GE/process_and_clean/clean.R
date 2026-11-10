@@ -6,13 +6,13 @@ library(lme4)
 
 # set working path
 setwd("/Users/zliu/Documents/C03_C11/GE")
-# import a key file
+# load a key file
 stimuli_df <- read.csv("human_data/CodeSwitchingStimuli.csv") %>% 
   rename(Item = item)
 stimuli_unique <- stimuli_df %>%
   distinct(Item, .keep_all = TRUE)
 
-# import data
+# load data
 #claude_raw <- read_csv("llm_data/llm_anthropic-claude-opus-4.6.csv")
 #mistral_raw <- read_csv("llm_data/llm_mistralai-ministral-8b-2512.csv")
 gpt_t0_raw <- read_csv("llm_data/llm_gpt-oss-120b_r_low_t0.csv")
@@ -21,6 +21,8 @@ gpt_t4_raw <- read_csv("llm_data/llm_gpt-oss-120b_r_low_t4.csv")
 gpt_t6_raw <- read_csv("llm_data/llm_gpt-oss-120b_r_low_t6.csv")
 gpt_t8_raw <- read_csv("llm_data/llm_gpt-oss-120b_r_low_t8.csv")
 gpt_t10_raw <- read_csv("llm_data/llm_gpt-oss-120b_r_low_t10.csv")
+gpt_t12_raw <- read_csv("llm_data/llm_gpt-oss-120b_r_low_t12.csv")
+gpt_t14_raw <- read_csv("llm_data/llm_gpt-oss-120b_r_low_t14.csv")
 
 # clean NAs
 clean <- function(df) {
@@ -40,6 +42,8 @@ gpt_t4_clean <- clean(gpt_t4_raw)
 gpt_t6_clean <- clean(gpt_t6_raw)
 gpt_t8_clean <- clean(gpt_t8_raw)
 gpt_t10_clean <- clean(gpt_t10_raw)
+gpt_t12_clean <- clean(gpt_t12_raw)
+gpt_t14_clean <- clean(gpt_t14_raw)
 
 # assign information and clean
 process_dataset <- function(data, stimuli_unique) {
@@ -76,7 +80,8 @@ gpt_t4_merged <- process_dataset(gpt_t4_clean, stimuli_unique)
 gpt_t6_merged <- process_dataset(gpt_t6_clean, stimuli_unique)
 gpt_t8_merged <- process_dataset(gpt_t8_clean, stimuli_unique)
 gpt_t10_merged <- process_dataset(gpt_t10_clean, stimuli_unique)
-
+gpt_t12_merged <- process_dataset(gpt_t12_clean, stimuli_unique)
+gpt_t14_merged <- process_dataset(gpt_t14_clean, stimuli_unique)
 
 
 # compute cloze probs for each llm
@@ -101,6 +106,8 @@ cloze_probs_gpt_t4 <- compute_cloze_probs(gpt_t4_merged)
 cloze_probs_gpt_t6 <- compute_cloze_probs(gpt_t6_merged)
 cloze_probs_gpt_t8 <- compute_cloze_probs(gpt_t8_merged)
 cloze_probs_gpt_t10 <- compute_cloze_probs(gpt_t10_merged)
+cloze_probs_gpt_t12 <- compute_cloze_probs(gpt_t12_merged)
+cloze_probs_gpt_t14 <- compute_cloze_probs(gpt_t14_merged)
 
 # merge gpt's cloze probs
 cloze_probs_gpt <- bind_rows(cloze_probs_gpt_t0 %>% mutate(participant = "gpt_t0"),
@@ -108,7 +115,9 @@ cloze_probs_gpt <- bind_rows(cloze_probs_gpt_t0 %>% mutate(participant = "gpt_t0
                              cloze_probs_gpt_t4 %>% mutate(participant = "gpt_t4"),
                              cloze_probs_gpt_t6 %>% mutate(participant = "gpt_t6"),
                              cloze_probs_gpt_t8 %>% mutate(participant = "gpt_t8"),
-                             cloze_probs_gpt_t10 %>% mutate(participant = "gpt_t10"))
+                             cloze_probs_gpt_t10 %>% mutate(participant = "gpt_t10"),
+                             cloze_probs_gpt_t12 %>% mutate(participant = "gpt_t12"),
+                             cloze_probs_gpt_t14 %>% mutate(participant = "gpt_t14"))
 
 
 #write_csv(cloze_probs_gpt, "cloze_probs_gpt.csv")

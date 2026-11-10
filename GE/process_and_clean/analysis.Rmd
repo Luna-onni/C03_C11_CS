@@ -13,6 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r cars}
 library(tidyverse)
+library(dplyr)
 library(ggplot2)
 library(lme4)
 library(transport)
@@ -21,6 +22,7 @@ highest_cloze_human_gpt <- read_csv("/Users/zliu/Documents/C03_C11/GE/process_an
 ```
 
 ## Visulize the cloze
+
 ```{r all models}
 # plot
 set.seed(123)  # reproducible jitter
@@ -74,7 +76,6 @@ ggplot(highest_cloze_all, aes(x = Itemtype, y = cloze_probability)) +
 
 ```
 
-
 ```{r only human and gpt models}
 # plot
 set.seed(123)  # reproducible jitter
@@ -126,22 +127,21 @@ ggplot(highest_cloze_human_gpt, aes(x = Itemtype, y = cloze_probability)) +
     plot.title = element_text(face = "bold")
   )
 ```
-```{r}
-wasserstein_distance <- function(x, y) {
 
+```{r calculate Wasserstein distance}
+# define a function
+wasserstein_distance <- function(x, y) {
   x <- x[!is.na(x)]
   y <- y[!is.na(y)]
-
   if (length(x) == 0 || length(y) == 0) {
     return(NA_real_)
   }
-
   transport::wasserstein1d(x, y, p = 1)
 }
-# calculate wasserstein distance
+# extract human's cloze probability
 human_data <- highest_cloze_human_gpt %>%
   filter(participant == "human")
-
+# 
 gpt_data <- highest_cloze_human_gpt %>%
   filter(participant != "human")
 
@@ -163,51 +163,120 @@ print(wasserstein_results)
 # Set the order of time points
 wasserstein_results <- wasserstein_results %>%
   mutate(
-    participant = factor(
-      participant,
-      levels = c("gpt_t0", "gpt_t2", "gpt_t4", "gpt_t6", "gpt_t8", "gpt_t10")
-    ),
-    Itemtype = factor(
-      Itemtype,
-      levels = c("English", "code_switching"),
-      labels = c("English", "Code-switching")
-    )
+    participant = factor(participant, levels = c("gpt_t0", "gpt_t2", "gpt_t4", "gpt_t6", "gpt_t8", "gpt_t10", "gpt_t12", "gpt_t14")),
+    Itemtype = factor(Itemtype, levels = c("English", "code_switching"), labels = c("English", "Code-switching"))
   )
 
 # Plot
-ggplot(
-  wasserstein_results,
-  aes(
-    x = participant,
-    y = wasserstein_distance,
-    group = Itemtype,
-    color = Itemtype
-  )
-) +
+ggplot(wasserstein_results, aes(x = participant, y = wasserstein_distance, group = Itemtype, color = Itemtype)) +
   geom_line(linewidth = 1.2) +
   geom_point(size = 3.5) +
-  scale_color_manual(
-    values = c(
-      "English" = "#3B6FB6",
-      "Code-switching" = "#D97A00"
-    )
-  ) +
+  scale_color_manual(values = c("English" = "#3B6FB6","Code-switching" = "#D97A00")) +
   labs(
     title = "Wasserstein Distance from Human Distribution",
     x = "GPT Temperature",
     y = "Wasserstein Distance",
     color = "Language Condition"
   ) +
+  scale_x_discrete(labels = c("gpt_t0" = "0.0", "gpt_t2" = "0.2", "gpt_t4" = "0.4", "gpt_t6" = "0.6", "gpt_t8" = "0.8", "gpt_t10" = "1.0", "gpt_t12" = "1.2", "gpt_t14" = "1.4")) +
   theme_minimal(base_size = 16) +
-  theme(
-    plot.title = element_text(face = "bold"),
-    legend.position = "bottom"
-  )
+  theme(plot.title = element_text(face = "bold"),legend.position = "bottom")
 
 ```
 
+```{r}
+# calculate KL-divergence
+calculate_KL <- function(human, gpt) {
+
+  human <- human[is.finite(human)]
+  gpt <- gpt[is.finite(gpt)]
+
+  if (length(human) < 2 || length(gpt) < 2) {
+    return(NA_real_)
+  }
+
+  # Common evaluation grid
+  x_grid <- seq(
+    min(c(human, gpt)),
+    max(c(human, gpt)),
+    length.out = 2048
+  )
+
+  # Estimate density
+  p <- density(human, from = min(x_grid),
+               to = max(x_grid), n = 2048)
+
+  q <- density(gpt, from = min(x_grid),
+               to = max(x_grid), n = 2048)
+
+  # Avoid zero densities
+  eps <- 1e-12
+
+  p_values <- approx(p$x, p$y, xout = x_grid)$y + eps
+  q_values <- approx(q$x, q$y, xout = x_grid)$y + eps
+
+  # Normalize
+  p_values <- p_values / sum(p_values)
+  q_values <- q_values / sum(q_values)
+
+  # KL divergence
+  sum(p_values * log(p_values / q_values))
+}
+
+KL_results <- gpt_data %>%
+  distinct(participant, Itemtype) %>%
+  group_by(participant, Itemtype) %>%
+  group_modify(~ {
+
+    current_model <- .y$participant
+    current_itemtype <- .y$Itemtype
+
+    human_values <- human_data %>%
+      filter(Itemtype == current_itemtype) %>%
+      pull(cloze_probability)
+
+    gpt_values <- gpt_data %>%
+      filter(
+        participant == current_model,
+        Itemtype == current_itemtype
+      ) %>%
+      pull(cloze_probability)
+
+    tibble(
+      KL_divergence = calculate_KL(
+        human_values,
+        gpt_values
+      )
+    )
+  }) %>%
+  ungroup()
+
+print(KL_results)
+
+# plot
+ggplot(KL_results, 
+       aes(x = participant, 
+           y = KL_divergence, 
+           fill = Itemtype)) +
+  geom_col(position = "dodge") +
+  theme_minimal() +
+  labs(
+    x = "GPT model",
+    y = "KL divergence",
+    fill = "Itemtype"
+  ) +
+  theme(
+    axis.text.x = element_text(
+      angle = 45,
+      hjust = 1
+    )
+  )
+```
+
 ## LME model
+
 ### prepare the data and check fixed effects
+
 ```{r}
 # transfer to factor and set the baseline
 highest_cloze_all <- highest_cloze_all %>%
@@ -234,9 +303,11 @@ anova(m1, m2)
 m3 <- lmer(cloze_probability ~ participant * Itemtype + (1 | inner_number), data = highest_cloze_all, REML = FALSE)
 anova(m2, m3)
 ```
+
 The anova results show that there are significant participant and Itemtype effets, and the interaction effect of participant and Itemtype.
 
 ### final LME model
+
 ```{r}
 # in the final model, we change REML = TRUE
 model <- lmer(cloze_probability ~ participant * Itemtype + (1 | inner_number), data = highest_cloze_all, REML = TRUE)
@@ -245,7 +316,6 @@ summary(model)
 
 Participant effect: The highest cloze probability of human under English condition is 0.74, all LLMs have higher cloze probability than human (Claude = 0.26, GPT = 0.22, Mistral = 0.24), indicating that participant has significant effects and LLMs achieve higher cloze probability than human under English condition.
 
-Itemtype effect: Humans are not sensitive to Itemtype (-0.009740). 
+Itemtype effect: Humans are not sensitive to Itemtype (-0.009740).
 
 Interaction effect: compare to human, Claude and Mistral are not affected by the Itemtype, while GPT achieves lower cloze probability under code-switching condition (GPT + English = 0.741 + 0.22 = 0.963, GPT + code-switching = 0.963 - 0.0097 - 0.0665 ≈ 0.887).
-
